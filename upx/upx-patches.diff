@@ -1,0 +1,56 @@
+diff --git a/.github/travis_build.sh b/.github/travis_build.sh
+index 2e63a97..b2666c1 100644
+--- a/.github/travis_build.sh
++++ b/.github/travis_build.sh
+@@ -94,12 +94,12 @@ fi
+ 
+ cd / && cd "$ucl_BUILDDIR" || exit 1
+ # patch UCL
+-sed 's/^#elif (ACC_ARCH_AMD64 || ACC_ARCH_IA64)$/& \&\& !defined(__ILP32__)/' $ucl_SRCDIR/acc/acc_chk.ch > a.tmp
+-if cmp -s a.tmp $ucl_SRCDIR/acc/acc_chk.ch; then rm a.tmp; else mv a.tmp $ucl_SRCDIR/acc/acc_chk.ch; fi
++sed 's/^#elif (ACC_ARCH_AMD64 || ACC_ARCH_IA64)$/& \&\& !defined(__ILP32__)/' acc/acc_chk.ch > a.tmp
++if cmp -s a.tmp $ucl_SRCDIR/acc/acc_chk.ch; then rm a.tmp; else mv a.tmp acc/acc_chk.ch; fi
+ if [[ $BUILD_LOCAL_UCL == 1 ]]; then
+     # ucl-1.03/configure is too old - build manually
+     rm -f ./*.o libucl.a
+-    $CC -O2 -I$ucl_SRCDIR/include -I$ucl_SRCDIR -c $ucl_SRCDIR/src/*.c
++    $CC -O3 -flto --no-ident -Iinclude -I. -std=gnu89 -c src/*.c
+     $AR rcs libucl.a *.o
+     mkdir -p src/.libs
+     cp libucl.a src/.libs
+diff --git a/src/Makefile b/src/Makefile
+index 6681169..88608bb 100644
+--- a/src/Makefile
++++ b/src/Makefile
+@@ -60,7 +60,7 @@ ifneq ($(wildcard $(UPX_UCLDIR)/include/ucl/ucl.h),)
+   INCLUDES += -I$(UPX_UCLDIR)/include
+   LIBS += $(addprefix -L,$(dir $(wildcard $(UPX_UCLDIR)/libucl$(libext) $(UPX_UCLDIR)/src/.libs/libucl$(libext))))
+ endif
+-LIBS += -lucl -lz
++LIBS += -lucl -lzlibstatic
+ # LZMA from https://github.com/upx/upx-lzma-sdk
+ include $(top_srcdir)/src/stub/src/c/Makevars.lzma
+ 
+@@ -68,7 +68,7 @@ include $(top_srcdir)/src/stub/src/c/Makevars.lzma
+ ifeq ($(BUILD_TYPE_DEBUG),1)
+   CXXFLAGS_OPTIMIZE ?= -O0 -g
+ else
+-  CXXFLAGS_OPTIMIZE ?= -O2
++  CXXFLAGS_OPTIMIZE ?= -O3
+ endif
+ ifeq ($(BUILD_TYPE_SANITIZE),1)
+   # full sanitizer
+diff --git a/src/conf.h b/src/conf.h
+index dfc198f..b4674be 100644
+--- a/src/conf.h
++++ b/src/conf.h
+@@ -148,9 +148,6 @@ typedef unsigned char   upx_byte;
+ #  define ucl_compress_config_t REAL_ucl_compress_config_t
+ #  include <ucl/uclconf.h>
+ #  include <ucl/ucl.h>
+-#  if !defined(UCL_VERSION) || (UCL_VERSION < 0x010300L)
+-#    error "please upgrade your UCL installation"
+-#  endif
+ #  undef ucl_compress_config_t
+ #  undef ucl_compress_config_p
+ #endif
