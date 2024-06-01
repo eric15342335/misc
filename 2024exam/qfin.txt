@@ -1,0 +1,102 @@
+May 6 MON 	9:30 am - 11:30 am 		COMP3360 	Data-driven computer animation 	Rm 5 Library Ext.
+May 6 MON 	9:30 am - 11:30 am 		FINA2342 	Insurance: theory & practice 	Loke Yew Hall
+May 6 MON 	9:30 am - 11:30 am 		FINA4341 	Quantitative risk management 	Room 1121, K.K. Leung Bldg.
+May 6 MON 	9:30 am - 12:00 noon 		MATH3601 	Numerical analysis 	Rm 6 Library Ext.
+				Numerical analysis 	Rm 7 Library Ext.
+May 6 MON 	2:30 pm - 4:30 pm 		COMP3317 	Computer vision 	Rm 6 Library Ext.
+				Computer vision 	Rm 7 Library Ext.
+May 6 MON 	2:30 pm - 4:30 pm 		ECON1220 	Introductory macroeconomics 	3/F, Multi-purpose Zone, Main Library
+				Introductory macroeconomics 	Loke Yew Hall
+				Introductory macroeconomics 	Rm 103 Main Bldg.
+				Introductory macroeconomics 	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introductory macroeconomics 	Rm 167 Main Bldg.
+May 6 MON 	6:30 pm - 8:00 pm 		ECON2210 	Intermediate microeconomics 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 7 TUE 	9:30 am - 11:30 am 		COMP3329 	Computer game design and programming 	3/F, Multi-purpose Zone, Main Library
+May 7 TUE 	9:30 am - 12:00 noon 		MATH2241 	Introduction to mathematical analysis 	Rm 237 Main Bldg.
+May 7 TUE 	2:30 pm - 4:30 pm 		ACCT3103 	Intermediate financial accounting II 	Rm 2 Library Ext.
+				Intermediate financial accounting II 	Rm 3 Library Ext.
+May 7 TUE 	2:30 pm - 4:30 pm 		FINA1310 	Corporate finance 	CPD-LG.07-10, Centennial Campus
+				Corporate finance 	Loke Yew Hall
+				Corporate finance 	Rm 103 Main Bldg.
+May 7 TUE 	2:30 pm - 5:00 pm 		MATH3403 	Functions of a complex variable 	Rm 237 Main Bldg.
+May 8 WED 	9:30 am - 12:30 pm 		COMP2121 	Discrete mathematics 	3/F, Multi-purpose Zone, Main Library
+May 8 WED 	9:30 am - 12:30 pm 		ELEC2543 	Object-Oriented programming and data structures 	Rm 7 Library Ext.
+May 8 WED 	9:30 am - 11:30 am 		GEOG1017 	Human geography in a globalizing world 	Loke Yew Hall
+				Human geography in a globalizing world 	Rm 103 Main Bldg.
+				Human geography in a globalizing world 	Rm 167 Main Bldg.
+May 8 WED 	2:30 pm - 4:30 pm 		ECON3215 	Uncertainty and information 	Rm 256 Main Bldg.
+May 8 WED 	2:30 pm - 4:30 pm 		FINA2320 	Investments and portfolio analysis 	CPD-LG.07-10, Centennial Campus
+				Investments and portfolio analysis 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 8 WED 	2:30 pm - 4:30 pm 		FINA3323 	Fixed income securities 	CPD-LG.07-10, Centennial Campus
+May 8 WED 	6:30 pm - 9:00 pm 		MATH2101 	Linear algebra I 	Loke Yew Hall
+May 9 THU 	9:30 am - 11:30 am 		ACCT2105 	Introduction to management accounting 	Rm 2 Library Ext.
+				Introduction to management accounting 	Rm 3 Library Ext.
+				Introduction to management accounting 	Rm 4 Library Ext.
+May 9 THU 	9:30 am - 11:30 am 		FINA2382 	Real estate finance 	Rm 217 Main Bldg.
+				Real estate finance 	Rm 218 Main Bldg.
+May 9 THU 	9:30 am - 11:30 am 		PSYC1001 	Introduction to psychology 	Loke Yew Hall
+				Introduction to psychology 	Rm 103 Main Bldg.
+May 9 THU 	2:30 pm - 4:30 pm 		COMP2501 	Introduction to Data Science and Engineering 	Rm 2 Library Ext.
+				Introduction to Data Science and Engineering 	Rm 3 Library Ext.
+May 9 THU 	2:30 pm - 4:30 pm 		COMP3270 	Artificial intelligence 	Rm 8 Library Ext.
+				Artificial intelligence 	Rm 9 Library Ext.
+May 9 THU 	2:30 pm - 4:30 pm 		SOCI2001 	Classical social theory 	Rm 6 Library Ext.
+				Classical social theory 	Rm 7 Library Ext.
+May 9 THU 	6:30 pm - 8:30 pm 		STAT2601 	Probability and statistics I 	3/F, Multi-purpose Zone, Main Library
+May 10 FRI 	9:30 am - 12:30 pm 		COMP2119 	Introduction to data structures and algorithms 	3/F, Multi-purpose Zone, Main Library
+May 10 FRI 	9:30 am - 11:30 am 		FINA2312 	Advanced corporate finance 	Rm 217 Main Bldg.
+				Advanced corporate finance 	Rm 218 Main Bldg.
+May 10 FRI 	9:30 am - 11:30 am 		FINA2383 	International financial management 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 10 FRI 	9:30 am - 12:00 noon 		FINA3334 	Private banking and wealth management 	Rm 4 Library Ext.
+May 10 FRI 	2:30 pm - 4:30 pm 		ECON2280 	Introductory econometrics 	Rm 217 Main Bldg.
+				Introductory econometrics 	Rm 218 Main Bldg.
+May 10 FRI 	6:30 pm - 9:30 pm 		COMP3251 	Algorithm design 	Loke Yew Hall
+May 10 FRI 	6:30 pm - 9:30 pm 		COMP3252 	Algorithm design and analysis 	Loke Yew Hall
+May 11 SAT 	9:30 am - 11:30 am 		COMP1117 	Computer programming 	Loke Yew Hall
+				Computer programming 	Rm 103 Main Bldg.
+May 11 SAT 	9:30 am - 11:30 am 		COMP2113 	Programming technologies 	Rm 4 Library Ext.
+				Programming technologies 	Rm 5 Library Ext.
+May 11 SAT 	9:30 am - 11:30 am 		GEOG2149 	Financial geography 	Rm 237 Main Bldg.
+May 11 SAT 	2:30 pm - 5:00 pm 		COMP3297 	Software engineering 	Loke Yew Hall
+May 11 SAT 	2:30 pm - 4:30 pm 		ECON2214 	Games and decisions 	Rm 237 Main Bldg.
+May 11 SAT 	6:30 pm - 8:30 pm 		ACCT3107 	Hong Kong taxation 	Loke Yew Hall
+May 11 SAT 	6:30 pm - 9:30 pm 		CCST9027 	The Science of Irrational Thinking 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 11 SAT 	6:30 pm - 8:30 pm 		STAT2602 	Probability and statistics II 	CPD-LG.07-10, Centennial Campus
+May 13 MON 	9:30 am - 11:00 am 		GEOG1005 	Map use, reading and interpretation 	3/F, Multi-purpose Zone, Main Library
+May 13 MON 	9:30 am - 12:00 noon 		IIMT2641 	Introduction to business analytics 	Rm 103 Main Bldg.
+May 13 MON 	2:30 pm - 4:30 pm 		BUSI3801 	Business law 	Rm 217 Main Bldg.
+				Business law 	Rm 218 Main Bldg.
+May 13 MON 	2:30 pm - 5:30 pm 		COMP2120 	Computer organization 	Loke Yew Hall
+				Computer organization 	Rm 103 Main Bldg.
+				Computer organization 	Rm 167 Main Bldg.
+May 13 MON 	2:30 pm - 4:30 pm 		FINA3382 	Structured Finance and Securitization 	Rm 2 Library Ext.
+May 13 MON 	2:30 pm - 5:00 pm 		MATH3304 	Introduction to number theory 	Rm 201 Main Bldg.
+May 13 MON 	6:30 pm - 9:30 pm 		COMP3234 	Computer and communication networks 	3/F, Multi-purpose Zone, Main Library
+May 13 MON 	6:30 pm - 8:30 pm 		COMP3322 	Modern Technologies on World Wide Web 	Loke Yew Hall
+May 14 TUE 	9:30 am - 12:00 noon 		MATH2014 	Multivariable calculus and linear algebra 	Loke Yew Hall
+				Multivariable calculus and linear algebra 	Rm 103 Main Bldg.
+May 14 TUE 	9:30 am - 12:00 noon 		MATH3911 	Game theory and strategy 	Rm 237 Main Bldg.
+May 14 TUE 	2:30 pm - 5:30 pm 		BSTC2020 	Sanskrit Language II 	Rm 2 Library Ext.
+May 14 TUE 	2:30 pm - 5:30 pm 		ECON4214 	Advanced Game Theory 	Rm 3 Library Ext.
+May 14 TUE 	2:30 pm - 5:00 pm 		FINA2330 	Financial markets and institutions 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 14 TUE 	6:30 pm - 8:30 pm 		ECON2220 	Intermediate macroeconomics 	3/F, Multi-purpose Zone, Main Library
+May 16 THU 	2:30 pm - 5:00 pm 		ACCT4104 	Advanced financial accounting 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 THU 	2:30 pm - 5:30 pm 		BSTC2018 	Tibetan language II 	Rm 7 Library Ext.
+May 16 THU 	2:30 pm - 4:30 pm 		COMP3259 	Principles of programming languages 	Rm 201 Main Bldg.
+May 16 THU 	2:30 pm - 4:00 pm 		CUND9003 	Cantonese for Non-Cantonese Speaking Students 	3/F, Multi-purpose Zone, Main Library
+May 16 THU 	2:30 pm - 4:00 pm 		ECON3234 	Behavioural Economics 	Loke Yew Hall
+May 17 FRI 	9:30 am - 11:30 am 		ECON3283 	Economic forecasting 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 17 FRI 	9:30 am - 11:30 am 		FINA4350 	Text Analytics and Natural Language Processing in Finance and Fintech 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 17 FRI 	2:30 pm - 5:00 pm 		MATH2102 	Linear algebra II 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 17 FRI 	2:30 pm - 4:30 pm 		SCNC1111 	Scientific method and reasoning 	3/F, Multi-purpose Zone, Main Library
+May 17 FRI 	6:30 pm - 8:30 pm 		STAT1600 	Statistics: ideas and concepts 	CPD-LG.07-10, Centennial Campus
+May 18 SAT 	9:30 am - 11:30 am 		FINA3351 	Spreadsheet financial modeling 	Rm 610, K.K. Leung Bldg.
+May 18 SAT 	2:30 pm - 4:30 pm 		ACCT3109 	Auditing 	Loke Yew Hall
+May 18 SAT 	2:30 pm - 4:30 pm 		PHYS1055 	How things work 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 18 SAT 	6:30 pm - 9:00 pm 		MATH2211 	Multivariable calculus 	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 20 MON 	2:30 pm - 4:30 pm 		CCST9012 	Our Place in the Universe 	Loke Yew Hall
+May 20 MON 	2:30 pm - 5:30 pm 		COMP3316 	Quantum information and computation 	Rm 201 Main Bldg.
+May 20 MON 	2:30 pm - 4:30 pm 		FINA3326 	Equity valuation and investment management 	Loke Yew Hall
+May 20 MON 	6:30 pm - 8:30 pm 		ECON2262 	Economic development 	Loke Yew Hall
+May 20 MON 	6:30 pm - 9:00 pm 		MATH3405 	Differential equations 	Rm 201 Main Bldg.
+May 20 MON 	6:30 pm - 8:30 pm 		STAT3600 	Linear statistical analysis 	Loke Yew Hall 

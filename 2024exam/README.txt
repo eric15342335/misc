@@ -1,0 +1,1 @@
+cat *.txt | grep -E "[A-Z]{4}" --only-matching | sort | uniq -c | sort -r
