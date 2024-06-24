@@ -1,0 +1,25 @@
+* This is an unofficial binary distribution. *
+Original Author
+- FamTrinli
+Video title
+- Let's make 16 games in C++: Minesweeper
+Video link
+- https://www.youtube.com/watch?v=c8wswUEfnrQ
+Download source
+- https://drive.google.com/uc?export=download&id=1X24AF6OYBp0dFDdjtTx0nlTrGOHb4uRr
+Library
+- Simple and Fast Multimedia Library (SFML) 2.6.1
+Distributor
+- eric15342335
+Installer
+- Inno Setup 6.3.1
+Date of release
+- June 24, 2024 (UTC+8)
+Compiler
+- g++ (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r2) 14.1.0
+Compilation
+- g++ main.cpp -s -march=haswell -mtune=native -Os -flto -D_FORTIFY_SOURCE=2 -fstack-protector-strong --no-ident -isystem SFML/include -LSFML/lib -static -Wl,-Bstatic -lsfml-graphics-s -lsfml-window-s -lsfml-system-s -lopengl32 -lwinmm -lgdi32 -Wl,-subsystem,windows
+Build info
+- Release build, debug symbol stripped, statically linked, AVX2 required.
+
+Thanks for reading the text to the end!
