@@ -1,5 +1,5 @@
 /* How to compile small hello world program using MSVC
-cl hi.c -O1 -Oy- -MD -GL -D_HAS_EXCEPTIONS=0 -GR- -GS-
+cl HelloWorld.c -O1 -MD -GL -D_HAS_EXCEPTIONS=0 -GR- -Oy- -W4 -sdl
 */
 #include <stdio.h>
 

@@ -39,9 +39,3 @@ def passable(bridge:list[list])->bool:
     return False;
 
 assert passable(example) == True
-
-
-
-
-
-
