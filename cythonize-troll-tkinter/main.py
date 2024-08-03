@@ -1,0 +1,3 @@
+import troll
+
+troll.run()
