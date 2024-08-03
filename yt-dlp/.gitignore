@@ -5,3 +5,4 @@ pyinstaller
 venv
 *.webm
 *.pdf
+*.mp4
