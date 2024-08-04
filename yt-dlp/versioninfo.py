@@ -2,10 +2,12 @@
 This file is used to generate the version information for the Windows executable.
 """
 import os
-# get the current version from the __version__ variable in __init__.py
-from yt_dlp.version import __version__
 # get current UTC+8 time
 from datetime import datetime
+
+# get the current version from the __version__ variable in __init__.py
+from yt_dlp.version import __version__
+
 # Writes the version information to a file named versioninfo.txt
 with open(os.path.join(os.path.dirname(__file__), 'versioninfo.txt'), 'w', encoding='utf-8') as f:
     # filevers should be always a tuple with four items: (1, 0, 0, 0)

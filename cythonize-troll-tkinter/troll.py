@@ -1,11 +1,12 @@
+import logging
 import tkinter
 import tkinter.ttk
 from typing import Tuple
-import logging
+
 
 def centre_coordinate(root: tkinter.Tk, width: int, height: int,
                       is_root_window: bool = True) -> Tuple[int, int, int, int]:
-    # code from utils.py (spambotgui project)
+    # code from utils.py (spam bot gui project)
     # USAGE: root.geometry(f"{width}x{height}+{x}+{y}")
     # where width and height are the desired dimensions
     if is_root_window:  # separate handling of window coordinate for root window
@@ -22,7 +23,8 @@ def centre_coordinate(root: tkinter.Tk, width: int, height: int,
                   f"x={int(width_coord)}, y={int(height_coord)}")
     return width, height, int(width_coord), int(height_coord)
 
-def puts_text(window: tkinter.Tk, width, height: int,pb_main: tkinter.ttk.Progressbar) -> None:
+
+def puts_text(window: tkinter.Tk, width, height: int, pb_main: tkinter.ttk.Progressbar) -> None:
     pb_main.destroy()
     msg_gay = tkinter.Label(window, text="You are genius", font=("Segoe UI Light", 30))
     msg_gay.pack()
@@ -31,6 +33,7 @@ def puts_text(window: tkinter.Tk, width, height: int,pb_main: tkinter.ttk.Progre
     button_ok = tkinter.Button(window, text="Ok", command=window.destroy, bd=2.3)
     button_ok.place(height=30, width=65, x=width / 2 - 65 / 2, y=height - 40)
     window.update()
+
 
 def main(width, height: int) -> None:
     # window is the root window of tkinter
@@ -55,9 +58,11 @@ def main(width, height: int) -> None:
     window.update_idletasks()
     window.mainloop()
 
+
 def run() -> None:
     # run the main function
     main(300, 100)
+
 
 # prevent code running as imported package
 if __name__ == '__main__':
