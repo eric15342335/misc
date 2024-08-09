@@ -1,0 +1,20 @@
+### API Documentation: https://tdas-api.hkemobility.gov.hk/tdas/specification/TD_TDAS_API_Specifications.pdf
+### VSCode Extension: REST Client
+### Road ID (rid) meaning: https://data.gov.hk/en-data/dataset/hk-td-tis_7-traffic-flow-census/resource/064619b4-d7ca-4847-bfe5-afca7b911599
+### Original Idea: https://electhubs.com/2023/11/04/%E9%9B%BB%E5%AD%90%E8%B7%AF%E7%89%8C%E9%81%8E%E6%B5%B7%E6%99%82%E9%96%93%E9%A1%AF%E7%A4%BA%E5%99%A8/
+POST https://tdas-api.hkemobility.gov.hk/tdas/api/route
+Content-Type: application/json
+
+{
+    "start": {
+        "lat": 22.288214598066972,
+        "long": 114.14062339603363
+    },
+    "end": {
+        "lat": 22.427505154499972,
+        "long": 114.20822585715878
+    },
+    "departIn": 15,
+    "lang": "tc",
+    "type": "ST"
+}
