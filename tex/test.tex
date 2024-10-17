@@ -1,9 +1,20 @@
 \documentclass{article}
-\usepackage{amsmath, amssymb, amsfonts}
+\usepackage{amssymb, amsthm, enumitem, microtype}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in,top=0.6in,bottom=0.6in]{geometry}
+\usepackage[fleqn]{amsmath}
+
+\usepackage{verbatim}
+\usepackage{minted}
+% Install: pip install Pygments
+% Add "-shell-escape", to vscode:
+% Open settings, search for "latex-workshop.latex.tools", click "Edit in settings.json", add "-shell-escape" to the pdflatex command.
+
 \begin{document}
 
-\begin{equation*}
-e.g., (g) \ \log{\frac{n}{\log n}} = \log n - \log \log n = \Theta(\log n)
-\end{equation*}
+\[
+\frac{\partial log(x)}{\partial x} = \frac{1}{x}
+\]
+In here, log is the natural logarithm.
 
 \end{document}
