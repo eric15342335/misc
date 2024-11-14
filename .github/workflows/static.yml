@@ -1,0 +1,43 @@
+name: Deploy static content to Pages
+
+on: [push, workflow_dispatch]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: [windows-latest]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Run doxygen
+        run: |
+          choco install doxygen.portable graphviz --yes -r --no-progress
+          doxygen .github/Doxyfile
+      - name: Minify HTML, CSS, and JS
+        shell: bash
+        run: |
+          npm install -g html-minifier terser clean-css-cli
+          find html -name '*.html' -exec html-minifier --collapse-whitespace --remove-comments --minify-css true --minify-js true -o {} {} \;
+          find html -name '*.css' -exec cleancss -o {} {} \;
+          find html -name '*.js' -exec terser --compress --mangle -o {} -- {} \;
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: 'html/'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
