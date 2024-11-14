@@ -1,0 +1,90 @@
+BASc(GHD) Examination Time Table for the First Semester of 2024-2025
+(As at Nov 13, 2024)
+Date 	Time 		Course Code 	Description 	Venue
+Dec 9 MON 	9:30 am - 11:30 am 		BBMS3018 	Biomechanics and Biomedical Technologies 	3/F, Multi-purpose Zone, Main Library
+Dec 9 MON 	9:30 am - 11:30 am 		BIOC2600 	Basic biochemistry 	Loke Yew Hall
+Dec 10 TUE 	9:30 am - 11:30 am 		ACCT1101 	Introduction to financial accounting 	CPD-LG.07-10, Centennial Campus
+				Introduction to financial accounting 	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introduction to financial accounting 	Loke Yew Hall
+				Introduction to financial accounting 	Rm 103 Main Bldg.
+				Introduction to financial accounting 	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introduction to financial accounting 	Rm 167 Main Bldg.
+				Introduction to financial accounting 	Rm 217 Main Bldg.
+				Introduction to financial accounting 	Rm 218 Main Bldg.
+				Introduction to financial accounting 	Rm 237 Main Bldg.
+Dec 10 TUE 	2:30 pm - 5:30 pm 		BBMS3012 	Stem Cell Biotechnologies in Regenerative Medicine 	Rm 256 Main Bldg.
+Dec 10 TUE 	2:30 pm - 4:30 pm 		FINA2330 	Financial markets and institutions 	Rm 6 Library Ext.
+				Financial markets and institutions 	Rm 7 Library Ext.
+				Financial markets and institutions 	Rm 8 Library Ext.
+				Financial markets and institutions 	Rm 9 Library Ext.
+Dec 10 TUE 	2:30 pm - 4:30 pm 		GEOG2153 	Smartphones, K-pop, and Kimchi: South Korea beyond the miracle 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 10 TUE 	6:30 pm - 8:00 pm 		GEOG2120 	Introductory spatial analysis 	Rm 9 Library Ext.
+Dec 11 WED 	9:30 am - 11:30 am 		BUSI3801 	Business law 	Rm 2 Library Ext.
+				Business law 	Rm 3 Library Ext.
+				Business law 	Rm 4 Library Ext.
+Dec 11 WED 	2:30 pm - 4:30 pm 		SOCI1001 	Introduction to sociology 	3/F, Multi-purpose Zone, Main Library
+				Introduction to sociology 	Loke Yew Hall
+				Introduction to sociology 	Rm 103 Main Bldg.
+				Introduction to sociology 	Rm 167 Main Bldg.
+Dec 11 WED 	6:30 pm - 8:30 pm 		EASC1401 	Blue planet 	Rm 3 Library Ext.
+				Blue planet 	Rm 4 Library Ext.
+Dec 11 WED 	6:30 pm - 8:30 pm 		GEOG2169 	Geography and global health 	Rm 4 Library Ext.
+Dec 12 THU 	9:30 am - 11:30 am 		BIOL3416 	Developmental biology 	Rm 237 Main Bldg.
+Dec 12 THU 	9:30 am - 11:30 am 		GHAD1001 	Foundations in global health and development 	Rm 237 Main Bldg.
+Dec 12 THU 	2:30 pm - 4:00 pm 		BIOL1110 	From molecules to cells 	3/F, Multi-purpose Zone, Main Library
+Dec 12 THU 	2:30 pm - 4:30 pm 		FINA1310 	Corporate finance 	Loke Yew Hall
+				Corporate finance 	Rm 103 Main Bldg.
+				Corporate finance 	Rm 167 Main Bldg.
+				Corporate finance 	Rm 2 Library Ext.
+				Corporate finance 	Rm 201 Main Bldg.
+				Corporate finance 	Rm 256 Main Bldg.
+Dec 12 THU 	6:30 pm - 8:30 pm 		GEOG2013 	Sustainable Development: Introduction and Quantification 	CPD-LG.07-10, Centennial Campus
+Dec 12 THU 	6:30 pm - 9:30 pm 		URBS1003 	Theories and Global Trends in Urban Development 	Rm 4 Library Ext.
+Dec 13 FRI 	9:30 am - 11:30 am 		ECON1280 	Analysis of economic data 	Loke Yew Hall
+				Analysis of economic data 	Rm 103 Main Bldg.
+				Analysis of economic data 	Rm 167 Main Bldg.
+				Analysis of economic data 	Rm 201 Main Bldg.
+Dec 13 FRI 	9:30 am - 11:30 am 		POLI3133 	Contemporary Southeast Asian politics 	Rm 7 Library Ext.
+Dec 13 FRI 	2:30 pm - 4:30 pm 		GEOG1003 	Contemporary global environmental issues 	3/F, Multi-purpose Zone, Main Library
+				Contemporary global environmental issues 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 13 FRI 	6:30 pm - 8:30 pm 		GEOG2065 	Urban planning: principles and practices 	Rm 5 Library Ext.
+Dec 14 SAT 	9:30 am - 11:30 am 		ECON1220 	Introductory macroeconomics 	CPD-LG.07-10, Centennial Campus
+				Introductory macroeconomics 	Rm 4 Library Ext.
+				Introductory macroeconomics 	Rm 5 Library Ext.
+Dec 14 SAT 	2:30 pm - 5:00 pm 		BBMS3011 	Molecular Neuroscience 	Rm 218 Main Bldg.
+Dec 14 SAT 	2:30 pm - 4:00 pm 		GEOG1012 	Economic and social development in an urbanizing world 	3/F, Multi-purpose Zone, Main Library
+				Economic and social development in an urbanizing world 	Rm 2 Library Ext.
+				Economic and social development in an urbanizing world 	Rm 3 Library Ext.
+Dec 14 SAT 	6:30 pm - 8:00 pm 		BIOL3202 	Nutritional biochemistry 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 16 MON 	9:30 am - 12:00 noon 		MATH1009 	Basic mathematics for business and economics 	CPD-LG.07-10, Centennial Campus
+				Basic mathematics for business and economics 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 16 MON 	2:30 pm - 4:30 pm 		PSYC1001 	Introduction to psychology 	Loke Yew Hall
+				Introduction to psychology 	Rm 103 Main Bldg.
+				Introduction to psychology 	Rm 167 Main Bldg.
+Dec 16 MON 	6:30 pm - 8:30 pm 		CUND9002 	Practical Chinese and Hong Kong Society 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 16 MON 	6:30 pm - 8:30 pm 		POLI3052 	International relations of East Asia 	Rm 201 Main Bldg.
+				International relations of East Asia 	Rm 256 Main Bldg.
+Dec 17 TUE 	9:30 am - 10:30 am 		BIOL2103 	Biological sciences laboratory course 	Rm 217 Main Bldg.
+				Biological sciences laboratory course 	Rm 218 Main Bldg.
+Dec 17 TUE 	9:30 am - 11:30 am 		CCGL9019 	Economic Globalization: Issues and Challenges 	3/F, Multi-purpose Zone, Main Library
+Dec 17 TUE 	2:30 pm - 4:00 pm 		BIOL4411 	Plant and food biotechnology 	Rm 237 Main Bldg.
+Dec 17 TUE 	2:30 pm - 4:30 pm 		GEOG2030 	Global development 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 18 WED 	9:30 am - 11:30 am 		BIOL2101 	Principles of food chemistry 	Rm 4 Library Ext.
+				Principles of food chemistry 	Rm 5 Library Ext.
+Dec 18 WED 	9:30 am - 11:30 am 		BIOL3408 	Genetics 	Rm 3 Library Ext.
+Dec 18 WED 	2:30 pm - 4:30 pm 		GEOG2096 	Human impacts on ecosystems 	Rm 2 Library Ext.
+				Human impacts on ecosystems 	Rm 3 Library Ext.
+Dec 18 WED 	2:30 pm - 4:30 pm 		SCNC1111 	Scientific method and reasoning 	3/F, Multi-purpose Zone, Main Library
+Dec 18 WED 	6:30 pm - 8:30 pm 		GHAD1004 	Introduction to Epidemiology and Biostatistics 	3/F, Multi-purpose Zone, Main Library
+Dec 19 THU 	9:30 am - 11:30 am 		ECON2233 	The economics of law 	Rm 217 Main Bldg.
+Dec 19 THU 	2:30 pm - 4:30 pm 		CCST9020 	Sustainable Development of the Built Environment 	Rm 201 Main Bldg.
+				Sustainable Development of the Built Environment 	Rm 256 Main Bldg.
+Dec 19 THU 	2:30 pm - 5:00 pm 		CCST9027 	The Science of Irrational Thinking 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 19 THU 	2:30 pm - 4:30 pm 		GEOG2109 	Population Geography and Social Development 	Rm 218 Main Bldg.
+Dec 20 FRI 	9:30 am - 12:00 noon 		FINA2343 	Lending and Credit in Private Banking and Corporate Banking (1) 	3/F, Multi-purpose Zone, Main Library
+Dec 20 FRI 	9:30 am - 11:30 am 		POLI1003 	Making sense of politics 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 20 FRI 	2:30 pm - 4:30 pm 		GEOG2124 	Environmental change and socio-political conflicts 	Loke Yew Hall
+Dec 20 FRI 	2:30 pm - 4:30 pm 		GEOG2160 	Sustainable Waste Management and Circular Economy in Hong Kong 	Loke Yew Hall
+Dec 21 SAT 	9:30 am - 11:30 am 		BIOL4409 	General virology 	Rm 201 Main Bldg.
+Dec 21 SAT 	2:30 pm - 4:30 pm 		IIMT2641 	Introduction to business analytics 	Loke Yew Hall
+Dec 23 MON 	9:30 am - 10:30 am 		CCGL9025 	The Political Economy of Growth and Poverty in the World 	Rm 105 Chong Yuet Ming Amenities Ctr.

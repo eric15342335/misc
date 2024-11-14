@@ -1,0 +1,59 @@
+MBBS Examination (except the MBBS formative/summative assessments/examinations) Time Table for the First Semester of 2024-2025
+(As at Nov 13, 2024)
+Date 	Time 		Course Code 	Description 	Venue
+Dec 9 MON 	9:30 am - 11:30 am 		BIOC2600 	Basic biochemistry 	Loke Yew Hall
+Dec 9 MON 	9:30 am - 12:30 pm 		ELEC3342 	Digital system design 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 9 MON 	9:30 am - 11:30 am 		PHYS1150 	Problem solving in physics 	3/F, Multi-purpose Zone, Main Library
+Dec 10 TUE 	9:30 am - 11:30 am 		BIOL3402 	Cell biology and cell technology 	Rm 201 Main Bldg.
+				Cell biology and cell technology 	Rm 256 Main Bldg.
+Dec 11 WED 	9:30 am - 12:00 noon 		MATH1013 	University mathematics II 	CPD-LG.07-10, Centennial Campus
+				University mathematics II 	Loke Yew Hall
+				University mathematics II 	Rm 103 Main Bldg.
+				University mathematics II 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 11 WED 	2:30 pm - 4:30 pm 		SOCI1001 	Introduction to sociology 	3/F, Multi-purpose Zone, Main Library
+				Introduction to sociology 	Loke Yew Hall
+				Introduction to sociology 	Rm 103 Main Bldg.
+				Introduction to sociology 	Rm 167 Main Bldg.
+Dec 11 WED 	6:30 pm - 9:30 pm 		COMP2119 	Introduction to data structures and algorithms 	Loke Yew Hall
+				Introduction to data structures and algorithms 	Rm 103 Main Bldg.
+				Introduction to data structures and algorithms 	Rm 167 Main Bldg.
+Dec 11 WED 	6:30 pm - 8:30 pm 		EASC1401 	Blue planet 	Rm 3 Library Ext.
+				Blue planet 	Rm 4 Library Ext.
+Dec 12 THU 	9:30 am - 11:30 am 		COMP1117 	Computer programming 	Loke Yew Hall
+				Computer programming 	Rm 103 Main Bldg.
+				Computer programming 	Rm 167 Main Bldg.
+Dec 12 THU 	2:30 pm - 4:30 pm 		BBMS2007 	Essential Molecular Biology 	Rm 3 Library Ext.
+Dec 12 THU 	6:30 pm - 9:30 pm 		ELEC2245 	Control systems I 	Rm 2 Library Ext.
+Dec 13 FRI 	6:30 pm - 8:30 pm 		CHEM1042 	General chemistry I 	CPD-LG.07-10, Centennial Campus
+Dec 14 SAT 	2:30 pm - 5:00 pm 		BBMS3011 	Molecular Neuroscience 	Rm 218 Main Bldg.
+Dec 14 SAT 	2:30 pm - 4:00 pm 		GEOG1012 	Economic and social development in an urbanizing world 	3/F, Multi-purpose Zone, Main Library
+				Economic and social development in an urbanizing world 	Rm 2 Library Ext.
+				Economic and social development in an urbanizing world 	Rm 3 Library Ext.
+Dec 14 SAT 	2:30 pm - 5:00 pm 		MATH2101 	Linear algebra I 	Rm 217 Main Bldg.
+				Linear algebra I 	Rm 218 Main Bldg.
+Dec 16 MON 	2:30 pm - 4:30 pm 		COMP2113 	Programming technologies 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 17 TUE 	9:30 am - 10:30 am 		BIOL2103 	Biological sciences laboratory course 	Rm 217 Main Bldg.
+				Biological sciences laboratory course 	Rm 218 Main Bldg.
+Dec 17 TUE 	9:30 am - 11:30 am 		CCGL9019 	Economic Globalization: Issues and Challenges 	3/F, Multi-purpose Zone, Main Library
+Dec 17 TUE 	2:30 pm - 4:30 pm 		CHIN1116 	General introduction to modern Chinese language 	Rm 201 Main Bldg.
+				General introduction to modern Chinese language 	Rm 256 Main Bldg.
+Dec 17 TUE 	2:30 pm - 5:30 pm 		COMP2121 	Discrete mathematics 	3/F, Multi-purpose Zone, Main Library
+Dec 18 WED 	9:30 am - 11:00 am 		BIOC1600 	Perspectives in biochemistry 	Rm 218 Main Bldg.
+Dec 18 WED 	9:30 am - 11:30 am 		COMP3353 	Bioinformatics 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 18 WED 	2:30 pm - 4:30 pm 		COMP2396 	Object-oriented programming and Java 	Loke Yew Hall
+Dec 19 THU 	9:30 am - 12:00 noon 		BIOC3601 	Basic Metabolism 	Rm 237 Main Bldg.
+Dec 19 THU 	9:30 am - 12:30 pm 		ELEC2346 	Electric circuit theory 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 19 THU 	2:30 pm - 4:30 pm 		CCST9020 	Sustainable Development of the Built Environment 	Rm 201 Main Bldg.
+				Sustainable Development of the Built Environment 	Rm 256 Main Bldg.
+Dec 19 THU 	2:30 pm - 5:00 pm 		CCST9027 	The Science of Irrational Thinking 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 19 THU 	2:30 pm - 4:30 pm 		COMP2501 	Introduction to Data Science and Engineering 	Loke Yew Hall
+Dec 19 THU 	2:30 pm - 5:30 pm 		ELEC3243 	Fundamentals of next-generation communications 	3/F, Multi-purpose Zone, Main Library
+Dec 20 FRI 	9:30 am - 11:30 am 		SOCI2067 	Crime and the media 	Rm 103 Main Bldg.
+				Crime and the media 	Rm 167 Main Bldg.
+Dec 20 FRI 	2:30 pm - 4:30 pm 		CCST9016 	Energy: Its Evolution and Environmental Impacts 	3/F, Multi-purpose Zone, Main Library
+Dec 21 SAT 	9:30 am - 11:30 am 		PHYS1250 	Fundamental physics 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 21 SAT 	2:30 pm - 5:00 pm 		MATH2012 	Fundamental concepts of mathematics 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 23 MON 	9:30 am - 10:30 am 		CCGL9025 	The Political Economy of Growth and Poverty in the World 	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 23 MON 	9:30 am - 12:30 pm 		ELEC3347 	Electronic materials and quantum physics 	Rm 237 Main Bldg.
+Dec 23 MON 	9:30 am - 11:30 am 		PHYS1056 	Weather, climate and climate change 	3/F, Multi-purpose Zone, Main Library
+Dec 23 MON 	2:30 pm - 5:30 pm 		ELEC2243 	Introduction to electricity and magnetism 	Rm 105 Chong Yuet Ming Amenities Ctr.
