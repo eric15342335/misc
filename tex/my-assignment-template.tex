@@ -4,14 +4,18 @@
 \usepackage[margin=1in,top=0.6in,bottom=0.6in]{geometry}
 \usepackage[fleqn]{amsmath}
 
-\usepackage{verbatim}
+% For syntax highlighting
 \usepackage{minted}
 % Install: pip install Pygments
 % Add "-shell-escape", to vscode:
 % Open settings, search for "latex-workshop.latex.tools", click "Edit in settings.json", add "-shell-escape" to the pdflatex command.
 
+% For displaying accurate time
+\usepackage{datetime}
+
 \title{Assignment template using LaTeX}
 \author{Cheng Ho Ming, Eric (3036216734) [Class Section]}
+\date{\today \ \currenttime}
 
 \begin{document}
 \maketitle
