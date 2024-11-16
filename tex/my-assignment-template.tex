@@ -12,6 +12,23 @@
 
 % For displaying accurate time
 \usepackage{datetime}
+% For PDF metadata
+\usepackage[pdfusetitle]{hyperref}
+% For outline
+\usepackage{navigator}
+% Automatically add section to outline
+\newcommand{\mysectionstar}[2][]{%
+    \ifthenelse{\equal{#1}{}}%
+        {\section*{#2}}% If optional argument is empty
+        {\section*[#1]{#2}}% If optional argument is not empty
+    \outline{1}{#2}%
+}
+\newcommand{\mysubsectionstar}[2][]{%
+    \ifthenelse{\equal{#1}{}}%
+        {\subsection*{#2}}% If optional argument is empty
+        {\subsection*[#1]{#2}}% If optional argument is not empty
+    \outline{2}{#2}%
+}
 
 \title{Assignment template using LaTeX}
 \author{Cheng Ho Ming, Eric (3036216734) [Class Section]}
