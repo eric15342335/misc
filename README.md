@@ -8,7 +8,7 @@ This repository contains miscellaneous scripts that does not fit in one reposito
 
 Here are the list of some folders that I think can be used by the general public, or I am interested telling you what is it about:
 
-* [`hku-examinations`](./ungrouped/)
+* [`hku-examinations`](./hku-examinations/)
   * Analyze the list of enrolled courses that has examinations by HKU students.
   * [For more information, click here.](./hku-examinations/README.md)
 * [`ungrouped`](./ungrouped/)
