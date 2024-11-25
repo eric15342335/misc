@@ -3,7 +3,7 @@
 % Prevent file encoding error
 \usepackage[utf8]{inputenc}
 % Margin for viewing/printing aesthetics
-\usepackage[margin=1in,top=0.6in,bottom=0.6in]{geometry}
+\usepackage[margin=1in,top=0.5in,bottom=0.5in]{geometry}
 % Stick to the left (question number) for all math equations
 \usepackage[fleqn]{amsmath}
 % Supposed to make the text look better (subjective) via reduced space between letters
@@ -43,7 +43,7 @@ command.
     \ifthenelse{\equal{#1}{}}%
         {\subsubsection*{#2}}% If optional argument is empty
         {\subsubsection*[#1]{#2}}% If optional argument is not empty
-    \outline{2}{#2}%
+    \outline{3}{#2}%
 }
 % For images
 \usepackage{graphicx}
@@ -78,6 +78,11 @@ E=mc^2
 \end{aligned}$
 
 \item 1
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.4\textwidth]{image.png}
+\caption{A smily face}
+\end{figure}
 \item
     \begin{minted}[samepage]{python3}
 print(chr(sum(range(ord(min(str(not())))))))
@@ -88,11 +93,18 @@ print(chr(sum(range(ord(min(str(not())))))))
 
 \mysubsectionstar{(a)}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+\newpage
 
 \mysubsectionstar{(b)}
 
 \mysubsubsectionstar{(i)}
+
+The pseudocode for Euclid's algorithm is as follows:
 
 \begin{algorithm}
 \caption{Euclid's algorithm}
@@ -111,6 +123,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 \end{algorithm}
 
 \mysubsubsectionstar{(ii)}
+
+The Python code for the Euclid's algorithm is as follows:
 
 \begin{minted}[samepage]{python3}
 def euclid(a: int, b: int) -> int:
