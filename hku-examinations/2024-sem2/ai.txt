@@ -1,0 +1,98 @@
+BASc(AppliedAI) Examination Timetable for the Second Semester of 2024-2025
+(As at Mar 19, 2025)
+Date	Time		Course Code	Description	Venue
+May 12 MON	9:30 am - 11:30 am		ECON1220	Introductory macroeconomics	CPD-LG.07-10, Centennial Campus
+Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+Introductory macroeconomics	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 12 MON	9:30 am - 12:30 pm		STAT3621	Statistical data analysis	Rm 101, Run Run Shaw Bldg.
+May 12 MON	2:30 pm - 4:30 pm		STAT2601	Probability and statistics I	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 12 MON	6:30 pm - 8:30 pm		COMP3516	Data analytics for IoT	Rm 218 Main Bldg.
+May 13 TUE	9:30 am - 12:00 noon		IIMT1640	Probability and Statistics for Business	Multi-purpose Zone, Level 3, Main Library
+May 13 TUE	9:30 am - 12:00 noon		MATH3603	Probability theory	Rm 8 Library Ext.
+Probability theory	Rm 9 Library Ext.
+May 13 TUE	9:30 am - 11:30 am		PHYS1240	Physics by inquiry	Rm 3 Library Ext.
+May 13 TUE	2:30 pm - 4:30 pm		COMP3278	Introduction to database management systems	Rm 105 Chong Yuet Ming Amenities Ctr.
+Introduction to database management systems	Rm 5 Library Ext.
+May 14 WED	9:30 am - 11:30 am		BIOL1309	Evolutionary diversity	CPD-LG.07-10, Centennial Campus
+May 14 WED	9:30 am - 12:30 pm		ELEC2544	Introduction to electronic commerce and financial technology	Rm 7 Library Ext.
+May 14 WED	9:30 am - 11:30 am		FINA1310	Corporate finance	Loke Yew Hall
+Corporate finance	Multi-purpose Zone, Level 3, Main Library
+Corporate finance	Rm 103 Main Bldg.
+Corporate finance	Rm 167 Main Bldg.
+May 14 WED	2:30 pm - 4:30 pm		COMP3317	Computer vision	Rm 103 Main Bldg.
+Computer vision	Rm 167 Main Bldg.
+May 14 WED	2:30 pm - 4:00 pm		GEOG2164	The Creative City	Rm 9 Library Ext.
+May 15 THU	9:30 am - 11:30 am		APAI4013	Applied high-performance computing and parallel programming	CPD-LG.07-10, Centennial Campus
+May 15 THU	9:30 am - 12:00 noon		ECON1210	Introductory microeconomics	Loke Yew Hall
+Introductory microeconomics	Rm 103 Main Bldg.
+Introductory microeconomics	Rm 167 Main Bldg.
+Introductory microeconomics	Rm 201 Main Bldg.
+May 15 THU	9:30 am - 11:30 am		ECON2280	Introductory econometrics	CPD-LG.07-10, Centennial Campus
+May 15 THU	2:30 pm - 4:00 pm		GEOG1020	Modern Maps in the Age of Big Data	Multi-purpose Zone, Level 3, Main Library
+May 15 THU	2:30 pm - 5:00 pm		MATH2101	Linear algebra I	Loke Yew Hall
+May 16 FRI	9:30 am - 11:30 am		ACCT1101	Introduction to financial accounting	CPD-LG.07-10, Centennial Campus
+Introduction to financial accounting	Rm 105 Chong Yuet Ming Amenities Ctr.
+Introduction to financial accounting	Rm 2 Library Ext.
+Introduction to financial accounting	Rm 3 Library Ext.
+May 16 FRI	2:30 pm - 4:30 pm		CUND9001	Basic Spoken and Written Cantonese for Mandarin Speakers	Rm 2 Library Ext.
+May 16 FRI	2:30 pm - 4:30 pm		FINA2320	Investments and portfolio analysis	CPD-LG.07-10, Centennial Campus
+Investments and portfolio analysis	Rm 4 Library Ext.
+Investments and portfolio analysis	Rm 5 Library Ext.
+May 17 SAT	9:30 am - 11:30 am		COMP1117	Computer programming	CPD-LG.07-10, Centennial Campus
+Computer programming	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 17 SAT	9:30 am - 12:30 pm		COMP2119	Introduction to data structures and algorithms	Multi-purpose Zone, Level 3, Main Library
+May 17 SAT	9:30 am - 12:30 pm		COMP3251	Algorithm design	Loke Yew Hall
+May 17 SAT	9:30 am - 11:30 am		GEOG2156	Understanding global environmental changes from images	Rm 201 Main Bldg.
+May 17 SAT	2:30 pm - 5:00 pm		MATH2211	Multivariable calculus	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 17 SAT	2:30 pm - 4:30 pm		STAT1600	Statistics: ideas and concepts	Rm 217 Main Bldg.
+Statistics: ideas and concepts	Rm 218 Main Bldg.
+May 17 SAT	2:30 pm - 4:30 pm		STAT3655	Survival analysis	Multi-purpose Zone, Level 3, Main Library
+May 17 SAT	6:30 pm - 8:30 pm		COMP2113	Programming technologies	CPD-LG.07-10, Centennial Campus
+May 17 SAT	6:30 pm - 9:00 pm		MATH3911	Game theory and strategy	Rm 218 Main Bldg.
+May 19 MON	9:30 am - 11:30 am		STAT2602	Probability and statistics II	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 19 MON	9:30 am - 11:30 am		STAT3600	Linear statistical analysis	Rm 217 Main Bldg.
+Linear statistical analysis	Rm 218 Main Bldg.
+May 19 MON	2:30 pm - 4:30 pm		COMP3270	Artificial intelligence	Rm 2 Library Ext.
+Artificial intelligence	Rm 3 Library Ext.
+May 19 MON	2:30 pm - 5:30 pm		ELEC3241	Signals and linear systems	Rm 217 Main Bldg.
+Signals and linear systems	Rm 218 Main Bldg.
+May 19 MON	2:30 pm - 5:00 pm		MATH2014	Multivariable calculus and linear algebra	CPD-LG.07-10, Centennial Campus
+Multivariable calculus and linear algebra	Multi-purpose Zone, Level 3, Main Library
+May 20 TUE	9:30 am - 12:30 pm		COMP2120	Computer organization	CPD-LG.07-10, Centennial Campus
+Computer organization	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 20 TUE	9:30 am - 11:30 am		FINA2330	Financial markets and institutions	Loke Yew Hall
+May 20 TUE	2:30 pm - 4:30 pm		GEOG2165	Global Landforms	Rm 103 Main Bldg.
+May 20 TUE	2:30 pm - 4:30 pm		PHYS1055	How things work	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 20 TUE	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	CPD-LG.07-10, Centennial Campus
+May 21 WED	9:30 am - 12:30 pm		COMP2121	Discrete mathematics	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 21 WED	9:30 am - 11:30 am		COMP3259	Principles of programming languages	Rm 217 Main Bldg.
+May 21 WED	9:30 am - 12:00 noon		COMP3314	Machine learning	Rm 2 Library Ext.
+Machine learning	Rm 3 Library Ext.
+Machine learning	Rm 4 Library Ext.
+May 21 WED	2:30 pm - 5:00 pm		BUSI3803	Company law	Rm 5 Library Ext.
+May 21 WED	2:30 pm - 4:30 pm		GEOG1002	Hong Kong: land, people and resources	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 21 WED	2:30 pm - 4:00 pm		GEOG1005	Map use, reading and interpretation	Loke Yew Hall
+May 21 WED	2:30 pm - 5:30 pm		MECH2414	Thermofluids	CPD-LG.07-10, Centennial Campus
+May 22 THU	9:30 am - 12:30 pm		BMED3501	Medical imaging	Rm 5 Library Ext.
+May 22 THU	9:30 am - 11:30 am		CSCI9001	Practical Chinese for Science Students	Loke Yew Hall
+May 22 THU	9:30 am - 11:00 am		CUND9003	Cantonese for Non-Cantonese Speaking Students	Multi-purpose Zone, Level 3, Main Library
+May 22 THU	2:30 pm - 5:00 pm		COMP3297	Software engineering	CPD-LG.07-10, Centennial Campus
+May 22 THU	2:30 pm - 4:00 pm		GEOG3433	Applied geostatistics for urban studies	Rm 4 Library Ext.
+May 22 THU	2:30 pm - 5:00 pm		MATH2012	Fundamental concepts of mathematics	CPD-LG.07-10, Centennial Campus
+May 23 FRI	9:30 am - 11:30 am		COMP2501	Introduction to Data Science and Engineering	Loke Yew Hall
+May 23 FRI	9:30 am - 12:00 noon		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+May 23 FRI	9:30 am - 12:00 noon		MATH2102	Linear algebra II	CPD-LG.07-10, Centennial Campus
+May 23 FRI	2:30 pm - 4:30 pm		APAI3010	Image processing and computer vision	Rm 103 Main Bldg.
+May 23 FRI	2:30 pm - 3:30 pm		CCCH9002	Chinese Cities in the 21st Century	Rm 217 Main Bldg.
+May 23 FRI	2:30 pm - 4:30 pm		FINA4350	Text Analytics and Natural Language Processing in Finance and Fintech	Loke Yew Hall
+May 24 SAT	9:30 am - 11:30 am		COMP3329	Computer game design and programming	CPD-LG.07-10, Centennial Campus
+May 24 SAT	9:30 am - 12:00 noon		MATH3901	Operations research I	Rm 256 Main Bldg.
+May 24 SAT	9:30 am - 11:30 am		PHYS1650	Nature of the universe	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 24 SAT	2:30 pm - 4:30 pm		CCST9012	Our Place in the Universe	Loke Yew Hall
+May 24 SAT	2:30 pm - 5:30 pm		COMP3316	Quantum information and computation	CPD-LG.07-10, Centennial Campus
+May 24 SAT	2:30 pm - 4:00 pm		GEOG1021	Geographic issues of Polar Regions	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 24 SAT	6:30 pm - 9:00 pm		MATH2241	Introduction to mathematical analysis	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 26 MON	9:30 am - 11:30 am		APAI4022	Omics data analysis	Rm 218 Main Bldg.
+May 26 MON	9:30 am - 11:30 am		COMP3322	Modern Technologies on World Wide Web	Multi-purpose Zone, Level 3, Main Library
+May 26 MON	9:30 am - 12:00 noon		MATH3906	Financial calculus	Rm 256 Main Bldg.
+May 27 TUE	2:30 pm - 4:30 pm		COMP3340	Applied Deep Learning	Loke Yew Hall

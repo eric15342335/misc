@@ -1,0 +1,60 @@
+M.Phil/Ph.D. Timetable for the Second Semester of 2024-2025
+(As at Mar 19, 2025)
+Date	Time		Course Code	Description	Venue
+May 10 SAT	2:30 pm - 4:30 pm		COMP7106	Big data management	CPD-LG.07-10, Centennial Campus
+May 12 MON	2:30 pm - 4:30 pm		IMSE7222	Global logistics and transportation systems	Rm 6 Library Ext.
+Global logistics and transportation systems	Rm 7 Library Ext.
+May 12 MON	6:30 pm - 9:30 pm		BSTC3041	Sanskrit Language IV	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 12 MON	6:30 pm - 8:30 pm		CIVL6062	Special topic in environmental engineering B	Rm 8 Library Ext.
+Special topic in environmental engineering B	Rm 9 Library Ext.
+May 12 MON	6:30 pm - 8:30 pm		CIVL6079	Slope engineering	Rm 201 Main Bldg.
+Slope engineering	Rm 256 Main Bldg.
+May 12 MON	6:30 pm - 8:30 pm		CIVL7018	Data science for civil engineering	Rm 217 Main Bldg.
+May 12 MON	6:30 pm - 8:30 pm		PHYS8656	Topics in Astrophysics	Multi-purpose Zone, Level 3, Main Library
+May 12 MON	6:30 pm - 9:30 pm		RECO6018	Modern developments in the law of construction contracts	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 13 TUE	6:30 pm - 8:30 pm		ELEC7043	Digital image processing and computer vision	Loke Yew Hall
+May 13 TUE	6:30 pm - 9:30 pm		ELEC8309	Microscopy and spectroscopy	Rm 201 Main Bldg.
+May 13 TUE	6:30 pm - 8:30 pm		IMSE7251	Fundamentals of law for logistics	Multi-purpose Zone, Level 3, Main Library
+May 14 WED	6:30 pm - 8:00 pm		BSTC6002	Mahayana Buddhism	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 14 WED	6:30 pm - 8:30 pm		CIVL6027	Foundation engineering	Multi-purpose Zone, Level 3, Main Library
+May 14 WED	6:30 pm - 8:30 pm		CIVL6063	Special topic in structural engineering A	Loke Yew Hall
+May 14 WED	6:30 pm - 8:30 pm		PHYS8550	Graduate Statistical Mechanics	Loke Yew Hall
+May 15 THU	9:30 am - 11:30 am		CHEM6112	Advanced physical chemistry	Rm 2 Library Ext.
+May 15 THU	2:30 pm - 4:30 pm		ELEC7466	Advanced topics in power system engineering	Rm 9 Library Ext.
+May 15 THU	6:30 pm - 8:30 pm		CIVL7007	Building information modelling (BIM): Theories, development and application	Multi-purpose Zone, Level 3, Main Library
+May 15 THU	6:30 pm - 8:30 pm		ELEC6027	Integrated circuit systems design	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 THU	6:30 pm - 8:30 pm		EMEE6006	Renewable energy technology II: Advanced	Rm 218 Main Bldg.
+May 15 THU	6:30 pm - 9:30 pm		IMSE7337	Operational risk management	Rm 201 Main Bldg.
+May 16 FRI	2:30 pm - 5:00 pm		MATH6505	Real analysis	Rm 256 Main Bldg.
+May 17 SAT	9:30 am - 11:30 am		MMPH6205	Current Therapeutic Strategies for Metabolic Diseases	Rm 217 Main Bldg.
+May 19 MON	9:30 am - 11:30 am		IMSE7902	Project management	Rm 6 Library Ext.
+Project management	Rm 7 Library Ext.
+May 19 MON	2:30 pm - 4:30 pm		EMEE6002	Sustainability and climate change	Rm 6 Library Ext.
+Sustainability and climate change	Rm 7 Library Ext.
+Sustainability and climate change	Rm 8 Library Ext.
+May 19 MON	6:30 pm - 8:30 pm		ELEC7055	Power distribution systems	Loke Yew Hall
+May 19 MON	6:30 pm - 8:30 pm		MECH6045	Nanotechnology: fundamentals and applications	Rm 103 Main Bldg.
+May 20 TUE	2:30 pm - 4:30 pm		IMSE7034	Operational research	Loke Yew Hall
+May 20 TUE	2:30 pm - 4:30 pm		PHYS8751	Device Physics	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 20 TUE	6:30 pm - 8:30 pm		COMP7408	Distributed ledger and blockchain technology	Multi-purpose Zone, Level 3, Main Library
+May 20 TUE	6:30 pm - 8:30 pm		MECH6046	Microsystems for energy, biomedical and consumer electronics applications	CPD-LG.07-10, Centennial Campus
+May 21 WED	2:30 pm - 4:30 pm		CIVL8011	Recent Advances in Water and Environmental Engineering: Coastal Dynamics and Engineering Design	Rm 217 Main Bldg.
+May 21 WED	2:30 pm - 5:00 pm		MATH6502	Topics in applied discrete mathematics	Rm 4 Library Ext.
+May 21 WED	6:30 pm - 8:30 pm		ELEC6008	Pattern recognition and machine learning	Loke Yew Hall
+May 21 WED	6:30 pm - 8:30 pm		ELEC6049	Digital system design techniques	CPD-LG.07-10, Centennial Campus
+May 21 WED	6:30 pm - 8:30 pm		IMSE7909	Quality management	Loke Yew Hall
+May 21 WED	6:30 pm - 9:00 pm		MATH6015	Topics in artificial intelligence and machine learning	Rm 237 Main Bldg.
+May 22 THU	9:30 am - 12:30 pm		CHEM6113	Medicinal chemistry	Rm 237 Main Bldg.
+May 22 THU	9:30 am - 11:30 am		MMPH6022	Therapeutic Antibodies	Rm 167 Main Bldg.
+May 22 THU	2:30 pm - 4:30 pm		IMSE7111	Data-driven optimization	Loke Yew Hall
+May 22 THU	2:30 pm - 4:30 pm		STAT6010	Advanced probability	Rm 167 Main Bldg.
+May 22 THU	6:30 pm - 8:30 pm		CIVL6046	Theory of traffic flow	Loke Yew Hall
+May 22 THU	6:30 pm - 8:30 pm		CIVL6053	Wind engineering	Loke Yew Hall
+May 23 FRI	9:30 am - 12:30 pm		ELEC8408	Dynamical power networks: control and optimization	Multi-purpose Zone, Level 3, Main Library
+May 23 FRI	9:30 am - 11:30 am		MMPH6008	Genes and Gene Functions in Diseases	Rm 201 Main Bldg.
+May 23 FRI	2:30 pm - 5:30 pm		CHEM6102	Research techniques in chemistry	Multi-purpose Zone, Level 3, Main Library
+May 23 FRI	2:30 pm - 5:30 pm		ELEC8108	Deep learning and applications	Multi-purpose Zone, Level 3, Main Library
+May 23 FRI	6:30 pm - 8:30 pm		CIVL6080	Fire engineering design of structures	Loke Yew Hall
+May 26 MON	9:30 am - 11:30 am		MMPH6007	Advanced Cell Biology	Rm 217 Main Bldg.
+May 27 TUE	9:30 am - 12:30 pm		CHEM6111	Integrated organic synthesis	Rm 201 Main Bldg.
+May 27 TUE	9:30 am - 11:30 am		MMPH6009	Integrative Perspectives of Body Functions	Rm 237 Main Bldg.
