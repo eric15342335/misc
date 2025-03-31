@@ -1,0 +1,275 @@
+% for Inter font, run:
+% lualatex cv.tex
+\documentclass[letterpaper,11pt]{article}
+
+% At the beginning of your document, after the document class
+\usepackage{iftex}
+
+% Common packages for both engines
+\usepackage{latexsym}      % Provides mathematical symbols
+\usepackage[empty]{fullpage}  % Sets page margins to be very small
+\usepackage{titlesec}      % Allows custom section title formatting
+\usepackage{marvosym}      % Provides various symbols
+\usepackage[usenames,dvipsnames]{color}  % Enables colored text
+\usepackage{verbatim}      % For including verbatim text
+\usepackage{enumitem}      % For customizing itemize and enumerate environments
+\usepackage{tabularx}      % Enhanced tables with auto-width columns
+\usepackage{fontawesome5}  % Provides icons like GitHub, LinkedIn, etc.
+\usepackage{multicol}      % Multiple column layout
+\usepackage{xcolor}        % Extended color support
+
+% Engine-specific font setup
+\ifluatex
+  % LuaLaTeX-specific packages and settings
+  \usepackage{fontspec}
+  \defaultfontfeatures{Renderer=HarfBuzz}
+  
+  % Uncomment the following if you want to use Inter fonts again
+  \setmainfont{Inter}[
+    Path = {Inter/},
+    UprightFont = {Inter_24pt-Regular.ttf},
+    BoldFont = {Inter_24pt-Bold.ttf},
+    ItalicFont = {Inter_24pt-Italic.ttf},
+    BoldItalicFont = {Inter_24pt-BoldItalic.ttf}
+  ]
+\else
+  % pdfLaTeX-specific packages and settings
+  \usepackage[T1]{fontenc}
+  \usepackage{lmodern}  % Latin Modern font family, good for pdfLaTeX
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+
+% Common microtype settings, but with engine-specific options
+\ifluatex
+  \usepackage[protrusion=false,expansion=false]{microtype}
+\else
+  \usepackage[protrusion=false,expansion=false]{microtype}
+\fi
+
+% Rest of your packages
+\usepackage[hidelinks]{hyperref}  % Creates hyperlinks without colored boxes
+\usepackage{bookmark}      % Better bookmark handling
+\usepackage{fancyhdr}      % For custom header and footer
+\usepackage[english]{babel}  % Language settings
+\usepackage[margin=0.5in]{geometry}
+
+% Define custom colors
+\definecolor{sectioncolor}{RGB}{70, 130, 180}  % Steel blue for section titles
+
+% Page styling
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\footskip}{4.08003pt} % Fix fancyhdr warning
+
+% Hyperref setup with all links black
+\hypersetup{
+  colorlinks=false,
+  pdfborderstyle={/S/U/W 1}, % Underline links instead of boxes
+  allbordercolors=white,      % But make the underlines white (invisible)
+  % Add metadata below
+  pdfauthor={Cheng Ho Ming},
+  pdftitle={Cheng Ho Ming - Resume},
+  pdfsubject={Professional Resume},
+  pdfcreator={LaTeX with hyperref package},
+  pdfkeywords={Resume, CV, Cheng Ho Ming}
+}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting - with custom color
+\titleformat{\section}{
+  \vspace{-4pt}\raggedright\large\bfseries\color{sectioncolor}
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Custom icons with links and standalone icons
+\newcommand{\iconlink}[3]{
+  \href{#2}{#1~#3}
+}
+\newcommand{\simpleicon}[2]{
+  #1~#2
+}
+
+% Icon-enhanced section command
+\newcommand{\iconsection}[2]{
+  \section[#2]{#1~#2}
+}
+
+% Handle Unicode encoding differently for different engines
+\usepackage{iftex}
+\ifluatex
+  % LuaTeX has native Unicode support
+\else
+  \input{glyphtounicode}
+  % Ensure that generated PDF is machine readable/ATS parsable
+  \pdfgentounicode=1
+\fi
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.98\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge Cheng Ho Ming} \\ \vspace{1pt}
+    \small
+    HKU BASc(AppliedAI) Year 2 $\bullet$ \iconlink{\faEnvelope}{mailto:eric310@connect.hku.hk}{eric310@connect.hku.hk} \\ \vspace{1pt}
+    \iconlink{\faGlobe}{https://eric15342335.github.io/}{eric15342335.github.io} $\bullet$ 
+    \iconlink{\faLinkedin}{https://linkedin.com/in/eric15342335}{linkedin.com/in/eric15342335} $\bullet$
+    \iconlink{\faGithub}{https://github.com/eric15342335}{github.com/eric15342335}
+\end{center}
+
+%-----------EDUCATION-----------
+\iconsection{\faGraduationCap}{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {The University of Hong Kong}{Sep 2023 - Aug 2027 (Expected)}
+      {BASc in Applied Artificial Intelligence}{Hong Kong SAR}
+      \resumeItemListStart
+        \resumeItem{\textbf{GPA}: 3.48/4.30}
+        \resumeItem{\textbf{Second Major}: Computer Science}
+        \resumeItem{\textbf{Relevant Coursework}: Data Structures and Algorithms (A), Java \& OOP (A), C/C++ (A), Python (A+), Computer Organization (A), Probability \& Statistics, Calculus and Linear Algebra}
+      \resumeItemListEnd
+    \resumeSubheading
+      {King's College}{Sep 2017 - Aug 2023}
+      {Hong Kong Diploma of Secondary Education}{Hong Kong SAR}
+      \resumeItemListStart
+        \resumeItem{\textbf{Level 5*} in Mathematics, Physics, Information and Communication Technology}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------WORK EXPERIENCE-----------
+\iconsection{\faBriefcase}{Work Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {InspireLab Limited}{May 2024 - Aug 2024}
+      {Embedded Software Developer Intern}{Hong Kong SAR}
+      \resumeItemListStart
+        \resumeItem{\iconlink{\faGithub}{https://github.com/eric15342335/inspirematrix-buttons}{github.com/eric15342335/inspirematrix-buttons}}
+        \resumeItem{Utilized a HKD\$7 RISC-V MCU (CH32V003F4P6) and 5+ open-source libraries to prototype STEM education software, including RISC-V compressed instruction programming via buttons}
+        \resumeItem{Utilized 4 hardware modules (USART, ADC, GPIO, and I2C) to detect and control 64+ buttons, LEDs, and a 128x64 monochrome display}
+        \resumeItem{Developed a software emulator library to streamline collaboration between two developers on limited development hardware}
+        \resumeItem{Collaborated with in-house hardware engineers to verify 4+ board designs within the last 4 weeks}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------TEACHING EXPERIENCE-----------
+\iconsection{\faChalkboardTeacher}{Teaching Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {The University of Hong Kong}{Jan 2025 - Current}
+      {Student Teaching Assistant}{Hong Kong SAR}
+      \resumeItemListStart
+        \resumeItem{\textbf{COMP2113} Programming technologies / \textbf{ENGG1340} Computer programming II (Linux, C/C++)}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------PROJECT EXPERIENCE-----------
+\iconsection{\faLaptopCode}{Project Experience}
+  \resumeSubHeadingListStart
+    \resumeProjectHeading
+      {\textbf{Essential IT Skills} (Certificate Course by HKU SAAS Department)}{May 2024 - Jun 2024}
+      \resumeItemListStart
+        \resumeItem{\iconlink{\faGithub}{https://github.com/eric15342335/essential-IT}{github.com/eric15342335/essential-IT}}
+        \resumeItem{Developed 4 data visualizations of predicted NVIDIA 2024 stock prices using Python matplotlib library}
+        \resumeItem{Collaborated within a team of 5 to analyze and forecast stock trends}
+        \resumeItem{Authored a 2000+ word report analyzing time series forecasting techniques, specifically Moving Averages, within a 1 week deadline}
+      \resumeItemListEnd
+    \resumeProjectHeading
+      {\textbf{Stock Market Simulator} (C++ Terminal Game)}{Apr 2024}
+      \resumeItemListStart
+        \resumeItem{\iconlink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}{github.com/eric15342335/comp2113-engg1340-group-project}}
+        \resumeItem{Implemented automated code compilation and testing across 3 platforms using GitHub Actions}
+        \resumeItem{Maintained code quality through automated formatting checks on 50+ pull requests}
+        \resumeItem{Led a team of 5 first-year students in software design and task allocation}
+      \resumeItemListEnd
+    \resumeProjectHeading
+      {\textbf{PyInstaller} (Open Source Development)}{Jul 2021 - Nov 2021}
+      \resumeItemListStart
+        \resumeItem{\iconlink{\faGithub}{https://github.com/pyinstaller/pyinstaller-hooks-contrib}{github.com/pyinstaller/pyinstaller-hooks-contrib}}
+        \resumeItem{Contributed to PyInstaller merging 15+ pull requests, addressing community needs}
+        \resumeItem{Became a contributor to the PyInstaller project, a popular open-source tool with over 10,000 stars on GitHub}
+        \resumeItem{Provided community support on \iconlink{\faStackOverflow}{https://stackoverflow.com/}{Stack Overflow}, resolving PyInstaller-related issues and receiving 10+ upvotes and "Accepted" status on solutions}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------EXTRACURRICULAR ACTIVITIES-----------
+\iconsection{\faPeopleCarry}{Extra Curricular Activities}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {UNICEF Club at HKU}{Mar 2025 - Current}
+      {Director of Information Technology (Website Manager)}{Hong Kong SAR}
+    \resumeSubheading
+      {KCOBA Junior Chapter Lunar New Year Fair}{Jan 2025}
+      {Booth Helper}{Hong Kong SAR}
+    \resumeSubheading
+      {King's College Harmonica Band}{Sep 2021 - Aug 2022}
+      {Treble II Section Leader}{Hong Kong SAR}
+  \resumeSubHeadingListEnd
+
+%-----------SKILLS-----------
+\iconsection{\faTools}{Skills}
+  \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+      \textbf{Programming \simpleicon{\faCode}{}}{: Python, C/C++, Pascal, Bash, Excel VBA, HTML\&CSS, JavaScript, Java, R, MySQL} \\
+      \textbf{Language \simpleicon{\faLanguage}{}}{: Cantonese (Native), Mandarin (Fluent), English (Fluent)} \\
+      \textbf{Tools}{: \simpleicon{\faLinux}{Linux}, \simpleicon{\faGit}{Git}, \simpleicon{\faGithub}{GitHub Actions}, \simpleicon{\faMicrosoft}{Microsoft Office}, \simpleicon{\faWordpress}{WordPress/Wix}, \LaTeX}
+    }}
+  \end{itemize}
+
+%% Add this if you want a footer with your contact info
+\vfill
+\begin{center}
+\footnotesize
+Last updated: \today
+\end{center}
+
+\end{document}
