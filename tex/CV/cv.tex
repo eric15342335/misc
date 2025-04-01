@@ -1,16 +1,14 @@
 % for Inter font, run:
 % lualatex cv.tex
-\documentclass[letterpaper,11pt]{article}
+\documentclass[a4paper,11pt]{article}
 
 % At the beginning of your document, after the document class
 \usepackage{iftex}
 
 % Common packages for both engines
 \usepackage{latexsym}      % Provides mathematical symbols
-\usepackage[empty]{fullpage}  % Sets page margins to be very small
 \usepackage{titlesec}      % Allows custom section title formatting
 \usepackage{marvosym}      % Provides various symbols
-\usepackage[usenames,dvipsnames]{color}  % Enables colored text
 \usepackage{verbatim}      % For including verbatim text
 \usepackage{enumitem}      % For customizing itemize and enumerate environments
 \usepackage{tabularx}      % Enhanced tables with auto-width columns
@@ -23,8 +21,7 @@
   % LuaLaTeX-specific packages and settings
   \usepackage{fontspec}
   \defaultfontfeatures{Renderer=HarfBuzz}
-  
-  % Uncomment the following if you want to use Inter fonts again
+
   \setmainfont{Inter}[
     Path = {Inter/},
     UprightFont = {Inter_24pt-Regular.ttf},
@@ -40,12 +37,7 @@
   \pdfgentounicode=1
 \fi
 
-% Common microtype settings, but with engine-specific options
-\ifluatex
-  \usepackage[protrusion=false,expansion=false]{microtype}
-\else
-  \usepackage[protrusion=false,expansion=false]{microtype}
-\fi
+\usepackage{microtype}
 
 % Rest of your packages
 \usepackage[hidelinks]{hyperref}  % Creates hyperlinks without colored boxes
@@ -53,6 +45,7 @@
 \usepackage{fancyhdr}      % For custom header and footer
 \usepackage[english]{babel}  % Language settings
 \usepackage[margin=0.5in]{geometry}
+\usepackage{lastpage}      % For page numbering
 
 % Define custom colors
 \definecolor{sectioncolor}{RGB}{70, 130, 180}  % Steel blue for section titles
@@ -60,10 +53,10 @@
 % Page styling
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
-\fancyfoot{}
+\fancyfoot[C]{Page \thepage\ of \pageref{LastPage}} % Center footer
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
-\setlength{\footskip}{4.08003pt} % Fix fancyhdr warning
+\setlength{\footskip}{13.59999pt} % Adjusted to fix fancyhdr warning
 
 % Hyperref setup with all links black
 \hypersetup{
@@ -102,16 +95,6 @@
   \section[#2]{#1~#2}
 }
 
-% Handle Unicode encoding differently for different engines
-\usepackage{iftex}
-\ifluatex
-  % LuaTeX has native Unicode support
-\else
-  \input{glyphtounicode}
-  % Ensure that generated PDF is machine readable/ATS parsable
-  \pdfgentounicode=1
-\fi
-
 %-------------------------
 % Custom commands
 \newcommand{\resumeItem}[1]{
@@ -122,22 +105,15 @@
 
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
-    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
       \textit{\small#3} & \textit{\small #4} \\
     \end{tabular*}\vspace{-7pt}
 }
 
-\newcommand{\resumeSubSubheading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{\small#1} & \textit{\small #2} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
 \newcommand{\resumeProjectHeading}[2]{
     \item
-    \begin{tabular*}{0.98\textwidth}{l@{\extracolsep{\fill}}r}
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       \small#1 & #2 \\
     \end{tabular*}\vspace{-7pt}
 }
@@ -152,8 +128,8 @@
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
 %-------------------------------------------
-%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+%%%%%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%
+%-------------------------------------------
 
 \begin{document}
 
