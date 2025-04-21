@@ -22,6 +22,7 @@
   \usepackage{fontspec}
   \defaultfontfeatures{Renderer=HarfBuzz}
 
+
   \setmainfont{Inter}[
     Path = {Inter/},
     UprightFont = {Inter_24pt-Regular.ttf},
@@ -44,19 +45,20 @@
 \usepackage{bookmark}      % Better bookmark handling
 \usepackage{fancyhdr}      % For custom header and footer
 \usepackage[english]{babel}  % Language settings
-\usepackage[margin=0.5in]{geometry}
-\usepackage{lastpage}      % For page numbering
+\usepackage[margin=0.25in]{geometry}
+\usepackage{ragged2e}      % For better text alignment
+\usepackage{url}           % For better URL handling
 
 % Define custom colors
-\definecolor{sectioncolor}{RGB}{70, 130, 180}  % Steel blue for section titles
+\definecolor{sectioncolor}{RGB}{0, 0, 0}
+\definecolor{linkcolor}{RGB}{0, 102, 204}      % Link color
 
 % Page styling
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
-\fancyfoot[C]{Page \thepage\ of \pageref{LastPage}} % Center footer
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
-\setlength{\footskip}{13.59999pt} % Adjusted to fix fancyhdr warning
+\setlength{\footskip}{14pt} % Adjusted to fix fancyhdr warning
 
 % Hyperref setup with all links black
 \hypersetup{
@@ -65,10 +67,10 @@
   allbordercolors=white,      % But make the underlines white (invisible)
   % Add metadata below
   pdfauthor={Cheng Ho Ming},
-  pdftitle={Cheng Ho Ming - Resume},
-  pdfsubject={Professional Resume},
+  pdftitle={Cheng Ho Ming - CV},
+  pdfsubject={Professional CV},
   pdfcreator={LaTeX with hyperref package},
-  pdfkeywords={Resume, CV, Cheng Ho Ming}
+  pdfkeywords={CV, Cheng Ho Ming}
 }
 
 \urlstyle{same}
@@ -79,8 +81,8 @@
 
 % Sections formatting - with custom color
 \titleformat{\section}{
-  \vspace{-4pt}\raggedright\large\bfseries\color{sectioncolor}
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+  \vspace{-6pt}\raggedright\large\bfseries\color{sectioncolor}
+}{}{0em}{}[\color{black}\titlerule \vspace{-2pt}]
 
 % Custom icons with links and standalone icons
 \newcommand{\iconlink}[3]{
@@ -90,42 +92,50 @@
   #1~#2
 }
 
-% Icon-enhanced section command
-\newcommand{\iconsection}[2]{
-  \section[#2]{#1~#2}
-}
-
 %-------------------------
 % Custom commands
 \newcommand{\resumeItem}[1]{
   \item\small{
-    {#1 \vspace{-2pt}}
+    {#1}
   }
 }
 
+% Places Title (#3) and Date (#2) on the first line,
+% and Company/Institution (#1) and Location (#4) on the second line.
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
-      \textit{\small#3} & \textit{\small #4} \\
+    \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
+      \raggedright\textbf{#3} & \small#2 \\ % Title (bold) | Date with small font
+      \textit{\small#1} & \textit{\small#4} \\ 
     \end{tabular*}\vspace{-7pt}
 }
 
 \newcommand{\resumeProjectHeading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & #2 \\
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
+      \raggedright\small#1 & \textit{\small#2} \\
     \end{tabular*}\vspace{-7pt}
 }
 
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
-
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
 
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}, itemsep=1pt]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\newcommand{\resumeItemListStart}{
+  \begin{itemize}[
+    leftmargin=0.2in,    % Left indentation for bullets
+    rightmargin=0.2in,   % Add matching right margin
+    itemindent=0pt,       % No additional indentation for items
+    labelindent=0pt,      % No additional indentation for labels
+    labelsep=0.1in,       % Space between bullet and text
+    itemsep=1pt,          % Consistent spacing between items
+    parsep=0pt            % No paragraph separation
+  ]
+}
+\newcommand{\resumeItemListEnd}{\end{itemize}}
+
+% Create a command for the contact information bullet separator
+\newcommand{\contactSep}{\hspace{0.1em}$\bullet$\hspace{0.2em}}
 
 %-------------------------------------------
 %%%%%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%
@@ -135,111 +145,95 @@
 
 %----------HEADING----------
 \begin{center}
-    \textbf{\Huge Cheng Ho Ming} \\ \vspace{1pt}
+    \textbf{\Huge Cheng Ho Ming} \\ \vspace{3pt}
     \small
-    HKU BASc(AppliedAI) Year 2 $\bullet$ \iconlink{\faEnvelope}{mailto:eric310@connect.hku.hk}{eric310@connect.hku.hk} \\ \vspace{1pt}
-    \iconlink{\faGlobe}{https://eric15342335.github.io/}{eric15342335.github.io} $\bullet$ 
-    \iconlink{\faLinkedin}{https://linkedin.com/in/eric15342335}{linkedin.com/in/eric15342335} $\bullet$
+    HKU BASc(AppliedAI) Year 2 \contactSep \iconlink{\faEnvelope}{mailto:eric310@connect.hku.hk}{eric310@connect.hku.hk} \\ \vspace{3pt}
+    \iconlink{\faGlobe}{https://eric15342335.github.io/}{eric15342335.github.io} \contactSep
+    \iconlink{\faLinkedin}{https://linkedin.com/in/eric15342335}{linkedin.com/in/eric15342335} \contactSep
     \iconlink{\faGithub}{https://github.com/eric15342335}{github.com/eric15342335}
 \end{center}
 
 %-----------EDUCATION-----------
-\iconsection{\faGraduationCap}{Education}
+\section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {The University of Hong Kong}{Sep 2023 - Aug 2027 (Expected)}
-      {BASc in Applied Artificial Intelligence}{Hong Kong SAR}
+      {The University of Hong Kong}{}
+      {Bachelor of Arts and Science in Applied Artificial Intelligence}{Sep 2023 -- Aug 2027 (Expected)}
       \resumeItemListStart
         \resumeItem{\textbf{GPA}: 3.48/4.30}
         \resumeItem{\textbf{Second Major}: Computer Science}
-        \resumeItem{\textbf{Relevant Coursework}: Data Structures and Algorithms (A), Java \& OOP (A), C/C++ (A), Python (A+), Computer Organization (A), Probability \& Statistics, Calculus and Linear Algebra}
+        \resumeItem{\textbf{Relevant Coursework}: Data Structures and Algorithms (A), Java \& OOP (A), C/C++ (A), Python (A+), Computer Organization (A), Linear Statistical Analysis, Computer Vision, Database Management Systems}
       \resumeItemListEnd
     \resumeSubheading
-      {King's College}{Sep 2017 - Aug 2023}
-      {Hong Kong Diploma of Secondary Education}{Hong Kong SAR}
+      {King's College}{}
+      {Hong Kong Diploma of Secondary Education}{Sep 2017 -- Aug 2023}
       \resumeItemListStart
         \resumeItem{\textbf{Level 5*} in Mathematics, Physics, Information and Communication Technology}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
-%-----------WORK EXPERIENCE-----------
-\iconsection{\faBriefcase}{Work Experience}
+\section{Professional Experience}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {InspireLab Limited}{May 2024 - Aug 2024}
-      {Embedded Software Developer Intern}{Hong Kong SAR}
+      {The University of Hong Kong}{}
+      {Student Teaching Assistant}{Jan 2025 -- Apr 2025}
       \resumeItemListStart
-        \resumeItem{\iconlink{\faGithub}{https://github.com/eric15342335/inspirematrix-buttons}{github.com/eric15342335/inspirematrix-buttons}}
-        \resumeItem{Utilized a HKD\$7 RISC-V MCU (CH32V003F4P6) and 5+ open-source libraries to prototype STEM education software, including RISC-V compressed instruction programming via buttons}
-        \resumeItem{Utilized 4 hardware modules (USART, ADC, GPIO, and I2C) to detect and control 64+ buttons, LEDs, and a 128x64 monochrome display}
-        \resumeItem{Developed a software emulator library to streamline collaboration between two developers on limited development hardware}
-        \resumeItem{Collaborated with in-house hardware engineers to verify 4+ board designs within the last 4 weeks}
+        \resumeItem{COMP2113 Programming technologies / ENGG1340 Computer programming II (\textbf{Linux, C/C++})}
       \resumeItemListEnd
-  \resumeSubHeadingListEnd
-
-%-----------TEACHING EXPERIENCE-----------
-\iconsection{\faChalkboardTeacher}{Teaching Experience}
-  \resumeSubHeadingListStart
     \resumeSubheading
-      {The University of Hong Kong}{Jan 2025 - Current}
-      {Student Teaching Assistant}{Hong Kong SAR}
+      {InspireLab Limited}{}
+      {Embedded Software Developer Intern}{May 2024 -- Aug 2024}
       \resumeItemListStart
-        \resumeItem{\textbf{COMP2113} Programming technologies / \textbf{ENGG1340} Computer programming II (Linux, C/C++)}
+        \resumeItem{Built a \textbf{RISC-V microcontroller-based STEM toolkit} enabling students to program via hardware buttons; utilized 5+ open-source libraries}
+        \resumeItem{Utilized 4 hardware modules (USART, ADC, GPIO, and I2C) to \textbf{control 64+ buttons, LEDs, and a 128x64 monochrome display}}
+        \resumeItem{Developed a software emulator library to streamline collaboration between two developers on limited development hardware}
+        \resumeItem{Collaborated with hardware engineers to verify 4+ board designs}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
 %-----------PROJECT EXPERIENCE-----------
-\iconsection{\faLaptopCode}{Project Experience}
+\section{Project Experience}
   \resumeSubHeadingListStart
     \resumeProjectHeading
-      {\textbf{Essential IT Skills} (Certificate Course by HKU SAAS Department)}{May 2024 - Jun 2024}
+      {\textbf{Essential IT Skills (Certificate Course by HKU SAAS Department)} \iconlink{\faGithub}{https://github.com/eric15342335/essential-IT}}{May 2024 -- Jun 2024}
       \resumeItemListStart
-        \resumeItem{\iconlink{\faGithub}{https://github.com/eric15342335/essential-IT}{github.com/eric15342335/essential-IT}}
-        \resumeItem{Developed 4 data visualizations of predicted NVIDIA 2024 stock prices using Python matplotlib library}
+        \resumeItem{Developed 4 data visualizations of predicted NVIDIA 2024 stock prices using Python \textbf{matplotlib} library}
         \resumeItem{Collaborated within a team of 5 to analyze and forecast stock trends}
         \resumeItem{Authored a 2000+ word report analyzing time series forecasting techniques, specifically Moving Averages, within a 1 week deadline}
       \resumeItemListEnd
     \resumeProjectHeading
-      {\textbf{Stock Market Simulator} (C++ Terminal Game)}{Apr 2024}
+      {\textbf{Stock Market Simulator (C++ Terminal Game)} \iconlink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}}{Apr 2024}
       \resumeItemListStart
-        \resumeItem{\iconlink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}{github.com/eric15342335/comp2113-engg1340-group-project}}
-        \resumeItem{Implemented automated code compilation and testing across 3 platforms using GitHub Actions}
-        \resumeItem{Maintained code quality through automated formatting checks on 50+ pull requests}
+        \resumeItem{Implemented automated \textbf{CI/CD} across 3 platforms using \textbf{GitHub Actions}, maintaining code quality through checks on 50+ pull requests}
         \resumeItem{Led a team of 5 first-year students in software design and task allocation}
       \resumeItemListEnd
     \resumeProjectHeading
-      {\textbf{PyInstaller} (Open Source Development)}{Jul 2021 - Nov 2021}
+    {\textbf{PyInstaller (Open Source Development)} \iconlink{\faGithub}{https://github.com/pyinstaller/pyinstaller-hooks-contrib}}{Jul 2021 -- Nov 2021}
       \resumeItemListStart
-        \resumeItem{\iconlink{\faGithub}{https://github.com/pyinstaller/pyinstaller-hooks-contrib}{github.com/pyinstaller/pyinstaller-hooks-contrib}}
-        \resumeItem{Contributed to PyInstaller merging 15+ pull requests, addressing community needs}
-        \resumeItem{Became a contributor to the PyInstaller project, a popular open-source tool with over 10,000 stars on GitHub}
-        \resumeItem{Provided community support on \iconlink{\faStackOverflow}{https://stackoverflow.com/}{Stack Overflow}, resolving PyInstaller-related issues and receiving 10+ upvotes and "Accepted" status on solutions}
+        \resumeItem{Contributed to PyInstaller by merging 15+ pull requests, addressing community needs for this popular open-source tool (10,000+ GitHub stars)}
+        % \resumeItem{Provided community support on \iconlink{\faStackOverflow}{https://stackoverflow.com/}{Stack Overflow}, resolving PyInstaller-related issues with 10+ upvotes and "Accepted" status}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
-
-%-----------EXTRACURRICULAR ACTIVITIES-----------
-\iconsection{\faPeopleCarry}{Extra Curricular Activities}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {UNICEF Club at HKU}{Mar 2025 - Current}
-      {Director of Information Technology (Website Manager)}{Hong Kong SAR}
-    \resumeSubheading
-      {KCOBA Junior Chapter Lunar New Year Fair}{Jan 2025}
-      {Booth Helper}{Hong Kong SAR}
-    \resumeSubheading
-      {King's College Harmonica Band}{Sep 2021 - Aug 2022}
-      {Treble II Section Leader}{Hong Kong SAR}
-  \resumeSubHeadingListEnd
-
 %-----------SKILLS-----------
-\iconsection{\faTools}{Skills}
+\section{Skills}
   \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-      \textbf{Programming \simpleicon{\faCode}{}}{: Python, C/C++, Pascal, Bash, Excel VBA, HTML\&CSS, JavaScript, Java, R, MySQL} \\
-      \textbf{Language \simpleicon{\faLanguage}{}}{: Cantonese (Native), Mandarin (Fluent), English (Fluent)} \\
-      \textbf{Tools}{: \simpleicon{\faLinux}{Linux}, \simpleicon{\faGit}{Git}, \simpleicon{\faGithub}{GitHub Actions}, \simpleicon{\faMicrosoft}{Microsoft Office}, \simpleicon{\faWordpress}{WordPress/Wix}, \LaTeX}
+      \textbf{Language}{: Cantonese (Native Speaker), Mandarin (Fluent), English (Fluent)} \\[2pt]
+      \textbf{Programming}{: Python (Data Science), C/C++, Bash, HTML5, CSS3, JavaScript, Java, R, MySQL} \\[2pt]
+      \textbf{Tools}{: Linux, Git, GitHub Actions (CI/CD), LaTeX}
     }}
   \end{itemize}
+
+%-----------OTHER EXPERIENCE-----------
+\section{Other Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {UNICEF Club at HKU}{}
+      {Director of Information Technology (Website Manager)}{Mar 2025 -- Current}
+    \resumeSubheading
+      {King's College Harmonica Band}{}
+      {Treble II Section Leader}{Sep 2021 -- Aug 2022}
+  \resumeSubHeadingListEnd
 
 %% Add this if you want a footer with your contact info
 \vfill
