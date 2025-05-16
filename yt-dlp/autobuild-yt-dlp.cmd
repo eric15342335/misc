@@ -6,6 +6,7 @@ git clone https://github.com/yt-dlp/yt-dlp --depth=1
 
 rem Clear cache
 if %USE_UV%==1 (
+    pip install uv
     uv cache prune
     uv venv
 ) else (
