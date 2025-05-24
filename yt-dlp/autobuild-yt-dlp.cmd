@@ -22,7 +22,7 @@ set PATH=%PATH%;E:\Personal Data\Repositories\mingw64\bin
 rem $env:PATH += 'E:\Personal Data\Repositories\mingw64\bin'
 
 rem Build PyInstaller bootloader using custom gcc binaries
-set CFLAGS=-flto -march=haswell -mtune=generic -pipe
+set CFLAGS=-flto -pipe
 python .\waf all --gcc -j 21
 cd ..\
 
@@ -53,7 +53,7 @@ pyinstaller -y --clean yt_dlp/__main__.py --name yt-dlp --noupx --version-file v
 pyinstaller -y --onefile yt_dlp/__main__.py --name yt-dlp --noupx --version-file versioninfo.txt --collect-submodules yt-dlp.yt_dlp.utils --icon ../banner.ico --recursive-copy-metadata yt-dlp --recursive-copy-metadata pyinstaller
 
 cp ..\ffmpeg.exe dist\yt-dlp\
-cp -r dist\yt-dlp\ ..\yt_dlp\
+xcopy dist\* ..\dist\ /E /I /Y
 cp README.md ..\yt_dlp\
 cd ..\
 
@@ -61,4 +61,3 @@ rem Clean up
 rem rm -rf yt-dlp
 rem rm -rf pyinstaller
 rem rm -rf venv
-
