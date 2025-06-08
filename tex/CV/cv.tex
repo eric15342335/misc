@@ -42,7 +42,7 @@
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage[margin=0.25in]{geometry}
-\usepackage{ragged2e} % Provides \justifying and \RaggedRight commands
+% \usepackage{ragged2e} % Removed as per request to remove ragged stuff
 \usepackage{url}
 
 % Define custom colors
@@ -72,13 +72,13 @@
 
 \urlstyle{same}
 
-\raggedbottom
-\raggedright % Global ragged right for the document
+% \raggedbottom % Removed as per request
+% \raggedright % Global ragged right for the document - Removed
 \setlength{\tabcolsep}{0in}
 
 % Sections formatting
 \titleformat{\section}{
-  \vspace{-6pt}\raggedright\large\bfseries\color{sectioncolor}
+  \vspace{-6pt}\large\bfseries\color{sectioncolor} % Removed \raggedright
 }{}{0em}{}[\color{black}\titlerule \vspace{-2pt}]
 
 % Custom icons with links and standalone icons
@@ -94,14 +94,14 @@
 
 % For bullet points under roles/projects/education
 \newcommand{\resumeItem}[1]{
-  \item\small\RaggedRight{#1} % Using RaggedRight for better text flow
+  \item\small{#1} % Removed \RaggedRight
 }
 
 % For Education section (Institution, Location, Degree, Dates)
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
-      \raggedright\textbf{#1} & \small#2 \\
+      \textbf{#1} & \small#2 \\ % Removed \raggedright from here
       \textit{\small#3} & \textit{\small#4} \\
     \end{tabular*}\vspace{-7pt}
 }
@@ -110,7 +110,7 @@
 \newcommand{\resumeProjectHeading}[2]{
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
-      \raggedright\small#1 & \textit{\small#2} \\
+      \small#1 & \textit{\small#2} \\ % Removed \raggedright from here
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -150,7 +150,7 @@
 \newenvironment{resumeExperience}[2]{% Args: #1=Institution, #2=Location
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
-      \raggedright\textbf{#1} & \small#2 \\
+      \textbf{#1} & \small#2 \\ % Removed \raggedright from here
     \end{tabular*}\vspace{-7pt}%
     \begin{resumeRoleList}%
 }{%
@@ -186,44 +186,42 @@
 %-----------EDUCATION-----------
 \section{Education}
   \resumeSubHeadingListStart
-    \resumeSubheading % Uses the original \resumeSubheading
+    \resumeSubheading
       {The University of Hong Kong}{Hong Kong}
       {Bachelor of Arts and Science in Applied Artificial Intelligence (BASc(AppliedAI))}{Sep 2023 -- Aug 2027 (Expected)}
       \resumeItemListStart
         \resumeItem{\textbf{GPA}: 3.48/4.30}
         \resumeItem{\textbf{Second Major}: Computer Science}
-        \resumeItem{\textbf{Relevant Coursework}: Data Structures and Algorithms (A), Java \& OOP (A), C/C++ (A), Python (A+), Computer Organization (A), Linear Statistical Analysis, Computer Vision, Intro to Database}
+        \resumeItem{\textbf{Relevant Coursework}: Data Structures and Algorithms (A), Java and OOP (A), C/C++ (A), Python (A+), Computer Organization (A), Linear Statistical Analysis, Computer Vision, Introduction to Database}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
 \section{Professional Experience}
-  \resumeSubHeadingListStart % Outer list for all experience entries
+  \resumeSubHeadingListStart
 
     \begin{resumeExperience}{Radio Television Hong Kong (RTHK)}{Hong Kong}
       \resumeRole{Summer Intern, (JT5) Engineering Section, Production Services Division}{Jun 2025 -- Aug 2025 (Upcoming)}
-      \resumeItemListStart
-        \resumeItem{Details to be confirmed}
-      \resumeItemListEnd
+      % Intentionally blank for upcoming role with unconfirmed details
     \end{resumeExperience}
 
     \begin{resumeExperience}{The University of Hong Kong}{Hong Kong}
       \resumeRole{Part-Time, Student Research Assistant}{May 2025 -- (Current)}
       \resumeItemListStart
-        \resumeItem{Assist in curation of scholarly literatures for the \textbf{\href{https://corpus-chat.com/}{CorpusChat}} project under the supervision of Dr. Lisa Cheung, \break Center of Applied English Studies (CAES)}
+        \resumeItem{Support CorpusChat by identifying, filtering, and curating scientific literature for linguistic analysis under the supervision of Dr. Lisa Cheung (Center of Applied English Studies)}
       \resumeItemListEnd
 
-      \resumeRole{Student Teaching Assistant (Semester 2)}{Jan 2025 -- Apr 2025}
+      \resumeRole{Part-Time, Student Teaching Assistant}{Jan 2025 -- Apr 2025}
       \resumeItemListStart
-        \resumeItem{COMP2113 Programming technologies / ENGG1340 Computer programming II (\textbf{Linux, C/C++})}
+        \resumeItem{Taught COMP2113/ENGG1340 (C++/Linux) via support sessions and addressing 15+ student online forum queries}
       \resumeItemListEnd
     \end{resumeExperience}
 
     \begin{resumeExperience}{InspireLab Limited}{Hong Kong}
       \resumeRole{Summer Intern, Embedded Software Developer}{May 2024 -- Aug 2024}
       \resumeItemListStart
-        \resumeItem{Built a \textbf{RISC-V microcontroller STEM toolkit} enabling students to program via hardware buttons; utilized 5+ open-source libraries}
-        \resumeItem{Utilized 4 hardware modules to \textbf{control 64+ buttons, LEDs, and a 128x64 monochrome display}}
-        \resumeItem{Developed 1 software emulator library to streamline collaboration between developers on limited hardware}
+        \resumeItem{Built \textbf{RISC-V microcontroller STEM toolkit} for hardware button programming; used 5+ open-source libraries}
+        \resumeItem{Utilized 4 hardware modules to control \textbf{64+ buttons, LEDs, and a 128x64 monochrome display}}
+        \resumeItem{Developed \textbf{API-level hardware simulator} (header-based) mapping embedded I/O to terminal for development}
         \resumeItem{Collaborated with hardware engineers to verify 4+ board designs}
       \resumeItemListEnd
     \end{resumeExperience}
@@ -237,28 +235,28 @@
       {\textbf{Reproducing RealFill: Reference-Driven Authentic Image Completion} \icononlylink{\faGithub}{https://github.com/eric15342335/realfill} \icononlylink{\faFilePdf}{https://github.com/eric15342335/realfill/releases/download/project/APAI3010_Project_Report_compressed_linearize.pdf}}
       {Mar 2025 -- May 2025}
       \resumeItemListStart
-        \resumeItem{Collaborated in a group of three to \textbf{reproduce} and extended the \textbf{RealFill (Tang et al, SIGGRAPH 2024)} paper on \textbf{authentic} image completion}
-        \resumeItem{Implemented \emph{ReFill}, our extension using a 2-stage iterative refinement pipeline with top-ranked generated images to augment existing reference images}
-        \resumeItem{Engineered a comprehensive \textbf{benchmarking suite} to evaluate image completion authenticity across RealBench and custom datasets using 6 metrics (e.g. LPIPS, CLIP, DINO, DreamSim)}
+        \resumeItem{Co-reproduced and extended \textbf{RealFill (Tang et al, SIGGRAPH 2024)} for authentic image completion}
+        \resumeItem{Implemented \emph{ReFill} extension: \textbf{2-stage iterative refinement pipeline with LoFTR-ranked} images to augment references}
+        \resumeItem{Engineered \textbf{benchmarking suite} (6 metrics e.g. LPIPS, CLIP) for authenticity on RealBench and custom datasets}
       \resumeItemListEnd
     \resumeProjectHeading
       {\textbf{Essential IT Skills (Certificate Course by HKU SAAS Department)} \icononlylink{\faGithub}{https://github.com/eric15342335/essential-IT}}
       {May 2024 -- Jun 2024}
       \resumeItemListStart
-        \resumeItem{Collaborated within a team of 5 to analyze and forecast \$NVDA stock trends, co-authored a report on time series forecasting within 1 week}
+        \resumeItem{Developed Matplotlib (Python) visualizations for \$NVDA stock forecasts (team project); co-authored 1-week time series report}
       \resumeItemListEnd
     \resumeProjectHeading
       {\textbf{Stock Market Simulator (C++ Terminal Game)} \icononlylink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}}
       {Apr 2024}
       \resumeItemListStart
-        \resumeItem{Implemented automated \textbf{CI/CD} across 3 platforms using \textbf{GitHub Actions}, maintaining code quality through checks on 50+ pull requests}
-        \resumeItem{Led a team of 5 university students in software design and task allocation for the C++ terminal game}
+        \resumeItem{Implemented \textbf{CI/CD} (3 platforms) via \textbf{GitHub Actions}, ensuring code quality (50+ PR checks)}
+        \resumeItem{Led team of 5 in software design, \textbf{defining key modules (events, stock mechanics, I/O)}, and task allocation for C++ game}
       \resumeItemListEnd
     \resumeProjectHeading
       {\textbf{PyInstaller (Open Source Development)} \icononlylink{\faGithub}{https://github.com/pyinstaller/pyinstaller-hooks-contrib}}
       {Jul 2021 -- Nov 2021}
       \resumeItemListStart
-        \resumeItem{Contributed to PyInstaller by merging 15+ pull requests}
+        \resumeItem{Authored \textbf{15+ PyInstaller-hooks-contrib hooks} (e.g. Kivy), patches/docs to core; enhanced Git \& CI/CD skills}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
@@ -267,9 +265,9 @@
   \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
       \textbf{Language}{: Cantonese (Native Speaker), Mandarin (Fluent), English (Fluent, HKDSE level 5)} \\[2pt]
-      \textbf{Programming}{: Python, C/C++, Shell Scripting, Web Development (Express, React, MongoDB), Java, R, MySQL} \\[2pt]
-      \textbf{AI/ML \& Data Science}{: Generative Models (Diffusion, Inpainting), Computer Vision (Image Completion, Model Evaluation), Data Visualization, PyTorch} \\[2pt]
-      \textbf{Tools}{: Linux, Git, GitHub Actions (CI/CD), LaTeX, Docker}
+      \textbf{Programming}{: Python (Advanced; packaging, scripting), C/C++, Java (OOP), Shell Scripting, Web Development (MERN stack), R, MySQL} \\[2pt]
+      \textbf{AI/ML \& Data Science}{: Generative Models (Applied Diffusion/Inpainting e.g. RealFill), Computer Vision (Image Completion, Model Evaluation with LPIPS/CLIP/DINO), PyTorch} \\[2pt]
+      \textbf{Tools}{: Linux, Git (Advanced; branching, merging, CI workflows), GitHub Actions (CI/CD), LaTeX, Docker}
     }}
   \end{itemize}
 
