@@ -1,3 +1,4 @@
+echo start
 set USE_UV=1
 
 rem Clone the respective repositories
