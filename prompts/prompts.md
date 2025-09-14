@@ -1,10 +1,5 @@
 # Collection of Prompts
 
-## R program for linear regression: automatic variable selection
-
-Can you write an R program which performs linear regression on this dataset, it should include the following features (pick the one you think is reasonable, appropriate or can enhance the statistical accuracy):
-multiple linear regression, polynomial regression, interactive regression, variable selection, forward/backward/stepwise elimination method, data cleaning on missing data, feature creation etc. the context is to predict what factor can make a us movie profitable. Y = worldwide gross. you can use inflation adjusted gross too (you need to calculate it yourself). feature encoding: create a new variable isMajorStudio which checks the film company is in the US "big five". etc. it should find the BEST regression model and print its statistics and scores.
-
 ## English blog post translation request
 
 请将这篇英文博客文章翻译成简体中文。我希望翻译结果：
@@ -55,19 +50,6 @@ I need:
 9. Script formatting that visually separates each slide to help with navigation during presentation
 
 Prioritize authenticity and speakability while ensuring the script satisfies academic requirements and showcases critical thinking about the subject matter.
-
-## GPT-4.1
-
-Can you help polish the labelled section? Avoid using the long hyphen for connecting sentences. Avoid using point form. Complete sentence. You must mix US and UK wordings. You must use redundant articles like "the" and "in order to" (not limited to these!). Basic grammar mistake should be avoided! Any kinds of non-formal usage should not present, yet normally your text will stay in between semi-formal and formal, jumping between and between. Also, reduce nonsense sentences that are simply repeating or summarizing. Avoid using advanced words that are not commonly used in professional setting and weird unclear expression or use of words. Between any two full-stop or commas, there must be more than 5 words in 95% of the case. Your grammar must not be perfect. But you should only include hard-to-spot grammar mistakes as many as you can!
-
-## Reduction of word count
-
-please perform the following:
-
-1. pick 10 words that you want to change, to make this essay more formal and appropriate.
-2. delete as many words as you want to make it better. unlimited.
-3. avoid rephrasing unless critically necessary.
-4. bold and state your changes like this (something -> new)
 
 ## Gemini 2.0 Flash Thinking Experimental Prompt
 
@@ -135,9 +117,7 @@ Essentially, please act as a versatile assistant who is knowledgeable, patient, 
    - Avoid informal or formal conversation unless explicitly required. Use an slightly encouraging tone.
    - Use a slightly encouraging tone. Do not output Mandarin Pinyin unless explicitly required.
 
-## concises ver
-
-LaTeX Format: Use single $ for formulas (no spaces inside: $123$ not $ 123 $). Don't enclose regular or formatted text in $. Provide PhD-level depth in answers, not surface-level explanations. Code Blocks: Make code easy to copy/paste. Avoid placeholders like "// rest of code...". For long code, split into multiple blocks and continue only when I say "Proceed." Avoid commenting inside the code. Web Searches: Use multiple searches per query. Search in multiple languages (English, Chinese, other relevant languages) for diverse results. Break complex topics into smaller parts with intuitive examples and analogies. Balance technical accuracy with clear language and practical applications. Provide encouragement while acknowledging difficulties. Explain the "why" behind concepts, not just "how". Be patient and empathetic with both technical and social questions. Assess risks and suggest strategies for social scenarios. Before offering solutions, ask to understand your current perspective, specifically why you are stuck or believe a method is unworkable. Explain in detail, with logical flow, strong coherence. Be "grammar nazi": always point out the grammar mistakes the user made no matter in what context or situation. Avoid informal or formal conversation unless explicitly required. Do not output Mandarin Pinyin unless explicitly required. Avoid generic advice like "just be more disciplined."
+6. In addition to explain the what behind a question, explain your reasoning, the "why", as well as the assumptions behind the scenes.
 
 ## Prepare answers for an examination paper
 
@@ -162,11 +142,3 @@ I have an examination paper in PDF format that I need your help with. Please per
 
 The goal is to produce a comprehensive and professionally formatted LaTeX document containing the exam questions and thoroughly explained solutions. Your output should only contain one, single codeblock that consists of the ideal LaTeX model answers with detailed steps.
 ```
-
-## Misc
-
-Give me a detailed summary like above, but instead avoid using point forms and prefer complete sentences with active voices.
-
-## Gemini Deep Research
-
-Write a clear, concise, no-nonsense report for second-year undergraduate computer science students. Use a semi-formal tone and simple English. Be straight to the point, cover every key point in depth, and focus on specific details rather than broad overviews. Use a slightly more active voice, sound natural, and avoid being overly encouraging.

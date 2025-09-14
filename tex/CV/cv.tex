@@ -30,6 +30,7 @@
 \else
   \usepackage[T1]{fontenc}
   \usepackage{lmodern}
+  \usepackage{newtxtext,newtxmath}
   \input{glyphtounicode}
   \pdfgentounicode=1
 \fi
@@ -178,16 +179,16 @@
     \begin{resumeExperience}{Radio Television Hong Kong (RTHK) \icononlylink{\faGlobe}{https://www.rthk.hk}}{Hong Kong}
       \resumeRole{Summer Intern, Engineering Section (Broadcast Systems), Production Services Division}{Jun 2025 -- Aug 2025}
         \resumeItemListStart
-          \resumeItem{Engineered a video automation pipeline using Python (OpenCV, MediaPipe) that generated over \textbf{500+ unique videos} for a visitor showcase, completely eliminating manual editing effort by \textbf{100\%}.}
-          \resumeItem{Developed a proof-of-concept for motion capture using a standard webcam, Blender, and Unreal Engine to animate 3D models, demonstrating a cost-effective method for repurposing media assets.}
-          \resumeItem{Prototyped an NLP system to correct Cantonese transcription errors from OpenAI Whisper, demonstrating a potential \textbf{5\% reduction} in manual editing time for TV subtitle production.}
+          \resumeItem{Researched the feasibility of correcting Cantonese subtitle transcription errors with \textbf{Streamlit} and \textbf{PyCantonese}, and developed a demo system for internal evaluation, identifying potential to reduce manual editing effort based on sample data.}
+          \resumeItem{Developed a Python-based video post-processing tool using \textbf{OpenCV} and \textbf{MediaPipe} for a visitor workshop; enabled a one-button automated workflow (“START”) to record, save, add effects, and playback, generating hundreds of unique showcase videos.}
+          \resumeItem{Researched and evaluated webcam-based motion capture tools for 3D model animation; selected and tested a top free solution (System Animator) and validated 3D asset workflow (FBX to VRM conversion) using \textbf{Blender} and \textbf{Unreal Engine}.}
         \resumeItemListEnd
     \end{resumeExperience}
 
     \begin{resumeExperience}{The University of Hong Kong \icononlylink{\faGlobe}{https://www.hku.hk}}{Hong Kong}
       \resumeRole{Part-Time, Student Research Assistant}{May 2025 -- Jun 2025}
       \resumeItemListStart
-        \resumeItem{Curated a specialized dataset of \textbf{200+ scientific articles} for a linguistic analysis chatbot under Principal Investigator \href{https://caes.hku.hk/staff/teaching-staff/lisa-cheung/}{Dr. Lisa Cheung}.}
+        \resumeItem{Curated a specialized dataset of \textbf{200+ scientific articles} for a linguistic analysis chatbot under principal investigator \href{https://caes.hku.hk/staff/teaching-staff/lisa-cheung/}{Dr. Lisa Cheung}.}
       \resumeItemListEnd
 
       \resumeRole{Part-Time, Student Teaching Assistant}{Jan 2025 -- Apr 2025}
@@ -200,7 +201,7 @@
       \resumeRole{Summer Intern, Embedded Software Developer}{May 2024 -- Aug 2024}
       \resumeItemListStart
         \resumeItem{Engineered a functional \textbf{RISC-V} microcontroller STEM toolkit, integrating 5+ open-source libraries and controlling over \textbf{64+ I/O components}.}
-        \resumeItem{Developed a C-based, API-level hardware simulator to decouple software from hardware, enabling rapid, parallel testing and iteration.}
+        \resumeItem{Developed a C-based, API-level hardware simulator to decouple software from hardware, enabling rapid parallel testing and iteration.}
       \resumeItemListEnd
     \end{resumeExperience}
 
@@ -213,30 +214,31 @@
       {\textbf{\href{https://alphahku.page}{alphahku.page} (Student Organization Website)} \icononlylink{\faGlobe}{https://alphahku.page} \icononlylink{\faGithub}{https://github.com/ALPHA-HKU-Org/website}} 
       {July 2025 -- Aug 2025}
       \resumeItemListStart
-        \resumeItem{Developed a static website for a student organization using \textbf{Next.js}, shadcn/ui, framer-motion, Tailwind CSS, and gemini-cli.}
+        \resumeItem{Developed a static website for a student organization using \textbf{Next.js}, shadcn/ui, framer-motion, Tailwind CSS, and deployed on Vercel.}
       \resumeItemListEnd
 
-    \resumeProjectHeading
-      {\textbf{Reproducing RealFill (SIGGRAPH 2024)}}
-      {Mar 2025 -- May 2025}
-      \resumeItemListStart
-        \resumeItem{Extended the RealFill paper by implementing a 2-stage iterative refinement pipeline using LoFTR to improve image completion authenticity as a course group project.}
-      \resumeItemListEnd
+  \resumeProjectHeading
+    {\textbf{Reproducing RealFill (SIGGRAPH 2024)} \icononlylink{\faGithub}{https://github.com/eric15342335/realfill}} 
+    {Mar 2025 -- May 2025}
+    \resumeItemListStart
+      \resumeItem{Implemented and benchmarked a custom two-stage refinement pipeline based on LoFTR by integrating and modifying RealFill code in Jupyter Notebooks as a course group project.}
+    \resumeItemListEnd
 
-    \resumeProjectHeading
-      {\textbf{Stock Market Simulator (C++ Terminal Game)} \icononlylink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}}
-      {Apr 2024}
-      \resumeItemListStart
-        \resumeItem{\textbf{Led a team of 5} in software design, defining key modules and allocating tasks for a C++ terminal-based game.}
-        \resumeItem{Implemented \textbf{CI/CD pipelines} on 3 platforms using GitHub Actions, ensuring code quality via \textbf{50+ automated pull request checks}.}
-      \resumeItemListEnd
+  \resumeProjectHeading
+    {\textbf{Stock Market Simulator (C++ Terminal Game)} \icononlylink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}}
+    {Apr 2024}
+    \resumeItemListStart
+      \resumeItem{Led a team of 5 in designing software modules and managing development tasks for a C++ terminal-based game.}
+      \resumeItem{Enhanced developer experience and collaboration by implementing \textbf{CI/CD pipelines} on 3 platforms using GitHub Actions, automating compilation and code checks for all pull requests.}
+    \resumeItemListEnd
 
-    \resumeProjectHeading
-      {\textbf{PyInstaller (Open Source Development)} \icononlylink{\faGithub}{https://github.com/pyinstaller/}}
-      {Jul 2021 -- Nov 2021}
-      \resumeItemListStart
-        \resumeItem{Authored \textbf{15+ PyInstaller hooks} to expand support for libraries like Kivy, contributing directly to a major open-source project with over \textbf{12k+ stars}.}
-      \resumeItemListEnd
+  \resumeProjectHeading
+    {\textbf{PyInstaller (Open Source Development)} \icononlylink{\faGithub}{https://github.com/pyinstaller/}}
+    {Jul 2021 -- Nov 2021}
+    \resumeItemListStart
+      \resumeItem{Contributed \textbf{15+} custom PyInstaller hooks (e.g., for Kivy), all merged and adopted upstream in 2021, improving library compatibility and developer experience for the open-source project.}
+    \resumeItemListEnd
+
   \resumeSubHeadingListEnd
 
 %-----------EDUCATION-----------
@@ -244,11 +246,18 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {The University of Hong Kong}{Hong Kong}
-      {Bachelor of Arts and Science in Applied Artificial Intelligence (BASc(AppliedAI))}{Sep 2023 -- Aug 2027 (Expected)}
+      {Bachelor of Arts and Science in Applied Artificial Intelligence (BASc(AppliedAI))}{Sep 2023 -- Jul 2027 (Expected)}
       \resumeItemListStart
         \resumeItem{\textbf{CGPA}: 3.56/4.30 \quad \textbf{Second Major}: Computer Science}
-        \resumeItem{\textbf{Relevant Coursework}: Data Structures and Algorithms, Linear Statistical Analysis, Computer Vision}
       \resumeItemListEnd
+
+    \resumeSubheading
+      {King's College}{Hong Kong}
+      {Hong Kong Diploma of Secondary Education}{Sep 2017 -- Aug 2023}
+      \resumeItemListStart
+        \resumeItem{Best 5 subjects: Physics (5*), Mathematics (5*), ICT (5*), Chinese (5), English (5)}
+      \resumeItemListEnd
+
   \resumeSubHeadingListEnd
 
 %-----------SKILLS-----------
@@ -256,8 +265,10 @@
   \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
       \textbf{Languages}{: Cantonese (Native), Mandarin (Fluent), English (Fluent)} \\[2pt]
-      \textbf{Programming}{: Python, C/C++, Java, Web Development (React.js, Express.js), SQL} \\[2pt]
-      \textbf{Tools}{: Linux, Git, GitHub Actions, LaTeX, Google Cloud, FFmpeg}
+      \textbf{Programming}{: Python (Data Science), C/C++ (Makefile, CMake), Java (OOP only), SQL (MySQL), NoSQL (MongoDB)} \\[2pt]
+      \textbf{Web Development}{: React.js, Next.js, Express.js, Tailwind CSS, Jekyll, PHP} \\[2pt]
+      \textbf{Tools}{: Linux (Ubuntu, Arch), Git, CI/CD (GitHub Actions, Docker), LaTeX} \\[2pt]
+      \textbf{Cloud}{: Deployed applications and hosted a Minecraft server on Google Cloud Compute Engine using free trial credits}
     }}
   \end{itemize}
 
