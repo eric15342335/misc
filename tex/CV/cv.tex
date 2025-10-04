@@ -6,6 +6,7 @@
 \usepackage{iftex}
 
 % Common packages for both engines
+\usepackage[utf8]{inputenc}
 \usepackage{latexsym}
 \usepackage{titlesec}
 \usepackage{marvosym}
@@ -154,7 +155,7 @@
     \end{tabular*}
 }
 
-\newcommand{\contactSep}{\hspace{0.1em}$\bullet$\hspace{0.2em}}
+\newcommand{\contactSep}{\hspace{0.3em}$\bullet$\hspace{0.45em}}
 
 %-------------------------------------------
 %%%%%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%
@@ -166,17 +167,25 @@
 \begin{center}
   \textbf{\Huge Cheng Ho Ming} \\ \vspace{3pt}
   \small
-  HKU BASc(AppliedAI) Year 3 \contactSep \iconlink{\faEnvelope}{mailto:eric310@connect.hku.hk}{eric310@connect.hku.hk} \contactSep \iconlink{\faPhone}{https://wa.me/85294998184}{+852 9499 8184} \\ \vspace{3pt}
-  \iconlink{\faGlobe}{https://eric15342335.github.io/}{eric15342335.github.io} \contactSep
-  \iconlink{\faLinkedin}{https://linkedin.com/in/eric15342335}{linkedin.com/in/eric15342335} \contactSep
-  \iconlink{\faGithub}{https://github.com/eric15342335}{github.com/eric15342335}
+  HKU BASc(AppliedAI) Year 3 \contactSep
+  %  \iconlink{\faEnvelope}{mailto:eric310@connect.hku.hk}{eric310@connect.hku.hk}
+  %  \iconlink{\faPhone}{https://wa.me/85294998184}{+852 9499-8184} \\ \vspace{3pt}
+  %  \iconlink{\faGlobe}{https://eric15342335.github.io/}{Website}
+  %  \iconlink{\faLinkedin}{https://linkedin.com/in/eric15342335}{eric15342335}
+  %  \iconlink{\faGithub}{https://github.com/eric15342335}{eric15342335}
+  Email: 123erichappy123@gmail.com \contactSep
+  Phone: +852-94998184 \\ \vspace{3pt}
+  Website: eric15342335.github.io \contactSep
+  LinkedIn: eric15342335 \contactSep
+  GitHub: eric15342335
+
 \end{center}
 
 %-----------PROFESSIONAL EXPERIENCE-----------
 \section{Professional Experience}
   \resumeSubHeadingListStart
 
-    \begin{resumeExperience}{Radio Television Hong Kong (RTHK) \icononlylink{\faGlobe}{https://www.rthk.hk}}{Hong Kong}
+    \begin{resumeExperience}{Radio Television Hong Kong (RTHK)}{Hong Kong}
       \resumeRole{Summer Intern, Engineering Section (Broadcast Systems), Production Services Division}{Jun 2025 -- Aug 2025}
         \resumeItemListStart
           \resumeItem{Researched the feasibility of correcting Cantonese subtitle transcription errors with \textbf{Streamlit} and \textbf{PyCantonese}, and developed a demo system for internal evaluation, identifying potential to reduce manual editing effort based on sample data.}
@@ -185,10 +194,10 @@
         \resumeItemListEnd
     \end{resumeExperience}
 
-    \begin{resumeExperience}{The University of Hong Kong \icononlylink{\faGlobe}{https://www.hku.hk}}{Hong Kong}
+    \begin{resumeExperience}{The University of Hong Kong}{Hong Kong}
       \resumeRole{Part-Time, Student Research Assistant}{May 2025 -- Jun 2025}
       \resumeItemListStart
-        \resumeItem{Curated a specialized dataset of \textbf{200+ scientific articles} for a linguistic analysis chatbot under principal investigator \href{https://caes.hku.hk/staff/teaching-staff/lisa-cheung/}{Dr. Lisa Cheung}.}
+        \resumeItem{Curated a specialized dataset of \textbf{200+ scientific articles} for a linguistic analysis chatbot under principal investigator Dr. Lisa Cheung.}
       \resumeItemListEnd
 
       \resumeRole{Part-Time, Student Teaching Assistant}{Jan 2025 -- Apr 2025}
@@ -197,7 +206,7 @@
       \resumeItemListEnd
     \end{resumeExperience}
 
-    \begin{resumeExperience}{InspireLab Limited \icononlylink{\faGlobe}{https://inspirelab.hk}}{Hong Kong}
+    \begin{resumeExperience}{InspireLab Limited}{Hong Kong}
       \resumeRole{Summer Intern, Embedded Software Developer}{May 2024 -- Aug 2024}
       \resumeItemListStart
         \resumeItem{Engineered a functional \textbf{RISC-V} microcontroller STEM toolkit, integrating 5+ open-source libraries and controlling over \textbf{64+ I/O components}.}
@@ -211,21 +220,21 @@
 \section{Project Experience}
   \resumeSubHeadingListStart
     \resumeProjectHeading
-      {\textbf{\href{https://alphahku.page}{alphahku.page} (Student Organization Website)} \icononlylink{\faGlobe}{https://alphahku.page} \icononlylink{\faGithub}{https://github.com/ALPHA-HKU-Org/website}} 
+      {\textbf{\href{https://alphahku.page}{alphahku.page}}}% \icononlylink{\faGlobe}{https://alphahku.page} \icononlylink{\faGithub}{https://github.com/ALPHA-HKU-Org/website}} 
       {July 2025 -- Aug 2025}
       \resumeItemListStart
-        \resumeItem{Developed a static website for a student organization using \textbf{Next.js}, shadcn/ui, framer-motion, Tailwind CSS, and deployed on Vercel.}
+        \resumeItem{Developed a static website for a student organization using \textbf{Next.js}, shadcn/ui, Tailwind CSS, and deployed on Vercel.}
       \resumeItemListEnd
 
   \resumeProjectHeading
-    {\textbf{Reproducing RealFill (SIGGRAPH 2024)} \icononlylink{\faGithub}{https://github.com/eric15342335/realfill}} 
+    {\textbf{Reproducing RealFill (a research paper on SIGGRAPH 2024)}}% \icononlylink{\faGithub}{https://github.com/eric15342335/realfill}} 
     {Mar 2025 -- May 2025}
     \resumeItemListStart
-      \resumeItem{Implemented and benchmarked a custom two-stage refinement pipeline based on LoFTR by integrating and modifying RealFill code in Jupyter Notebooks as a course group project.}
+      \resumeItem{Implemented and benchmarked a custom two-stage refinement pipeline based on LoFTR by integrating and modifying RealFill code in Jupyter Notebook.}
     \resumeItemListEnd
 
   \resumeProjectHeading
-    {\textbf{Stock Market Simulator (C++ Terminal Game)} \icononlylink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}}
+    {\textbf{Stock Market Simulator (C++ Terminal Game)}}% \icononlylink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}}
     {Apr 2024}
     \resumeItemListStart
       \resumeItem{Led a team of 5 in designing software modules and managing development tasks for a C++ terminal-based game.}
@@ -233,7 +242,7 @@
     \resumeItemListEnd
 
   \resumeProjectHeading
-    {\textbf{PyInstaller (Open Source Development)} \icononlylink{\faGithub}{https://github.com/pyinstaller/}}
+    {\textbf{PyInstaller (Open Source Development)}}% \icononlylink{\faGithub}{https://github.com/pyinstaller/}}
     {Jul 2021 -- Nov 2021}
     \resumeItemListStart
       \resumeItem{Contributed \textbf{15+} custom PyInstaller hooks (e.g., for Kivy), all merged and adopted upstream in 2021, improving library compatibility and developer experience for the open-source project.}
@@ -256,6 +265,7 @@
       {Hong Kong Diploma of Secondary Education}{Sep 2017 -- Aug 2023}
       \resumeItemListStart
         \resumeItem{Best 5 subjects: Physics (5*), Mathematics (5*), ICT (5*), Chinese (5), English (5)}
+        \resumeItem{King's College Harmonica Band (KCHB), 2021 Treble II Section Leader}
       \resumeItemListEnd
 
   \resumeSubHeadingListEnd
@@ -265,10 +275,10 @@
   \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
       \textbf{Languages}{: Cantonese (Native), Mandarin (Fluent), English (Fluent)} \\[2pt]
-      \textbf{Programming}{: Python (Data Science), C/C++ (Makefile, CMake), Java (OOP only), SQL (MySQL), NoSQL (MongoDB)} \\[2pt]
-      \textbf{Web Development}{: React.js, Next.js, Express.js, Tailwind CSS, Jekyll, PHP} \\[2pt]
-      \textbf{Tools}{: Linux (Ubuntu, Arch), Git, CI/CD (GitHub Actions, Docker), LaTeX} \\[2pt]
-      \textbf{Cloud}{: Deployed applications and hosted a Minecraft server on Google Cloud Compute Engine using free trial credits}
+      \textbf{Programming}{: Python (Data Science), C/C++, Java, MySQL, MongoDB} \\[2pt]
+      \textbf{Web Development}{: React, Next, Express, Tailwind CSS} \\[2pt]
+      \textbf{Tools}{: Linux, Git, CI/CD, Docker, \LaTeX} \\[2pt]
+      \textbf{Cloud}{: Google Cloud Platform (Compute Engine), Vercel}
     }}
   \end{itemize}
 
