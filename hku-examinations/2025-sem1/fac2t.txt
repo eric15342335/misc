@@ -1,0 +1,58 @@
+Faculty of Science Postgraduate Courses Examination                              Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 3 WED	6:30 pm - 8:30 pm		COMP7503	Multimedia technologies	Loke Yew Hall
+				Multimedia technologies	Rm 103 Main Bldg.
+Dec 4 THU	6:30 pm - 8:30 pm		DASC7104	Advanced database systems	Loke Yew Hall
+Dec 5 FRI	6:30 pm - 8:30 pm		COMP7107	Management of complex data types	Loke Yew Hall
+Dec 6 SAT	9:30 am - 11:30 am		PHYS8551	Topics in solid state physics	CPD-LG.07-10, Centennial Campus
+Dec 6 SAT	2:30 pm - 4:30 pm		STAT6013	Financial data analysis	Rm 217 Main Bldg.
+				Financial data analysis	Rm 218 Main Bldg.
+Dec 6 SAT	6:30 pm - 8:30 pm		ENVM7015	Research methods and report writing in environmental management	Rm 217 Main Bldg.
+				Research methods and report writing in environmental management	Rm 218 Main Bldg.
+Dec 8 MON	9:30 am - 11:30 am		PHYS8150	Computational physics and its contemporary applications	T1 Meng Wah Complex
+Dec 8 MON	6:30 pm - 9:30 pm		ARIN7001	Foundations of artificial intelligence	Rm 201 Main Bldg.
+				Foundations of artificial intelligence	Rm 256 Main Bldg.
+Dec 8 MON	6:30 pm - 9:30 pm		DASC7011	Statistical inference for data science	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 8 MON	6:30 pm - 8:00 pm		ENVM7003	Introduction to ecology	Rm 7 Library Ext.
+				Introduction to ecology	Rm 8 Library Ext.
+Dec 8 MON	6:30 pm - 9:30 pm		GEOS7010	Geology principles and practice	Rm 6 Library Ext.
+Dec 8 MON	6:30 pm - 9:30 pm		GEOS7011	Advanced geology of Hong Kong	Rm 6 Library Ext.
+Dec 8 MON	6:30 pm - 9:00 pm		STAT7005	Multivariate methods	Rm 237 Main Bldg.
+Dec 10 WED	6:30 pm - 8:30 pm		DASC7606	Deep learning	Loke Yew Hall
+				Deep learning	Rm 103 Main Bldg.
+				Deep learning	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Deep learning	Rm 167 Main Bldg.
+Dec 10 WED	6:30 pm - 8:30 pm		ENVM7014	Environmental quality management	Multi-purpose Zone, Level 3, Main Library
+Dec 10 WED	6:30 pm - 8:30 pm		GEOS7015	Rock mechanics	Multi-purpose Zone, Level 3, Main Library
+Dec 11 THU	9:30 am - 12:30 pm		PHYS8351	Graduate Quantum Mechanics	Rm 4 Library Ext.
+Dec 11 THU	6:30 pm - 8:30 pm		STAT8019	Marketing analytics	Loke Yew Hall
+Dec 12 FRI	6:30 pm - 8:30 pm		GEOS7024	Management	CPD-LG.07-10, Centennial Campus
+Dec 12 FRI	6:30 pm - 8:30 pm		GEOS8104	Natural hillside landslide and hazard studies	CPD-LG.07-10, Centennial Campus
+Dec 13 SAT	9:30 am - 11:30 am		STAT8003	Time series forecasting	Rm 4 Library Ext.
+				Time series forecasting	Rm 5 Library Ext.
+Dec 13 SAT	2:30 pm - 4:30 pm		ENVM8020	Green Building Design and Management	Rm 217 Main Bldg.
+Dec 13 SAT	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Financial fraud analytics	Rm 2 Library Ext.
+				Financial fraud analytics	Rm 3 Library Ext.
+Dec 13 SAT	6:30 pm - 8:30 pm		PHYS8152	Data Analysis in Physics, Astronomy and Space Science	Rm 167 Main Bldg.
+Dec 15 MON	6:30 pm - 9:00 pm		ARIN7014	Topics in advanced numerical analysis	Rm 3 Library Ext.
+Dec 15 MON	6:30 pm - 8:30 pm		GEOS8001	Hydrogeology	Rm 256 Main Bldg.
+Dec 15 MON	6:30 pm - 8:30 pm		STAT6016	Spatial data analysis	Loke Yew Hall
+Dec 16 TUE	6:30 pm - 9:00 pm		ARIN7011	Optimization in artificial intelligence	Rm 217 Main Bldg.
+				Optimization in artificial intelligence	Rm 218 Main Bldg.
+Dec 16 TUE	6:30 pm - 8:30 pm		COMP7308	Introduction to unmanned systems	Rm 103 Main Bldg.
+Dec 16 TUE	6:30 pm - 8:30 pm		COMP7507	Visualization and visual analytics	CPD-LG.07-10, Centennial Campus
+Dec 16 TUE	6:30 pm - 8:30 pm		PHYS8852	Photonics and Metamaterials	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 16 TUE	6:30 pm - 8:30 pm		STAT7101	Fundamentals of statistical inference	CPD-LG.07-10, Centennial Campus
+Dec 17 WED	2:30 pm - 4:30 pm		PHYS8654	General Relativity	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 17 WED	6:30 pm - 8:30 pm		COMP7906	Introduction to cyber security	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 17 WED	6:30 pm - 8:30 pm		ENVM7014	Environmental quality management	Multi-purpose Zone, Level 3, Main Library
+Dec 17 WED	6:30 pm - 8:30 pm		GEOS7016	Soil mechanics	Loke Yew Hall
+Dec 17 WED	6:30 pm - 8:30 pm		STAT8007	Statistical methods in economics and finance	Loke Yew Hall
+Dec 18 THU	6:30 pm - 8:30 pm		ARIN7101	Statistics in artificial intelligence	Loke Yew Hall
+Dec 19 FRI	9:30 am - 12:30 pm		PHYS8850	Topics in Particle Physics	Rm 4 Library Ext.
+Dec 19 FRI	6:30 pm - 9:00 pm		GEOS8002	Professional practice in applied geosciences	Rm 256 Main Bldg.
+Dec 20 SAT	2:30 pm - 5:30 pm		COMP7309	Quantum computing and artificial intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 22 MON	9:30 am - 11:30 am		STAT6008	Advanced statistical inference	Rm 5 Library Ext.
+Dec 23 TUE	9:30 am - 11:30 am		STAT6011	Computational Statistics and Bayesian Learning	Multi-purpose Zone, Level 3, Main Library

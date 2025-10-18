@@ -1,0 +1,26 @@
+MDASC Examination                                                                Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 3 WED	6:30 pm - 8:30 pm		COMP7503	Multimedia technologies	Loke Yew Hall
+				Multimedia technologies	Rm 103 Main Bldg.
+Dec 4 THU	6:30 pm - 8:30 pm		DASC7104	Advanced database systems	Loke Yew Hall
+Dec 5 FRI	6:30 pm - 8:30 pm		COMP7107	Management of complex data types	Loke Yew Hall
+Dec 6 SAT	2:30 pm - 4:30 pm		STAT6013	Financial data analysis	Rm 217 Main Bldg.
+				Financial data analysis	Rm 218 Main Bldg.
+Dec 8 MON	6:30 pm - 9:30 pm		DASC7011	Statistical inference for data science	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 9 TUE	6:30 pm - 8:30 pm		COMP7802	Introduction to financial computing	Multi-purpose Zone, Level 3, Main Library
+Dec 10 WED	6:30 pm - 8:30 pm		DASC7606	Deep learning	Loke Yew Hall
+				Deep learning	Rm 103 Main Bldg.
+				Deep learning	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Deep learning	Rm 167 Main Bldg.
+Dec 11 THU	6:30 pm - 8:30 pm		STAT8019	Marketing analytics	Loke Yew Hall
+Dec 13 SAT	9:30 am - 11:30 am		STAT8003	Time series forecasting	Rm 4 Library Ext.
+				Time series forecasting	Rm 5 Library Ext.
+Dec 13 SAT	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Financial fraud analytics	Rm 2 Library Ext.
+				Financial fraud analytics	Rm 3 Library Ext.
+Dec 15 MON	6:30 pm - 8:30 pm		STAT6016	Spatial data analysis	Loke Yew Hall
+Dec 17 WED	6:30 pm - 8:30 pm		COMP7906	Introduction to cyber security	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 17 WED	6:30 pm - 8:30 pm		STAT8007	Statistical methods in economics and finance	Loke Yew Hall
+Dec 20 SAT	2:30 pm - 5:30 pm		COMP7309	Quantum computing and artificial intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 22 MON	9:30 am - 11:30 am		STAT6008	Advanced statistical inference	Rm 5 Library Ext.

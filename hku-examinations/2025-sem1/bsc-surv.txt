@@ -1,0 +1,49 @@
+BSc(Surv) Examination                                                            Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 6 SAT	2:30 pm - 4:30 pm		ACCT1101	Introduction to financial accounting	CPD-LG.07-10, Centennial Campus
+				Introduction to financial accounting	CPD-LG.60, Centennial Campus
+				Introduction to financial accounting	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introduction to financial accounting	Loke Yew Hall
+				Introduction to financial accounting	Multi-purpose Zone, Level 3, Main Library
+				Introduction to financial accounting	Rm 103 Main Bldg.
+				Introduction to financial accounting	Rm 167 Main Bldg.
+				Introduction to financial accounting	Rm 237 Main Bldg.
+				Introduction to financial accounting	Rm 6 Library Ext.
+				Introduction to financial accounting	Rm 7 Library Ext.
+				Introduction to financial accounting	Rm 8 Library Ext.
+				Introduction to financial accounting	Rm 9 Library Ext.
+Dec 8 MON	6:30 pm - 8:30 pm		RECO2035	Building Technology	CPD-LG.07-10, Centennial Campus
+Dec 9 TUE	2:30 pm - 4:00 pm		GEOG1005	Map use, reading and interpretation	Loke Yew Hall
+				Map use, reading and interpretation	Rm 103 Main Bldg.
+				Map use, reading and interpretation	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Map use, reading and interpretation	Rm 167 Main Bldg.
+Dec 10 WED	2:30 pm - 5:00 pm		RECO4017	Health, Safety and Environmental Management	Rm 237 Main Bldg.
+Dec 10 WED	6:30 pm - 8:30 pm		RECO3037	Land Law and Conveyancing Law	CPD-LG.07-10, Centennial Campus
+Dec 11 THU	9:30 am - 11:30 am		SOCI1001	Introduction to sociology	Loke Yew Hall
+				Introduction to sociology	Rm 103 Main Bldg.
+Dec 12 FRI	9:30 am - 11:30 am		ECON1280	Analysis of economic data	Multi-purpose Zone, Level 3, Main Library
+				Analysis of economic data	Rm 6 Library Ext.
+				Analysis of economic data	Rm 7 Library Ext.
+				Analysis of economic data	Rm 8 Library Ext.
+				Analysis of economic data	Rm 9 Library Ext.
+Dec 12 FRI	9:30 am - 11:30 am		RECO3040	Corporate Real Estate Asset Management	Rm 4 Library Ext.
+Dec 13 SAT	9:30 am - 12:30 pm		CCGL9036	Dilemmas of Humanitarian Intervention	Rm 6 Library Ext.
+				Dilemmas of Humanitarian Intervention	Rm 7 Library Ext.
+Dec 13 SAT	2:30 pm - 4:30 pm		SOCI3046	Sociology of law	Rm 237 Main Bldg.
+Dec 13 SAT	6:30 pm - 8:30 pm		GEOG1002	Hong Kong: land, people and resources	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	9:30 am - 11:30 am		RECO1020	Development and Conservation Analysis	Rm 4 Library Ext.
+Dec 15 MON	9:30 am - 11:30 am		RECO2038	Development and Conservation Analysis	Rm 5 Library Ext.
+Dec 15 MON	2:30 pm - 4:30 pm		COMP2113	Programming technologies	Loke Yew Hall
+				Programming technologies	Rm 103 Main Bldg.
+Dec 15 MON	2:30 pm - 5:30 pm		RECO4014	Advanced Valuation	Rm 217 Main Bldg.
+Dec 17 WED	9:30 am - 12:00 noon		MATH1011	University mathematics I	Rm 201 Main Bldg.
+				University mathematics I	Rm 237 Main Bldg.
+				University mathematics I	Rm 256 Main Bldg.
+Dec 17 WED	2:30 pm - 4:30 pm		RECO2042	Introduction to Law	Rm 217 Main Bldg.
+				Introduction to Law	Rm 218 Main Bldg.
+Dec 19 FRI	2:30 pm - 5:30 pm		AFIC1005	Introduction to the Built Environment	Multi-purpose Zone, Level 3, Main Library
+Dec 20 SAT	9:30 am - 11:30 am		CCST9016	Energy: Its Evolution and Environmental Impacts	CPD-LG.07-10, Centennial Campus
+Dec 20 SAT	2:30 pm - 4:30 pm		CUND9001	Basic Spoken and Written Cantonese for Mandarin Speakers	Rm 4 Library Ext.
+				Basic Spoken and Written Cantonese for Mandarin Speakers	Rm 5 Library Ext.
+Dec 22 MON	9:30 am - 10:30 am		CCGL9025	The Political Economy of Growth and Poverty in the World	Rm 105 Chong Yuet Ming Amenities Ctr.

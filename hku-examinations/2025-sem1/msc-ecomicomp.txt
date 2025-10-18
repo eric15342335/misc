@@ -1,0 +1,15 @@
+MSc(ECom&IComp) Examination                                                      Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 3 WED	6:30 pm - 8:30 pm		ECOM6013	E-commerce technologies	Multi-purpose Zone, Level 3, Main Library
+Dec 4 THU	6:30 pm - 8:30 pm		COMP7104	Advanced database systems	Loke Yew Hall
+Dec 4 THU	6:30 pm - 8:30 pm		ECOM6023	E-financial services	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 5 FRI	6:30 pm - 8:30 pm		ICOM6045	Fundamentals of e-commerce security	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 9 TUE	6:30 pm - 8:30 pm		COMP7802	Introduction to financial computing	Multi-purpose Zone, Level 3, Main Library
+Dec 13 SAT	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Financial fraud analytics	Rm 2 Library Ext.
+				Financial fraud analytics	Rm 3 Library Ext.
+Dec 15 MON	6:30 pm - 8:30 pm		DASE7310	Financial engineering	Loke Yew Hall
+Dec 15 MON	6:30 pm - 8:30 pm		FITE7407	Securities transaction banking	Loke Yew Hall
+Dec 16 TUE	6:30 pm - 8:30 pm		ELEC7084	Advanced database	Loke Yew Hall
+Dec 18 THU	6:30 pm - 8:30 pm		ICOM7128	Knowledge graphs	Rm 167 Main Bldg.

@@ -1,0 +1,20 @@
+BChinMed Examination                                                             Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 8 MON	9:30 am - 12:30 pm		BCHM4608	Fundamentals of Diagnosis	CPD-LG.60, Centennial Campus
+Dec 8 MON	9:30 am - 11:30 am		BMSC1101	Life Science I	Rm 6 Library Ext.
+Dec 8 MON	9:30 am - 11:30 am		BMSC2102	Life Science II	Rm 7 Library Ext.
+Dec 10 WED	9:30 am - 11:30 am		BCHM3601	Canon of Chinese Medicine	CPD-LG.61 & CPD-LG.62, Centennial Campus
+Dec 10 WED	2:30 pm - 4:30 pm		PHAR4612	Clinical Pharmacology	CPD-LG.07-10, Centennial Campus
+Dec 12 FRI	9:30 am - 11:30 am		BMSC3104	Life Science IV	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	9:30 am - 12:30 pm		BCHM1601	Foundation Theories of Chinese Medicine	Rm 217 Main Bldg.
+Dec 15 MON	9:30 am - 12:30 pm		BCHM2601	Chinese Materia Medica	Rm 217 Main Bldg.
+Dec 15 MON	9:30 am - 12:30 pm		BCHM4605	Gynaecology of Chinese Medicine	Rm 218 Main Bldg.
+Dec 15 MON	9:30 am - 11:30 am		BCHM5608	Ophthalmology of Chinese Medicine	Rm 256 Main Bldg.
+Dec 16 TUE	9:30 am - 11:30 am		BCHM3605	Immunology	Rm 237 Main Bldg.
+Dec 18 THU	9:30 am - 11:30 am		BCHM4606	Otorhinolaryngology of Chinese Medicine	Rm 6 Library Ext.
+Dec 18 THU	9:30 am - 11:30 am		BCHM5604	Therapeutics in Acupuncture and Moxibustion	Rm 6 Library Ext.
+Dec 19 FRI	9:30 am - 12:30 pm		BCHM2602	Archaic Chinese Medical Literature	Rm 3 Library Ext.
+Dec 19 FRI	9:30 am - 12:30 pm		BCHM3602	Chinese Internal Medicine	Rm 3 Library Ext.
+Dec 22 MON	9:30 am - 12:30 pm		BCHM4604	Surgery of Chinese Medicine	Rm 218 Main Bldg.
+Dec 22 MON	9:30 am - 12:30 pm		BCHM5603	Seasonal Febrile Diseases	Rm 218 Main Bldg.

@@ -1,0 +1,16 @@
+MSc(Eng)(LAT) Examination                                                        Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 10 WED	2:30 pm - 4:30 pm		DASE7222	Decision analytics in global logistics	Rm 4 Library Ext.
+				Decision analytics in global logistics	Rm 5 Library Ext.
+Dec 10 WED	6:30 pm - 8:30 pm		MECH6017	Noise and vibration	Multi-purpose Zone, Level 3, Main Library
+Dec 11 THU	6:30 pm - 8:30 pm		LATX7514	Propulsion technology	Rm 103 Main Bldg.
+				Propulsion technology	Rm 167 Main Bldg.
+Dec 12 FRI	6:30 pm - 8:30 pm		IDAT7217	Advanced topics in innovative design and technology A	Rm 103 Main Bldg.
+Dec 13 SAT	2:30 pm - 4:30 pm		ELEC6080	Telecommunications systems and management	Rm 201 Main Bldg.
+				Telecommunications systems and management	Rm 218 Main Bldg.
+				Telecommunications systems and management	Rm 256 Main Bldg.
+Dec 15 MON	2:30 pm - 4:30 pm		MECH7022	Aerodynamics and its computation	Rm 8 Library Ext.
+				Aerodynamics and its computation	Rm 9 Library Ext.
+Dec 16 TUE	6:30 pm - 8:30 pm		LATX7513	Fundamentals of aircraft and aviation	Loke Yew Hall
+Dec 20 SAT	2:30 pm - 4:30 pm		LATX7515	Aeronautical materials and manufacturing	Multi-purpose Zone, Level 3, Main Library

@@ -1,0 +1,11 @@
+Faculty of Business and Economics Postgraduate Courses Examination               Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 10 WED	6:30 pm - 8:30 pm		DASC7606	Deep learning	Loke Yew Hall
+				Deep learning	Rm 103 Main Bldg.
+				Deep learning	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Deep learning	Rm 167 Main Bldg.
+Dec 13 SAT	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Financial fraud analytics	Rm 2 Library Ext.
+				Financial fraud analytics	Rm 3 Library Ext.
+Dec 22 MON	6:30 pm - 8:30 pm		FITE7409	Blockchain and cryptocurrency	Rm 105 Chong Yuet Ming Amenities Ctr.

@@ -102,3 +102,11 @@ awk '
 
 * Previous semester examinations data will ***disappear*** after some time
 * Current semester data *only* appear after the examination timetable has been announced for the majority of students (typically around the *end of October* for *semester 1*)
+
+## Automating data collection
+
+If you want to download all of the examination timetables without manually copying once for each degrees/faculties, follow the instructions below:
+
+1. Disable "Always ask for location before downloading" in your browser settings.
+2. Paste [this JavaScript code](./download.browser.console.js) into the browser console while you are on <http://www.exam.hku.hk/tt_faclist.php>
+3. Press Enter.

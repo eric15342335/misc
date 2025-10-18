@@ -1,0 +1,83 @@
+BASc(SDS) Examination                                                            Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 6 SAT	9:30 am - 11:00 am		BIOL1110	From molecules to cells	Multi-purpose Zone, Level 3, Main Library
+				From molecules to cells	Rm 9 Library Ext.
+Dec 6 SAT	2:30 pm - 4:30 pm		ACCT1101	Introduction to financial accounting	CPD-LG.07-10, Centennial Campus
+				Introduction to financial accounting	CPD-LG.60, Centennial Campus
+				Introduction to financial accounting	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introduction to financial accounting	Loke Yew Hall
+				Introduction to financial accounting	Multi-purpose Zone, Level 3, Main Library
+				Introduction to financial accounting	Rm 103 Main Bldg.
+				Introduction to financial accounting	Rm 167 Main Bldg.
+				Introduction to financial accounting	Rm 237 Main Bldg.
+				Introduction to financial accounting	Rm 6 Library Ext.
+				Introduction to financial accounting	Rm 7 Library Ext.
+				Introduction to financial accounting	Rm 8 Library Ext.
+				Introduction to financial accounting	Rm 9 Library Ext.
+Dec 8 MON	2:30 pm - 4:00 pm		ECON1210	Introductory microeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory microeconomics	CPD-LG.60, Centennial Campus
+				Introductory microeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory microeconomics	Multi-purpose Zone, Level 3, Main Library
+				Introductory microeconomics	Rm 103 Main Bldg.
+				Introductory microeconomics	Rm 167 Main Bldg.
+				Introductory microeconomics	Rm 2 Library Ext.
+				Introductory microeconomics	Rm 201 Main Bldg.
+				Introductory microeconomics	Rm 237 Main Bldg.
+				Introductory microeconomics	Rm 256 Main Bldg.
+				Introductory microeconomics	Rm 3 Library Ext.
+				Introductory microeconomics	Rm 4 Library Ext.
+				Introductory microeconomics	Rm 5 Library Ext.
+Dec 9 TUE	9:30 am - 11:30 am		CHIN1107	Creative writing	Rm 218 Main Bldg.
+Dec 9 TUE	2:30 pm - 4:00 pm		GEOG1005	Map use, reading and interpretation	Loke Yew Hall
+				Map use, reading and interpretation	Rm 103 Main Bldg.
+				Map use, reading and interpretation	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Map use, reading and interpretation	Rm 167 Main Bldg.
+Dec 10 WED	9:30 am - 11:30 am		BSIM3017	Database systems	Rm 408-410, Meng Wah Complex
+Dec 10 WED	9:30 am - 11:30 am		COMP2396	Object-oriented programming and Java	Loke Yew Hall
+				Object-oriented programming and Java	Rm 256 Main Bldg.
+Dec 10 WED	2:30 pm - 4:30 pm		FINA1310	Corporate finance	Multi-purpose Zone, Level 3, Main Library
+				Corporate finance	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Corporate finance	Rm 8 Library Ext.
+				Corporate finance	Rm 9 Library Ext.
+Dec 11 THU	9:30 am - 11:30 am		SOCI1001	Introduction to sociology	Loke Yew Hall
+				Introduction to sociology	Rm 103 Main Bldg.
+Dec 11 THU	2:30 pm - 5:00 pm		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+				University mathematics II	Loke Yew Hall
+				University mathematics II	Multi-purpose Zone, Level 3, Main Library
+				University mathematics II	Rm 103 Main Bldg.
+				University mathematics II	Rm 167 Main Bldg.
+Dec 11 THU	2:30 pm - 4:30 pm		POLI2108	Introduction to public administration	Rm 217 Main Bldg.
+				Introduction to public administration	Rm 218 Main Bldg.
+Dec 12 FRI	9:30 am - 11:30 am		ECON1280	Analysis of economic data	Multi-purpose Zone, Level 3, Main Library
+				Analysis of economic data	Rm 6 Library Ext.
+				Analysis of economic data	Rm 7 Library Ext.
+				Analysis of economic data	Rm 8 Library Ext.
+				Analysis of economic data	Rm 9 Library Ext.
+Dec 12 FRI	2:30 pm - 5:00 pm		MATH3408	Computational methods and differential equations with applications	Multi-purpose Zone, Level 3, Main Library
+Dec 13 SAT	9:30 am - 12:30 pm		COMP2119	Introduction to data structures and algorithms	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introduction to data structures and algorithms	Rm 2 Library Ext.
+				Introduction to data structures and algorithms	Rm 3 Library Ext.
+				Introduction to data structures and algorithms	Rm 8 Library Ext.
+Dec 13 SAT	9:30 am - 11:30 am		GEOG2004	Atmospheric environment and global climate	Rm 9 Library Ext.
+Dec 13 SAT	2:30 pm - 4:30 pm		COMP1117	Computer programming	Loke Yew Hall
+				Computer programming	Multi-purpose Zone, Level 3, Main Library
+				Computer programming	Rm 103 Main Bldg.
+				Computer programming	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Computer programming	Rm 167 Main Bldg.
+Dec 13 SAT	6:30 pm - 8:30 pm		GEOG1002	Hong Kong: land, people and resources	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	2:30 pm - 4:30 pm		COMP2113	Programming technologies	Loke Yew Hall
+				Programming technologies	Rm 103 Main Bldg.
+Dec 16 TUE	9:30 am - 12:30 pm		COMP2121	Discrete mathematics	CPD-LG.07-10, Centennial Campus
+Dec 16 TUE	2:30 pm - 4:30 pm		ECON1220	Introductory macroeconomics	Loke Yew Hall
+				Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+Dec 17 WED	2:30 pm - 4:30 pm		COMP2501	Introduction to data science	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 18 THU	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	CPD-LG.07-10, Centennial Campus
+				Introduction to psychology	Multi-purpose Zone, Level 3, Main Library
+Dec 19 FRI	9:30 am - 11:30 am		CHIN2136	Classical Chinese literary criticism	Rm 2 Library Ext.
+Dec 19 FRI	9:30 am - 11:30 am		GEOG2127	Environmental management	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 19 FRI	2:30 pm - 4:30 pm		CCGL9019	Economic Globalization: Issues and Challenges	Rm 103 Main Bldg.
+Dec 19 FRI	2:30 pm - 4:30 pm		IIMT2601	Management information systems	CPD-LG.07-10, Centennial Campus
+Dec 20 SAT	2:30 pm - 4:00 pm		GEOG2090	Introduction to geographic information systems	CPD-LG.07-10, Centennial Campus
+Dec 22 MON	9:30 am - 11:30 am		CHEM1041	Foundations of chemistry	CPD-LG.07-10, Centennial Campus
+Dec 23 TUE	9:30 am - 11:30 am		COMP3322	Modern Technologies on World Wide Web	Loke Yew Hall

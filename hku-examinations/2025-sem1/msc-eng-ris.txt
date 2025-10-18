@@ -1,0 +1,34 @@
+MSc(Eng)(RIS) Examination                                                        Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 6 SAT	6:30 pm - 8:30 pm		DASE7503	Robotic systems integration	Rm 201 Main Bldg.
+				Robotic systems integration	Rm 256 Main Bldg.
+Dec 8 MON	6:30 pm - 8:30 pm		DASE7502	Advanced Robot sensing and intelligence	Rm 103 Main Bldg.
+				Advanced Robot sensing and intelligence	Rm 167 Main Bldg.
+Dec 9 TUE	2:30 pm - 4:30 pm		DASE7505	Intelligent unmanned systems	Rm 4 Library Ext.
+				Intelligent unmanned systems	Rm 5 Library Ext.
+Dec 9 TUE	6:30 pm - 8:30 pm		ELEC6603	Success in industrial entrepreneurship	CPD-LG.07-10, Centennial Campus
+Dec 10 WED	6:30 pm - 8:30 pm		MECH6045	Nanotechnology: fundamentals and applications	Multi-purpose Zone, Level 3, Main Library
+Dec 11 THU	6:30 pm - 8:30 pm		DASE7150	Frontiers in data and systems engineering A	Loke Yew Hall
+Dec 11 THU	6:30 pm - 8:30 pm		DASE7501	Robot modelling, planning and control	Multi-purpose Zone, Level 3, Main Library
+Dec 12 FRI	6:30 pm - 8:30 pm		CIVL7023	Industrialized construction with automation and robotics	Rm 217 Main Bldg.
+Dec 12 FRI	6:30 pm - 8:30 pm		DASE7902	Project management	Multi-purpose Zone, Level 3, Main Library
+Dec 12 FRI	6:30 pm - 8:30 pm		MECH7010	Contemporary robotics	Loke Yew Hall
+Dec 13 SAT	2:30 pm - 4:30 pm		DASE7341	Technology innovation and entrepreneurship	Rm 4 Library Ext.
+				Technology innovation and entrepreneurship	Rm 5 Library Ext.
+Dec 13 SAT	6:30 pm - 8:30 pm		EMEE6007	Energy and carbon audit	Loke Yew Hall
+Dec 15 MON	6:30 pm - 8:30 pm		DASE7113	Optimization methods for intelligent systems	Loke Yew Hall
+Dec 16 TUE	2:30 pm - 4:30 pm		DASE7138	Healthcare systems engineering	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 16 TUE	6:30 pm - 8:30 pm		ELEC6100	Digital communications	CPD-LG.07-10, Centennial Campus
+Dec 16 TUE	6:30 pm - 8:30 pm		ELEC7084	Advanced database	Loke Yew Hall
+Dec 16 TUE	6:30 pm - 8:30 pm		EMEE6002	Sustainability and climate change	Multi-purpose Zone, Level 3, Main Library
+Dec 17 WED	6:30 pm - 8:30 pm		DASE7139	Cyber-physical systems	CPD-LG.07-10, Centennial Campus
+Dec 17 WED	6:30 pm - 8:30 pm		ELEC6026	Digital signal processing	CPD-LG.07-10, Centennial Campus
+Dec 18 THU	2:30 pm - 4:30 pm		DASE7142	Advanced computational methods	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 19 FRI	6:30 pm - 8:30 pm		ELEC6008	Pattern recognition and machine learning	Loke Yew Hall
+Dec 20 SAT	2:30 pm - 4:30 pm		DASE7143	The internet of things	Loke Yew Hall
+Dec 20 SAT	6:30 pm - 8:30 pm		ELEC6036	High-performance computer architecture	Loke Yew Hall
+Dec 22 MON	9:30 am - 11:30 am		DASE7137	Virtual reality and applications	Loke Yew Hall
+Dec 22 MON	9:30 am - 11:30 am		ELEC6097	IP networks	Rm 167 Main Bldg.
+Dec 22 MON	6:30 pm - 8:30 pm		ELEC7079	Investment and trading for engineering students	Rm 167 Main Bldg.
+Dec 23 TUE	9:30 am - 11:30 am		DASE7020	Supply chain management	Loke Yew Hall

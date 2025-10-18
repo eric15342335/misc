@@ -1,0 +1,18 @@
+Li Ka Shing Faculty of Medicine Postgraduate Courses Examination                 Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 8 MON	6:30 pm - 8:30 pm		MAPH7000	Evidence-Based Practice	Rm 2 Library Ext.
+Dec 8 MON	6:30 pm - 8:30 pm		PHAR6202	Evidence based practice	Rm 2 Library Ext.
+Dec 13 SAT	9:30 am - 11:30 am		CMED6100	Introduction to Biostatistics	Multi-purpose Zone, Level 3, Main Library
+Dec 13 SAT	9:30 am - 11:30 am		CMED7100	Introduction to Biostatistics	Multi-purpose Zone, Level 3, Main Library
+Dec 15 MON	9:30 am - 11:30 am		MEDI6500	Cell Metabolism	Rm 2 Library Ext.
+				Cell Metabolism	Rm 3 Library Ext.
+Dec 16 TUE	9:30 am - 11:30 am		PATH6100	Laboratory Methods and Instrumentation	Rm 6 Library Ext.
+Dec 17 WED	9:30 am - 11:30 am		PATH6300	General Cytopathology	Rm 103 Main Bldg.
+Dec 18 THU	9:30 am - 11:30 am		PATH6600	Fundamentals of Common Human Diseases	Rm 9 Library Ext.
+Dec 19 FRI	9:30 am - 11:30 am		MAPH7310	Principles of Drug Actions	Rm 167 Main Bldg.
+Dec 19 FRI	9:30 am - 11:30 am		PHAR6100	Principles of Drug Action	Rm 167 Main Bldg.
+Dec 20 SAT	9:30 am - 11:30 am		CMED6200	Introduction to Epidemiology	Multi-purpose Zone, Level 3, Main Library
+Dec 20 SAT	9:30 am - 11:30 am		CMED7200	Introduction to Epidemiology	Multi-purpose Zone, Level 3, Main Library
+Dec 22 MON	9:30 am - 11:30 am		SBMS7100	Practical Bioinformatics	Rm 3 Library Ext.
+				Practical Bioinformatics	Rm 4 Library Ext.

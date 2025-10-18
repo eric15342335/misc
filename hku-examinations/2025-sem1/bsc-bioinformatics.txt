@@ -1,0 +1,96 @@
+BSc(Bioinformatics) Examination                                                  Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 6 SAT	9:30 am - 11:30 am		BBMS1001	Introduction to Human Anatomy and Physiology	Rm 2 Library Ext.
+				Introduction to Human Anatomy and Physiology	Rm 3 Library Ext.
+Dec 6 SAT	2:30 pm - 4:30 pm		COMP3314	Introduction to machine learning	Rm 2 Library Ext.
+				Introduction to machine learning	Rm 3 Library Ext.
+Dec 6 SAT	2:30 pm - 4:30 pm		COMP3354	Statistical Learning	Rm 4 Library Ext.
+Dec 6 SAT	6:30 pm - 8:30 pm		BIOC2600	Basic biochemistry	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Basic biochemistry	Rm 9 Library Ext.
+Dec 8 MON	9:30 am - 11:30 am		BBMS2007	Essential Molecular Biology	Loke Yew Hall
+Dec 8 MON	9:30 am - 11:30 am		IIMT2641	Introduction to business analytics	Rm 201 Main Bldg.
+				Introduction to business analytics	Rm 237 Main Bldg.
+				Introduction to business analytics	Rm 256 Main Bldg.
+Dec 8 MON	2:30 pm - 4:00 pm		ECON1210	Introductory microeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory microeconomics	CPD-LG.60, Centennial Campus
+				Introductory microeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory microeconomics	Multi-purpose Zone, Level 3, Main Library
+				Introductory microeconomics	Rm 103 Main Bldg.
+				Introductory microeconomics	Rm 167 Main Bldg.
+				Introductory microeconomics	Rm 2 Library Ext.
+				Introductory microeconomics	Rm 201 Main Bldg.
+				Introductory microeconomics	Rm 237 Main Bldg.
+				Introductory microeconomics	Rm 256 Main Bldg.
+				Introductory microeconomics	Rm 3 Library Ext.
+				Introductory microeconomics	Rm 4 Library Ext.
+				Introductory microeconomics	Rm 5 Library Ext.
+Dec 8 MON	6:30 pm - 7:30 pm		BIOL2103	Biological sciences laboratory course	Rm 4 Library Ext.
+				Biological sciences laboratory course	Rm 5 Library Ext.
+Dec 8 MON	6:30 pm - 8:30 pm		PHYS1250	Fundamental physics	CPD-LG.07-10, Centennial Campus
+Dec 9 TUE	2:30 pm - 4:00 pm		GEOG1005	Map use, reading and interpretation	Loke Yew Hall
+				Map use, reading and interpretation	Rm 103 Main Bldg.
+				Map use, reading and interpretation	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Map use, reading and interpretation	Rm 167 Main Bldg.
+Dec 10 WED	9:30 am - 11:30 am		BBMS3001	Medical Microbiology	CPD-LG.61 & CPD-LG.62, Centennial Campus
+Dec 10 WED	9:30 am - 11:30 am		COMP2396	Object-oriented programming and Java	Loke Yew Hall
+				Object-oriented programming and Java	Rm 256 Main Bldg.
+Dec 10 WED	9:30 am - 11:30 am		STAT1600	Statistics: ideas and concepts	Rm 2 Library Ext.
+				Statistics: ideas and concepts	Rm 3 Library Ext.
+				Statistics: ideas and concepts	Rm 9 Library Ext.
+Dec 10 WED	2:30 pm - 4:30 pm		FINA1310	Corporate finance	Multi-purpose Zone, Level 3, Main Library
+				Corporate finance	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Corporate finance	Rm 8 Library Ext.
+				Corporate finance	Rm 9 Library Ext.
+Dec 10 WED	2:30 pm - 4:30 pm		GEOG2096	Human impacts on ecosystems	Rm 201 Main Bldg.
+				Human impacts on ecosystems	Rm 256 Main Bldg.
+Dec 11 THU	9:30 am - 12:30 pm		BBMS3009	Genome Science	Rm 5 Library Ext.
+Dec 11 THU	2:30 pm - 4:30 pm		COMP3355	Cyber Security	Rm 2 Library Ext.
+				Cyber Security	Rm 3 Library Ext.
+Dec 11 THU	2:30 pm - 5:00 pm		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+				University mathematics II	Loke Yew Hall
+				University mathematics II	Multi-purpose Zone, Level 3, Main Library
+				University mathematics II	Rm 103 Main Bldg.
+				University mathematics II	Rm 167 Main Bldg.
+Dec 12 FRI	9:30 am - 11:30 am		BBMS3010	Emerging Infections	Rm 167 Main Bldg.
+Dec 12 FRI	9:30 am - 11:30 am		BIOF2013	Biomedical Statistics (Bioinformatics)	Rm 103 Main Bldg.
+Dec 12 FRI	2:30 pm - 4:00 pm		GEOG2030	Global development	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Global development	Rm 8 Library Ext.
+				Global development	Rm 9 Library Ext.
+Dec 12 FRI	2:30 pm - 5:00 pm		MATH3904	Introduction to optimization	Multi-purpose Zone, Level 3, Main Library
+Dec 13 SAT	9:30 am - 12:30 pm		COMP2119	Introduction to data structures and algorithms	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introduction to data structures and algorithms	Rm 2 Library Ext.
+				Introduction to data structures and algorithms	Rm 3 Library Ext.
+				Introduction to data structures and algorithms	Rm 8 Library Ext.
+Dec 13 SAT	2:30 pm - 5:30 pm		COMP3278	Introduction to database management systems	Rm 6 Library Ext.
+				Introduction to database management systems	Rm 7 Library Ext.
+				Introduction to database management systems	Rm 8 Library Ext.
+Dec 13 SAT	6:30 pm - 8:30 pm		GEOG1002	Hong Kong: land, people and resources	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	9:30 am - 11:30 am		BBMS2004	Human Anatomy	Rm 2 Library Ext.
+Dec 15 MON	9:30 am - 11:30 am		GEOG1003	Contemporary global environmental issues	Loke Yew Hall
+				Contemporary global environmental issues	Rm 103 Main Bldg.
+				Contemporary global environmental issues	Rm 167 Main Bldg.
+				Contemporary global environmental issues	Rm 201 Main Bldg.
+Dec 15 MON	9:30 am - 12:00 noon		MATH2014	Multivariable calculus and linear algebra	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 15 MON	2:30 pm - 4:30 pm		COMP2113	Programming technologies	Loke Yew Hall
+				Programming technologies	Rm 103 Main Bldg.
+Dec 16 TUE	9:30 am - 11:30 am		BIOF3002	Clinical Genomics and Bioinformatics	Rm 237 Main Bldg.
+Dec 16 TUE	9:30 am - 12:30 pm		COMP2121	Discrete mathematics	CPD-LG.07-10, Centennial Campus
+Dec 17 WED	9:30 am - 11:30 am		BIOL3205	Human physiology	Rm 217 Main Bldg.
+				Human physiology	Rm 218 Main Bldg.
+Dec 17 WED	9:30 am - 11:30 am		CHEM1042	General chemistry I	Multi-purpose Zone, Level 3, Main Library
+				General chemistry I	Rm 3 Library Ext.
+Dec 17 WED	9:30 am - 11:30 am		STAT2601	Probability and statistics I	Loke Yew Hall
+				Probability and statistics I	Rm 167 Main Bldg.
+Dec 17 WED	2:30 pm - 4:30 pm		COMP2501	Introduction to data science	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 18 THU	9:30 am - 12:30 pm		BIOF3005	Structural Bioinformatics	Rm 237 Main Bldg.
+Dec 18 THU	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	CPD-LG.07-10, Centennial Campus
+				Introduction to psychology	Multi-purpose Zone, Level 3, Main Library
+Dec 19 FRI	9:30 am - 11:30 am		COMP3330	Interactive Mobile Application Design and Programming	Loke Yew Hall
+Dec 19 FRI	9:30 am - 11:30 am		COMP3353	Bioinformatics	Loke Yew Hall
+Dec 19 FRI	9:30 am - 12:00 noon		MATH2012	Fundamental concepts of mathematics	CPD-LG.07-10, Centennial Campus
+Dec 19 FRI	2:30 pm - 4:30 pm		IIMT2601	Management information systems	CPD-LG.07-10, Centennial Campus
+Dec 20 SAT	9:30 am - 12:00 noon		MATH3601	Numerical analysis	Rm 217 Main Bldg.
+				Numerical analysis	Rm 218 Main Bldg.
+Dec 20 SAT	2:30 pm - 4:00 pm		GEOG2090	Introduction to geographic information systems	CPD-LG.07-10, Centennial Campus
+Dec 23 TUE	9:30 am - 11:30 am		COMP3322	Modern Technologies on World Wide Web	Loke Yew Hall

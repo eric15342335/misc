@@ -1,0 +1,80 @@
+BASc(GHD) Examination                                                            Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 6 SAT	9:30 am - 11:00 am		BIOL1110	From molecules to cells	Multi-purpose Zone, Level 3, Main Library
+				From molecules to cells	Rm 9 Library Ext.
+Dec 6 SAT	2:30 pm - 4:30 pm		ACCT1101	Introduction to financial accounting	CPD-LG.07-10, Centennial Campus
+				Introduction to financial accounting	CPD-LG.60, Centennial Campus
+				Introduction to financial accounting	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introduction to financial accounting	Loke Yew Hall
+				Introduction to financial accounting	Multi-purpose Zone, Level 3, Main Library
+				Introduction to financial accounting	Rm 103 Main Bldg.
+				Introduction to financial accounting	Rm 167 Main Bldg.
+				Introduction to financial accounting	Rm 237 Main Bldg.
+				Introduction to financial accounting	Rm 6 Library Ext.
+				Introduction to financial accounting	Rm 7 Library Ext.
+				Introduction to financial accounting	Rm 8 Library Ext.
+				Introduction to financial accounting	Rm 9 Library Ext.
+Dec 8 MON	9:30 am - 12:30 pm		URBS1003	Theories and Global Trends in Urban Development	CPD-LG.61 & CPD-LG.62, Centennial Campus
+Dec 8 MON	2:30 pm - 4:00 pm		ECON1210	Introductory microeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory microeconomics	CPD-LG.60, Centennial Campus
+				Introductory microeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory microeconomics	Multi-purpose Zone, Level 3, Main Library
+				Introductory microeconomics	Rm 103 Main Bldg.
+				Introductory microeconomics	Rm 167 Main Bldg.
+				Introductory microeconomics	Rm 2 Library Ext.
+				Introductory microeconomics	Rm 201 Main Bldg.
+				Introductory microeconomics	Rm 237 Main Bldg.
+				Introductory microeconomics	Rm 256 Main Bldg.
+				Introductory microeconomics	Rm 3 Library Ext.
+				Introductory microeconomics	Rm 4 Library Ext.
+				Introductory microeconomics	Rm 5 Library Ext.
+Dec 8 MON	6:30 pm - 7:30 pm		BIOL2103	Biological sciences laboratory course	Rm 4 Library Ext.
+				Biological sciences laboratory course	Rm 5 Library Ext.
+Dec 9 TUE	9:30 am - 12:00 noon		MATH1009	Basic mathematics for business and economics	Multi-purpose Zone, Level 3, Main Library
+				Basic mathematics for business and economics	Rm 2 Library Ext.
+				Basic mathematics for business and economics	Rm 3 Library Ext.
+				Basic mathematics for business and economics	Rm 4 Library Ext.
+Dec 9 TUE	9:30 am - 11:30 am		SOCI3067	Crime and the media	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 9 TUE	2:30 pm - 4:30 pm		POLI3047	United States foreign policy	Rm 217 Main Bldg.
+Dec 9 TUE	2:30 pm - 4:30 pm		SCNC1112	Fundamentals of modern science	CPD-LG.07-10, Centennial Campus
+Dec 10 WED	9:30 am - 11:30 am		SDST1600	Statistics: Ideas and Concepts	Rm 4 Library Ext.
+				Statistics: Ideas and Concepts	Rm 5 Library Ext.
+Dec 10 WED	2:30 pm - 4:00 pm		BIOC1600	Perspectives in biochemistry	Rm 218 Main Bldg.
+Dec 10 WED	2:30 pm - 4:30 pm		FINA1310	Corporate finance	Multi-purpose Zone, Level 3, Main Library
+				Corporate finance	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Corporate finance	Rm 8 Library Ext.
+				Corporate finance	Rm 9 Library Ext.
+Dec 11 THU	9:30 am - 11:30 am		SOCI1001	Introduction to sociology	Loke Yew Hall
+				Introduction to sociology	Rm 103 Main Bldg.
+Dec 11 THU	2:30 pm - 4:00 pm		BIOL3202	Nutritional biochemistry	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 11 THU	2:30 pm - 4:30 pm		POLI2108	Introduction to public administration	Rm 217 Main Bldg.
+				Introduction to public administration	Rm 218 Main Bldg.
+Dec 12 FRI	9:30 am - 11:30 am		ECON1280	Analysis of economic data	Multi-purpose Zone, Level 3, Main Library
+				Analysis of economic data	Rm 6 Library Ext.
+				Analysis of economic data	Rm 7 Library Ext.
+				Analysis of economic data	Rm 8 Library Ext.
+				Analysis of economic data	Rm 9 Library Ext.
+Dec 12 FRI	2:30 pm - 4:00 pm		GEOG2030	Global development	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Global development	Rm 8 Library Ext.
+				Global development	Rm 9 Library Ext.
+Dec 12 FRI	2:30 pm - 4:30 pm		GEOG2169	Geography and global health	Rm 256 Main Bldg.
+Dec 13 SAT	9:30 am - 11:30 am		POLI3069	Public policy, politics and social change	Rm 256 Main Bldg.
+Dec 13 SAT	2:30 pm - 4:30 pm		BIOL2101	Principles of food chemistry	Rm 2 Library Ext.
+				Principles of food chemistry	Rm 3 Library Ext.
+Dec 15 MON	9:30 am - 11:30 am		GEOG1003	Contemporary global environmental issues	Loke Yew Hall
+				Contemporary global environmental issues	Rm 103 Main Bldg.
+				Contemporary global environmental issues	Rm 167 Main Bldg.
+				Contemporary global environmental issues	Rm 201 Main Bldg.
+Dec 15 MON	9:30 am - 11:30 am		SOCI3078	Drug control in comparative perspective	Rm 201 Main Bldg.
+Dec 16 TUE	9:30 am - 11:30 am		GEOG2013	Sustainable Development: Introduction and Quantification	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 16 TUE	9:30 am - 11:30 am		GHAD1001	Foundations in global health and development	Rm 8 Library Ext.
+Dec 16 TUE	2:30 pm - 4:30 pm		ECON1220	Introductory macroeconomics	Loke Yew Hall
+				Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+Dec 18 THU	9:30 am - 11:30 am		GHAD1004	Introduction to Epidemiology and Biostatistics	Rm 201 Main Bldg.
+Dec 18 THU	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	CPD-LG.07-10, Centennial Campus
+				Introduction to psychology	Multi-purpose Zone, Level 3, Main Library
+Dec 19 FRI	2:30 pm - 4:30 pm		IIMT2601	Management information systems	CPD-LG.07-10, Centennial Campus
+Dec 20 SAT	2:30 pm - 4:00 pm		GEOG2090	Introduction to geographic information systems	CPD-LG.07-10, Centennial Campus
+Dec 22 MON	9:30 am - 11:30 am		BUSI3801	Business law	CPD-LG.07-10, Centennial Campus
+Dec 22 MON	9:30 am - 11:30 am		GEOG3214	Corporate social responsibility and environmental auditing	Loke Yew Hall

@@ -1,0 +1,27 @@
+BNurs Examination                                                                Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 3 WED	2:30 pm - 4:30 pm		NURS5600	Nursing of Older Adults	Loke Yew Hall
+Dec 5 FRI	2:30 pm - 4:30 pm		NURS5601	Oncology Nursing and Palliative Care	Loke Yew Hall
+Dec 8 MON	9:30 am - 11:30 am		NURS4600	Nursing of Children & Adolescents	Loke Yew Hall
+Dec 8 MON	2:30 pm - 4:00 pm		CMED2006	Health Psychology	Loke Yew Hall
+				Health Psychology	Rm 103 Main Bldg.
+Dec 10 WED	2:30 pm - 4:30 pm		PHAR3366	Clinical Pharmacology	CPD-LG.07-10, Centennial Campus
+Dec 11 THU	9:30 am - 11:30 am		NURS2600	Nursing of Adults I	CPD-LG.07-10, Centennial Campus
+Dec 12 FRI	9:30 am - 11:30 am		NURS1604	Foundation of Life Sciences	CPD-LG.07-10, Centennial Campus
+Dec 12 FRI	2:30 pm - 4:30 pm		NURS4601	Nursing of Women and Infants	Loke Yew Hall
+Dec 13 SAT	9:30 am - 12:30 pm		CCGL9036	Dilemmas of Humanitarian Intervention	Rm 6 Library Ext.
+				Dilemmas of Humanitarian Intervention	Rm 7 Library Ext.
+Dec 13 SAT	6:30 pm - 8:30 pm		GEOG1002	Hong Kong: land, people and resources	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	9:30 am - 11:30 am		NURS4602	Mental Health Nursing	Multi-purpose Zone, Level 3, Main Library
+Dec 15 MON	2:30 pm - 4:30 pm		NURS2603	Life Sciences I	Multi-purpose Zone, Level 3, Main Library
+				Life Sciences I	Rm 2 Library Ext.
+Dec 17 WED	9:30 am - 11:30 am		NURS1603	Clinical Skills in Practice	CPD-LG.07-10, Centennial Campus
+Dec 17 WED	2:30 pm - 4:30 pm		NURS3605	Life Sciences III	Loke Yew Hall
+Dec 18 THU	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	CPD-LG.07-10, Centennial Campus
+				Introduction to psychology	Multi-purpose Zone, Level 3, Main Library
+Dec 19 FRI	9:30 am - 12:00 noon		CCST9027	The Science of Irrational Thinking	CPD-LG.07-10, Centennial Campus
+Dec 19 FRI	9:30 am - 11:30 am		NURS3601	Critical Care and Emergency Nursing	Multi-purpose Zone, Level 3, Main Library
+Dec 20 SAT	9:30 am - 11:30 am		CCST9016	Energy: Its Evolution and Environmental Impacts	CPD-LG.07-10, Centennial Campus
+Dec 20 SAT	2:30 pm - 4:30 pm		CCST9020	Sustainable Development of the Built Environment	Rm 167 Main Bldg.
+Dec 22 MON	9:30 am - 10:30 am		CCGL9025	The Political Economy of Growth and Poverty in the World	Rm 105 Chong Yuet Ming Amenities Ctr.

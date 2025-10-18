@@ -1,0 +1,31 @@
+BA(LS) Examination                                                               Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 6 SAT	2:30 pm - 4:30 pm		ACCT1101	Introduction to financial accounting	CPD-LG.07-10, Centennial Campus
+				Introduction to financial accounting	CPD-LG.60, Centennial Campus
+				Introduction to financial accounting	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introduction to financial accounting	Loke Yew Hall
+				Introduction to financial accounting	Multi-purpose Zone, Level 3, Main Library
+				Introduction to financial accounting	Rm 103 Main Bldg.
+				Introduction to financial accounting	Rm 167 Main Bldg.
+				Introduction to financial accounting	Rm 237 Main Bldg.
+				Introduction to financial accounting	Rm 6 Library Ext.
+				Introduction to financial accounting	Rm 7 Library Ext.
+				Introduction to financial accounting	Rm 8 Library Ext.
+				Introduction to financial accounting	Rm 9 Library Ext.
+Dec 10 WED	2:30 pm - 4:30 pm		GEOG2096	Human impacts on ecosystems	Rm 201 Main Bldg.
+				Human impacts on ecosystems	Rm 256 Main Bldg.
+Dec 12 FRI	2:30 pm - 4:00 pm		GEOG2030	Global development	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Global development	Rm 8 Library Ext.
+				Global development	Rm 9 Library Ext.
+Dec 13 SAT	6:30 pm - 8:30 pm		GEOG1002	Hong Kong: land, people and resources	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	9:30 am - 11:30 am		GEOG1003	Contemporary global environmental issues	Loke Yew Hall
+				Contemporary global environmental issues	Rm 103 Main Bldg.
+				Contemporary global environmental issues	Rm 167 Main Bldg.
+				Contemporary global environmental issues	Rm 201 Main Bldg.
+Dec 16 TUE	9:30 am - 11:30 am		GEOG2013	Sustainable Development: Introduction and Quantification	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 19 FRI	9:30 am - 11:30 am		GEOG2127	Environmental management	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 19 FRI	2:30 pm - 5:30 pm		AFIC1005	Introduction to the Built Environment	Multi-purpose Zone, Level 3, Main Library
+Dec 20 SAT	2:30 pm - 4:00 pm		GEOG2090	Introduction to geographic information systems	CPD-LG.07-10, Centennial Campus
+Dec 22 MON	9:30 am - 10:30 am		CCGL9025	The Political Economy of Growth and Poverty in the World	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 22 MON	9:30 am - 11:30 am		GEOG3214	Corporate social responsibility and environmental auditing	Loke Yew Hall

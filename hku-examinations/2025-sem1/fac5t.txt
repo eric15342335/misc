@@ -1,0 +1,139 @@
+Faculty of Engineering Postgraduate Courses Examination                          Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 3 WED	6:30 pm - 8:30 pm		COMP7503	Multimedia technologies	Loke Yew Hall
+				Multimedia technologies	Rm 103 Main Bldg.
+Dec 3 WED	6:30 pm - 8:30 pm		ECOM6013	E-commerce technologies	Multi-purpose Zone, Level 3, Main Library
+Dec 4 THU	6:30 pm - 8:30 pm		COMP7104	Advanced database systems	Loke Yew Hall
+Dec 4 THU	6:30 pm - 8:30 pm		ECOM6023	E-financial services	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 5 FRI	6:30 pm - 8:30 pm		COMP7107	Management of complex data types	Loke Yew Hall
+Dec 5 FRI	6:30 pm - 8:30 pm		ICOM6045	Fundamentals of e-commerce security	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 6 SAT	9:30 am - 11:30 am		CIVL6037	Project management - human and organisational factors	Rm 217 Main Bldg.
+				Project management - human and organisational factors	Rm 218 Main Bldg.
+Dec 6 SAT	9:30 am - 11:30 am		DASE7119	Digital enterprises and e-commerce	CPD-LG.61 & CPD-LG.62, Centennial Campus
+Dec 6 SAT	2:30 pm - 4:30 pm		MECH7014	Railway engineering – metro and high-speed rail	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 6 SAT	2:30 pm - 4:30 pm		STAT6013	Financial data analysis	Rm 217 Main Bldg.
+				Financial data analysis	Rm 218 Main Bldg.
+Dec 6 SAT	6:30 pm - 8:30 pm		COMP7508	Data-driven computer animation	CPD-LG.60, Centennial Campus
+				Data-driven computer animation	CPD-LG.61 & CPD-LG.62, Centennial Campus
+Dec 6 SAT	6:30 pm - 8:30 pm		ELEC6095	Smart grid	Rm 4 Library Ext.
+				Smart grid	Rm 5 Library Ext.
+Dec 6 SAT	6:30 pm - 8:30 pm		ELEC6604	Neural networks, fuzzy systems and genetic algorithms	Rm 6 Library Ext.
+				Neural networks, fuzzy systems and genetic algorithms	Rm 7 Library Ext.
+Dec 8 MON	6:30 pm - 8:30 pm		DASE7015	Engineering economics and finance	Loke Yew Hall
+Dec 8 MON	6:30 pm - 8:30 pm		ELEC7402	Advanced electric vehicle technology	Rm 3 Library Ext.
+Dec 8 MON	6:30 pm - 8:30 pm		EMEE6011	Energy saving lighting	Rm 3 Library Ext.
+Dec 8 MON	6:30 pm - 8:30 pm		MEBS6002	Lighting engineering	CPD-LG.60, Centennial Campus
+				Lighting engineering	CPD-LG.61 & CPD-LG.62, Centennial Campus
+Dec 8 MON	6:30 pm - 8:30 pm		MECH6010	Service behaviour of materials	CPD-LG.07-10, Centennial Campus
+Dec 9 TUE	2:30 pm - 4:30 pm		DASE7505	Intelligent unmanned systems	Rm 4 Library Ext.
+				Intelligent unmanned systems	Rm 5 Library Ext.
+Dec 9 TUE	6:30 pm - 8:30 pm		CIVL6060	Operation and maintenance of building and civil engineering works	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 9 TUE	6:30 pm - 8:30 pm		CIVL6077	Ground investigation and soil testing	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 9 TUE	6:30 pm - 8:30 pm		CIVL7021	NEC contract management	Loke Yew Hall
+Dec 9 TUE	6:30 pm - 8:30 pm		COMP7802	Introduction to financial computing	Multi-purpose Zone, Level 3, Main Library
+Dec 9 TUE	6:30 pm - 8:30 pm		ELEC6603	Success in industrial entrepreneurship	CPD-LG.07-10, Centennial Campus
+Dec 10 WED	2:30 pm - 4:30 pm		DASE7222	Decision analytics in global logistics	Rm 4 Library Ext.
+				Decision analytics in global logistics	Rm 5 Library Ext.
+Dec 10 WED	6:30 pm - 8:30 pm		CIVL6025	Environmental impact assessment of engineering projects	CPD-LG.07-10, Centennial Campus
+Dec 10 WED	6:30 pm - 8:30 pm		DASC7606	Deep learning	Loke Yew Hall
+				Deep learning	Rm 103 Main Bldg.
+				Deep learning	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Deep learning	Rm 167 Main Bldg.
+Dec 10 WED	6:30 pm - 8:30 pm		ELEC6085	The role of a computerized SCADA system in power system operation	CPD-LG.07-10, Centennial Campus
+Dec 10 WED	6:30 pm - 8:30 pm		MEBS6001	Electrical installations	Loke Yew Hall
+Dec 10 WED	6:30 pm - 8:30 pm		MECH6017	Noise and vibration	Multi-purpose Zone, Level 3, Main Library
+Dec 10 WED	6:30 pm - 8:30 pm		MECH6045	Nanotechnology: fundamentals and applications	Multi-purpose Zone, Level 3, Main Library
+Dec 10 WED	6:30 pm - 8:30 pm		MEST7420	CMOS Analog Circuit Design: Basic Circuits	Loke Yew Hall
+Dec 11 THU	6:30 pm - 8:30 pm		CIVL6026	Finite element method	Rm 217 Main Bldg.
+Dec 11 THU	6:30 pm - 8:30 pm		CIVL6083	Practical design and construction of tunnels in Hong Kong	Rm 218 Main Bldg.
+Dec 11 THU	6:30 pm - 8:30 pm		COMP7103	Data mining	CPD-LG.07-10, Centennial Campus
+				Data mining	CPD-LG.60, Centennial Campus
+				Data mining	CPD-LG.61 & CPD-LG.62, Centennial Campus
+Dec 11 THU	6:30 pm - 8:30 pm		DASE7150	Frontiers in data and systems engineering A	Loke Yew Hall
+Dec 11 THU	6:30 pm - 8:30 pm		ELEC7029	Analog IC design computing and memories	Multi-purpose Zone, Level 3, Main Library
+Dec 11 THU	6:30 pm - 8:30 pm		LATX7514	Propulsion technology	Rm 103 Main Bldg.
+				Propulsion technology	Rm 167 Main Bldg.
+Dec 11 THU	6:30 pm - 8:30 pm		MEBS6019	Extra-low-voltage electrical systems in buildings	Loke Yew Hall
+Dec 12 FRI	6:30 pm - 8:30 pm		CIVL6014	Construction dispute resolution	Multi-purpose Zone, Level 3, Main Library
+Dec 12 FRI	6:30 pm - 8:30 pm		CIVL6050	Urban hydrology and hydraulics	Rm 167 Main Bldg.
+Dec 12 FRI	6:30 pm - 8:30 pm		CIVL7023	Industrialized construction with automation and robotics	Rm 217 Main Bldg.
+Dec 12 FRI	6:30 pm - 8:30 pm		COMP7409	Machine learning in trading and finance	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 12 FRI	6:30 pm - 8:30 pm		DASE7902	Project management	Multi-purpose Zone, Level 3, Main Library
+Dec 12 FRI	6:30 pm - 8:30 pm		ELEC7043	Digital image processing and computer vision	CPD-LG.07-10, Centennial Campus
+Dec 12 FRI	6:30 pm - 8:30 pm		ELEC7469	Advanced electrical energy and power conversion systems	Multi-purpose Zone, Level 3, Main Library
+Dec 12 FRI	6:30 pm - 8:30 pm		EMEE6005	Renewable energy technology I: Fundamental	Loke Yew Hall
+Dec 12 FRI	6:30 pm - 8:30 pm		IDAT7217	Advanced topics in innovative design and technology A	Rm 103 Main Bldg.
+Dec 12 FRI	6:30 pm - 8:30 pm		MECH6046	Microsystems for energy, biomedical and consumer electronics applications	CPD-LG.07-10, Centennial Campus
+Dec 12 FRI	6:30 pm - 8:30 pm		MECH7010	Contemporary robotics	Loke Yew Hall
+Dec 13 SAT	2:30 pm - 4:30 pm		DASE7341	Technology innovation and entrepreneurship	Rm 4 Library Ext.
+				Technology innovation and entrepreneurship	Rm 5 Library Ext.
+Dec 13 SAT	2:30 pm - 4:30 pm		ELEC6080	Telecommunications systems and management	Rm 201 Main Bldg.
+				Telecommunications systems and management	Rm 218 Main Bldg.
+				Telecommunications systems and management	Rm 256 Main Bldg.
+Dec 13 SAT	2:30 pm - 4:30 pm		MEBS6015	Natural and hybrid ventilation of buildings	Rm 3 Library Ext.
+Dec 13 SAT	6:30 pm - 8:30 pm		EMEE6007	Energy and carbon audit	Loke Yew Hall
+Dec 13 SAT	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Financial fraud analytics	Rm 2 Library Ext.
+				Financial fraud analytics	Rm 3 Library Ext.
+Dec 13 SAT	6:30 pm - 8:30 pm		IDAT7211	Innovation and R & D principle	Rm 103 Main Bldg.
+				Innovation and R & D principle	Rm 167 Main Bldg.
+Dec 13 SAT	6:30 pm - 8:30 pm		MEST7419	Safety Training and Microelectronics Process	Rm 4 Library Ext.
+				Safety Training and Microelectronics Process	Rm 5 Library Ext.
+Dec 15 MON	2:30 pm - 4:30 pm		MECH7022	Aerodynamics and its computation	Rm 8 Library Ext.
+				Aerodynamics and its computation	Rm 9 Library Ext.
+Dec 15 MON	6:30 pm - 8:30 pm		CIVL6045	Tall building structures	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	6:30 pm - 8:30 pm		CIVL7024	Computer vision for infrastructure construction and management	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	6:30 pm - 8:30 pm		DASE7113	Optimization methods for intelligent systems	Loke Yew Hall
+Dec 15 MON	6:30 pm - 8:30 pm		DASE7310	Financial engineering	Loke Yew Hall
+Dec 15 MON	6:30 pm - 8:30 pm		ELEC6098	Electronic and mobile commerce	CPD-LG.07-10, Centennial Campus
+Dec 15 MON	6:30 pm - 8:30 pm		FITE7407	Securities transaction banking	Loke Yew Hall
+Dec 15 MON	6:30 pm - 8:30 pm		MEST7418	Nanophotonics	Rm 2 Library Ext.
+Dec 16 TUE	2:30 pm - 4:30 pm		DASE7138	Healthcare systems engineering	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 16 TUE	6:30 pm - 8:30 pm		COMP7308	Introduction to unmanned systems	Rm 103 Main Bldg.
+Dec 16 TUE	6:30 pm - 8:30 pm		COMP7507	Visualization and visual analytics	CPD-LG.07-10, Centennial Campus
+Dec 16 TUE	6:30 pm - 8:30 pm		ELEC6100	Digital communications	CPD-LG.07-10, Centennial Campus
+Dec 16 TUE	6:30 pm - 8:30 pm		ELEC7084	Advanced database	Loke Yew Hall
+Dec 16 TUE	6:30 pm - 8:30 pm		ELEC7403	Advanced power electronics	Multi-purpose Zone, Level 3, Main Library
+Dec 16 TUE	6:30 pm - 8:30 pm		EMEE6002	Sustainability and climate change	Multi-purpose Zone, Level 3, Main Library
+Dec 16 TUE	6:30 pm - 8:30 pm		LATX7513	Fundamentals of aircraft and aviation	Loke Yew Hall
+Dec 16 TUE	6:30 pm - 8:30 pm		MEBS7012	Air conditioning and refrigeration	Loke Yew Hall
+Dec 17 WED	6:30 pm - 8:30 pm		CIVL6004	Advanced soil mechanics	Multi-purpose Zone, Level 3, Main Library
+Dec 17 WED	6:30 pm - 8:30 pm		COMP7906	Introduction to cyber security	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 17 WED	6:30 pm - 8:30 pm		DASE7139	Cyber-physical systems	CPD-LG.07-10, Centennial Campus
+Dec 17 WED	6:30 pm - 8:30 pm		ELEC6026	Digital signal processing	CPD-LG.07-10, Centennial Campus
+Dec 17 WED	6:30 pm - 8:30 pm		ELEC6027	Integrated circuit systems design	CPD-LG.07-10, Centennial Campus
+Dec 17 WED	6:30 pm - 8:30 pm		MECH6034	Computer-aided product development (CAPD)	Loke Yew Hall
+Dec 18 THU	2:30 pm - 4:30 pm		DASE7142	Advanced computational methods	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 18 THU	6:30 pm - 8:30 pm		CIVL6054	Engineering for transport systems	Multi-purpose Zone, Level 3, Main Library
+Dec 18 THU	6:30 pm - 8:30 pm		ELEC6063	Optoelectronics and lightwave technology	Rm 217 Main Bldg.
+Dec 18 THU	6:30 pm - 8:30 pm		ELEC6103	Satellite communications	Multi-purpose Zone, Level 3, Main Library
+Dec 18 THU	6:30 pm - 8:30 pm		ELEC7405	Advanced signaling systems for railway	Rm 103 Main Bldg.
+Dec 18 THU	6:30 pm - 8:30 pm		ICOM7128	Knowledge graphs	Rm 167 Main Bldg.
+Dec 18 THU	6:30 pm - 8:30 pm		IDAT7215	Computer programming for product development and applications	Loke Yew Hall
+Dec 18 THU	6:30 pm - 8:30 pm		MECH6019	Sources and control of air pollution	Multi-purpose Zone, Level 3, Main Library
+Dec 19 FRI	6:30 pm - 8:30 pm		CIVL7019	Statistical methods for civil engineering	CPD-LG.07-10, Centennial Campus
+Dec 19 FRI	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	CPD-LG.07-10, Centennial Campus
+Dec 19 FRI	6:30 pm - 8:30 pm		COMP7415	Mastering the markets: Financial analytics and algorithmic trading	CPD-LG.07-10, Centennial Campus
+Dec 19 FRI	6:30 pm - 8:30 pm		COMP7905	Reverse engineering and malware analysis	Loke Yew Hall
+Dec 19 FRI	6:30 pm - 8:30 pm		DASE7034	Operational research	Multi-purpose Zone, Level 3, Main Library
+Dec 19 FRI	6:30 pm - 8:30 pm		ELEC6008	Pattern recognition and machine learning	Loke Yew Hall
+Dec 19 FRI	6:30 pm - 8:30 pm		MEST7412	Solid-state materials and physics	Loke Yew Hall
+Dec 20 SAT	9:30 am - 11:30 am		ELEC7013	Leadership in future energy industry	Rm 5 Library Ext.
+Dec 20 SAT	9:30 am - 11:30 am		EMEE7013	Leadership in future energy industry	Rm 5 Library Ext.
+Dec 20 SAT	9:30 am - 12:30 pm		RECO7605	Information management	Rm 201 Main Bldg.
+Dec 20 SAT	2:30 pm - 5:30 pm		COMP7309	Quantum computing and artificial intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+Dec 20 SAT	2:30 pm - 4:30 pm		DASE7143	The internet of things	Loke Yew Hall
+Dec 20 SAT	2:30 pm - 4:30 pm		ELEC7467	Power system protection	Rm 103 Main Bldg.
+Dec 20 SAT	2:30 pm - 4:30 pm		LATX7515	Aeronautical materials and manufacturing	Multi-purpose Zone, Level 3, Main Library
+Dec 20 SAT	2:30 pm - 4:30 pm		MEBS6013	Testing and commissioning	Loke Yew Hall
+Dec 20 SAT	2:30 pm - 4:30 pm		MECH7016	Railway project management	Multi-purpose Zone, Level 3, Main Library
+Dec 20 SAT	6:30 pm - 8:30 pm		COMP9602	Optimization	Rm 167 Main Bldg.
+Dec 20 SAT	6:30 pm - 8:30 pm		ELEC6036	High-performance computer architecture	Loke Yew Hall
+Dec 20 SAT	6:30 pm - 8:30 pm		IDAT7219	Smart building technology	Loke Yew Hall
+Dec 22 MON	9:30 am - 11:30 am		DASE7111	Data-driven optimization	Loke Yew Hall
+Dec 22 MON	9:30 am - 11:30 am		DASE7137	Virtual reality and applications	Loke Yew Hall
+Dec 22 MON	9:30 am - 11:30 am		ELEC6097	IP networks	Rm 167 Main Bldg.
+Dec 22 MON	2:30 pm - 4:30 pm		CIVL6061	Special topic in environmental engineering A	CPD-LG.07-10, Centennial Campus
+Dec 22 MON	6:30 pm - 8:30 pm		ELEC7079	Investment and trading for engineering students	Rm 167 Main Bldg.
+Dec 23 TUE	9:30 am - 11:30 am		DASE7020	Supply chain management	Loke Yew Hall

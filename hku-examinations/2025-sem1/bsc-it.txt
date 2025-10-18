@@ -1,0 +1,18 @@
+BSc(I&T) Examination                                                             Timetable for the First Semester of 2025-2026(As at Oct 17, 2025)
+
+Date	Time		Course Code	Description	Venue
+Dec 8 MON	9:30 am - 12:30 pm		MECH2419	Properties of materials	Rm 4 Library Ext.
+				Properties of materials	Rm 5 Library Ext.
+Dec 11 THU	2:30 pm - 5:00 pm		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+				University mathematics II	Loke Yew Hall
+				University mathematics II	Multi-purpose Zone, Level 3, Main Library
+				University mathematics II	Rm 103 Main Bldg.
+				University mathematics II	Rm 167 Main Bldg.
+Dec 13 SAT	2:30 pm - 4:30 pm		COMP1117	Computer programming	Loke Yew Hall
+				Computer programming	Multi-purpose Zone, Level 3, Main Library
+				Computer programming	Rm 103 Main Bldg.
+				Computer programming	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Computer programming	Rm 167 Main Bldg.
+Dec 16 TUE	9:30 am - 11:30 am		INTC1201	Modelling the World 1	Rm 218 Main Bldg.
+Dec 19 FRI	2:30 pm - 4:30 pm		CCGL9019	Economic Globalization: Issues and Challenges	Rm 103 Main Bldg.
+Dec 23 TUE	9:30 am - 12:30 pm		MECH2413	Engineering mechanics	Rm 105 Chong Yuet Ming Amenities Ctr.
