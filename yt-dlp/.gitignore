@@ -8,3 +8,4 @@ venv
 *.mp4
 *.mp3
 downloaded
+dist

@@ -1,4 +1,9 @@
-rem Clone the respective repositories
+rem We need to pipe this into cmd instead of cmd /c,
+rem otherwise python virtual environment activation won't work properly.
+rem however, PowerShell piping "|" will add an UTF-8 BOM marker at the start of the file,
+rem which will mess up with the first line of this script.
+rem Therefore, we keep "rem" comments at the start of the file to avoid issues.
+rem This is probably my first time that removing a comment will cause a bug xD
 git clone https://github.com/pyinstaller/pyinstaller --depth=50
 git clone https://github.com/yt-dlp/yt-dlp --depth=1
 
@@ -39,7 +44,7 @@ pyinstaller -y --onefile yt_dlp/__main__.py --name yt-dlp --noupx --version-file
 
 cp ..\ffmpeg.exe dist\yt-dlp\
 xcopy dist\* ..\dist\ /E /I /Y
-cp README.md ..\yt_dlp\
+cp README.md ..\dist\
 cd ..\
 
 rem Clean up
