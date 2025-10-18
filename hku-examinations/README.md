@@ -75,6 +75,24 @@ Run on *all* of the text files come with this repository:
 cat **/*.txt | grep -E "[A-Z]{4}" --only-matching | sort | uniq -c | sort -r
 ```
 
+## Sorted by course type, including title
+
+```bash
+awk '
+  {
+    if (match($0, /[A-Z]{4}[0-9]{4}/)) {
+      code  = substr($0, RSTART, RLENGTH);
+      rest  = substr($0, RSTART + RLENGTH);
+      gsub(/^[[:space:]]+/, "", rest);
+      # title = text up to the next run of whitespace (tab or ≥2 spaces)
+      n = split(rest, a, /(\t|[[:space:]][[:space:]]+)/);
+      title = a[1];
+      print code "\t" title
+    }
+  }
+' **/ai.txt | sort -u -t $'\t' -k1.1,1.4 -k1.5,1.8n
+```
+
 ## Important things to consider in this data analysis
 
 * Only courses with examinations were appeared on the website
