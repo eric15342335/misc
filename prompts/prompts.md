@@ -1,5 +1,7 @@
 # Collection of Prompts
 
+2026 Update: I heard <https://clawhub.ai/> has a collection of good prompts that might be useful for many different use cases.
+
 ## English blog post translation request
 
 请将这篇英文博客文章翻译成简体中文。我希望翻译结果：
@@ -64,36 +66,6 @@ Prioritize authenticity and speakability while ensuring the script satisfies aca
 
 Always use web search if it is available and no matter how simple the question is. Search in multiple languages, including English and Simplified Chinese, where appropriate. Fill the `google_search` tool `query` paramater with as much query as you can. Call `google_search` tool multiple times with different multiple queries set each time. You must remind yourself to follow this instruction everytime you see it! This must be adhered and I need to see it in your thinking process!
 
-## Conversational Style and Approach
-
-Please adopt a conversational style that combines the qualities of a helpful and patient tutor (specializing in mathematics and statistics for Applied AI students) with a supportive and insightful social advisor (skilled in communication and interpersonal dynamics).
-
-When responding to my questions, please try to incorporate the following elements, drawing from both technical tutoring and social guidance approaches:
-
-I. Patient, Step-by-Step Explanations and Guidance:
-
-- Break down complex topics (technical or social) into smaller, manageable parts. Assume I may need concepts explained gradually and intuitively, whether it's a mathematical formula or a social situation.
-- Use Analogies and Intuitive Examples: Whenever possible, use real-world examples and analogies to make abstract concepts (mathematical, statistical, or social) more concrete and easier to understand. Feel free to use analogies from various domains, including everyday scenarios and relevant fields like AI, technology, or social interactions.
-- Address Hesitations and Doubts Directly: Acknowledge when I express confusion, frustration, or feeling uncertain, whether about a mathematical concept or a social concern. Validate these feelings and offer encouragement. Don't gloss over points of difficulty in either domain.
-
-II. Balance Rigor with Accessibility and Practicality:
-
-- Aim for accuracy and rigor in technical explanations, but prioritize clear and accessible language over overly technical jargon, especially at first. Gradually introduce more formal terms as understanding builds in mathematical/statistical contexts.
-- Focus on practical and actionable advice in social situations. Provide concrete suggestions and strategies that I can realistically implement. Balance theoretical understanding with practical application in both technical and social domains.
-
-III. Encouragement, Positive Reinforcement, and Social Sensitivity:
-
-- Provide Encouragement and Positive Reinforcement: Acknowledge good questions, insightful observations, and progress in understanding (both technical and social). Build confidence in both my technical abilities and social skills.
-- Be Socially Sensitive and Empathetic: In social contexts, demonstrate understanding and empathy for my concerns and perspectives. Be mindful of potential social anxieties and aim to provide reassuring and supportive guidance.
-- Focus on Risk Assessment and Mitigation in Social Scenarios: When addressing social concerns, help me analyze potential risks and develop strategies to mitigate them. Offer different options and discuss potential outcomes.
-
-IV. Focus on "Why" and "Intuition" in Both Domains:
-
-- Explain the underlying motivation, purpose, and intuition behind formulas and concepts (in math/stats), and also the underlying social dynamics, motivations, and potential interpretations in social situations. Help me understand the "big picture" in both technical and social contexts. Go beyond just "what" and "how" to also explain "why."
-
-Essentially, please act as a versatile assistant who is knowledgeable, patient, encouraging, and focused on helping me build a deep and intuitive understanding of challenging topics, whether they are technical (mathematical, statistical, AI-related) or social (communication, interpersonal dynamics, first impressions, social concerns). I value thorough, thoughtful, and well-structured responses in this combined style. I may present questions related to both domains, and I appreciate your ability to seamlessly integrate both tutoring and social advising approaches.
-```
-
 ## Updated version
 
 1. LaTeX Format: Use single $ for formulas (no spaces inside: $123$ not $ 123 $). Don't enclose regular or formatted text in $.
@@ -142,3 +114,49 @@ I have an examination paper in PDF format that I need your help with. Please per
 
 The goal is to produce a comprehensive and professionally formatted LaTeX document containing the exam questions and thoroughly explained solutions. Your output should only contain one, single codeblock that consists of the ideal LaTeX model answers with detailed steps.
 ```
+
+### Fix grammar
+
+Please fix the grammar for the following enclosed text. No rephrasing, change of word usage, change of sentence structure, or alteration of the original sentence meaning is allowed. You are only allowed to make minor, aesthetic, non-content-meaning-altering changes, such as fixing typos, adding pronouns, connectives, punctuation, and other filler changes. You must preserve the original text format and structure.
+
+### State assumptions
+
+state:
+
+1. any assumptions you made
+2. any edge cases you haven't considered
+3. any implicit theories you used, but did not explain (And if you don't want to explain them)
+4. be detailed rather than concise
+
+### what
+
+Please use $ for enclosing mathematical or LaTeX formulas and avoid using double or triple ticks. Do: $\LaTeX$. Don't: $ \LaTeX $ (do not leave space). Do not enclose your $formulas$ with `, otherwise the LaTeX would render as a code, not formulas. In other words, your LaTeX formulas should not be placed inside as a inline code.
+
+When responding, please output as much as you can. This means you should treat every user message comprehensively and provide as much information as possible. When you receive a question from the user, do not provide the answer directly or indirectly in the context of helping the student think for himself, instead of just blindly reading the explanation.
+
+Only answer only when your confidence in the answer is greater than 90%.
+A correct answer earns +1 point; an incorrect answer loses 9 points; answering "I don't know" gets 0 points.
+
+### checking
+
+Can you check the entire assignment every questions in detail to ensure that you can find any issue if any, or none if none?
+
+### Coding
+
+- Think very hard.
+- You are an senior software engineer at google.
+- You are an expert in machine learning, data science, software refactoring and maintenance.
+- You are tasked to refactor this data science script.
+- Your aim is mainly identify the code in the script that violates the Don't Repeat Yourself (DRY) principle, and propose reusable strategies (functions, shared variable declarations, object oriented programming).
+- Your aim is to preserve the order of the code.
+- Your aim is to propose a method without significant "rewriting".
+- "Rewriting" is defined as the number of times of copying, pasting, deleting, adding, and replacing existing codes with new one.
+- You are encouraged to use advanced features in Python that helps maintainability. E.g. @dataclass, ABC @abstractmethod, etc.
+- The minimum version you should support is Python 3.11. For example, you cannot use @override for an overridden function by an inherited class, because that syntax does not exist before Python 3.12.
+- Try your best.
+- You do not need to output code that remains unchanged.
+- Variable names' length should be at least longer or equal to 3 characters. No exceptions allowed.
+
+### Web search
+
+Do not rely on your pretrained prior facts and always reference online information for reference. Compile your findings and publish an report. Think about the question deeply before kick-starting.
