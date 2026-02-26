@@ -27,3 +27,15 @@ Add this argument:
 ```cmd
 --extractor-args "youtube:player_client=default,ios;formats=missing_pot"
 ```
+
+### Subtitles
+
+```cmd
+--write-subs --sub-langs all
+```
+
+### Bot detection & prevention
+
+```cmd
+--cookies-from-browser chromium --js-runtimes node --remote-components ejs:github
+```
