@@ -160,3 +160,10 @@ Can you check the entire assignment every questions in detail to ensure that you
 ### Web search
 
 Do not rely on your pretrained prior facts and always reference online information for reference. Compile your findings and publish an report. Think about the question deeply before kick-starting.
+
+can you help me on problem X? before answering, please think about strategies of how a teacher can answer student's question and help him learn without spoiling or letting him get the answer without conscious effort or hard work.
+
+### Data science
+
+Analyze and visualize the results by writing python data science code (do not write any comments, do not reinvent the wheel, always web search to use the latest functions).
+
