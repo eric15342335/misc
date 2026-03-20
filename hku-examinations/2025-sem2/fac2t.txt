@@ -1,0 +1,52 @@
+Faculty of Science Postgraduate Courses Examination                              Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	6:30 pm - 9:30 pm		GEOS7035	Intermediate geology	Rm 237 Main Bldg.
+May 11 MON	6:30 pm - 9:30 pm		GEOS8102	Rock engineering and applications	Rm 237 Main Bldg.
+May 11 MON	6:30 pm - 8:30 pm		STAT6013	Financial data analysis	Rm 103 Main Bldg.
+				Financial data analysis	Rm 167 Main Bldg.
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Loke Yew Hall
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Rm 103 Main Bldg.
+				Computational intelligence and machine learning	Rm 167 Main Bldg.
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 12 TUE	6:30 pm - 8:30 pm		ENVM8013	Air and noise pollution control and management	Rm 9 Library Ext.
+May 13 WED	6:30 pm - 9:00 pm		ARIN7015	Topics in artificial intelligence and machine learning	Rm 6 Library Ext.
+				Topics in artificial intelligence and machine learning	Rm 7 Library Ext.
+May 13 WED	6:30 pm - 8:30 pm		COMP7906	Introduction to cyber security	Rm 5 Library Ext.
+May 13 WED	6:30 pm - 8:30 pm		ENVM8025	Strategic Sustainability Integration in Business and Investment	Rm 8 Library Ext.
+May 13 WED	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	CPD-LG.07-10, Centennial Campus
+				Financial fraud analytics	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 13 WED	6:30 pm - 8:30 pm		GEOS7036	Innovative Technology and Environmental Sustainability	Rm 4 Library Ext.
+May 14 THU	6:30 pm - 8:30 pm		COMP7409	Machine learning in trading and finance	Loke Yew Hall
+				Machine learning in trading and finance	Rm 710, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 14 THU	6:30 pm - 8:00 pm		ENVM8017	Conservation and management of marine resources	Rm 256 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		STAT6015	Advanced quantitative risk management	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	6:30 pm - 9:30 pm		GEOS7033	Geology of Hong Kong	Rm 237 Main Bldg.
+May 16 SAT	2:30 pm - 5:30 pm		PHYS8450	Graduate Electromagnetic Field Theory	Rm 217 Main Bldg.
+May 16 SAT	6:30 pm - 8:30 pm		COMP7506	Smart phone apps development	CPD-LG.07-10, Centennial Campus
+				Smart phone apps development	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Smart phone apps development	Rm 611, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 16 SAT	6:30 pm - 8:30 pm		STAT6017	Operational risk and insurance analytics	Rm 167 Main Bldg.
+May 18 MON	9:30 am - 11:30 am		PHYS8352	Quantum Information	Rm 9 Library Ext.
+May 18 MON	2:30 pm - 4:30 pm		PHYS8153	Big Data, AI and Machine Learning in Physics, Astronomy and Space Science	Rm 6 Library Ext.
+May 18 MON	2:30 pm - 4:30 pm		STAT7006	Design and analysis of sample surveys	Rm 4 Library Ext.
+May 18 MON	6:30 pm - 9:00 pm		ARIN7013	Numerical methods in artificial intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 19 TUE	6:30 pm - 8:30 pm		DASC7606	Deep learning	Loke Yew Hall
+				Deep learning	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 19 TUE	6:30 pm - 8:00 pm		ENVM8024	Our Planet - An introduction to earth system science	Rm 256 Main Bldg.
+May 19 TUE	6:30 pm - 9:30 pm		GEOS8101	Engineering geology and geotechnical design	Rm 218 Main Bldg.
+May 19 TUE	6:30 pm - 8:30 pm		STAT8003	Time series forecasting	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		DASC7102	Advanced statistical modelling for data science	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		GEOS8204	Basic structural mechanics and behaviour	Rm 217 Main Bldg.
+May 20 WED	6:30 pm - 8:30 pm		STAT7102	Advanced statistical modelling	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 21 THU	2:30 pm - 5:00 pm		MATH7502	Topics in applied discrete mathematics	Rm 2 Library Ext.
+May 21 THU	6:30 pm - 9:30 pm		GEOS7012	Site investigation and engineering geological techniques	Rm 218 Main Bldg.
+May 21 THU	6:30 pm - 9:30 pm		GEOS8209	Climate change and society	Rm 218 Main Bldg.
+May 21 THU	6:30 pm - 8:30 pm		STAT8020	Quantitative strategies and algorithmic trading	CPD-LG.07-10, Centennial Campus
+May 22 FRI	9:30 am - 11:30 am		PHYS8751	Device Physics	Rm 103 Main Bldg.
+May 22 FRI	2:30 pm - 4:30 pm		PHYS8550	Graduate Statistical Mechanics	Rm 8 Library Ext.
+May 22 FRI	6:30 pm - 8:30 pm		COMP7503	Multimedia technologies	CPD-LG.07-10, Centennial Campus
+May 23 SAT	2:30 pm - 4:30 pm		FITE7405	Techniques in computational finance	Rm 2 Library Ext.
+				Techniques in computational finance	Rm 3 Library Ext.
+May 23 SAT	2:30 pm - 4:30 pm		PHYS8656	Topics in Astrophysics	Rm 9 Library Ext.
+May 23 SAT	6:30 pm - 8:30 pm		STAT6010	Advanced probability	Rm 201 Main Bldg.

@@ -1,0 +1,53 @@
+MSc(CompSc) Examination                                                          Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 7 THU	6:30 pm - 8:30 pm		COMP7412	Banking in Web3 - Metaverse, DeFi, NFTs and beyond	Loke Yew Hall
+				Banking in Web3 - Metaverse, DeFi, NFTs and beyond	Rm 710, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 7 THU	6:30 pm - 8:30 pm		COMP7415	Mastering the markets: Financial analytics and algorithmic trading	Loke Yew Hall
+May 8 FRI	6:30 pm - 8:30 pm		COMP7610	Introduction to Web3 and blockchain	Rm 103 Main Bldg.
+				Introduction to Web3 and blockchain	Rm 611, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 8 FRI	6:30 pm - 8:30 pm		FITE7414	Generative AI in financial services	Rm 103 Main Bldg.
+				Generative AI in financial services	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 9 SAT	6:30 pm - 8:30 pm		COMP7416	FinTech and digital currencies	Rm 237 Main Bldg.
+				FinTech and digital currencies	Rm 611, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 11 MON	6:30 pm - 8:30 pm		COMP7103	Data mining	Multi-purpose Zone, Level 3, Main Library
+May 11 MON	6:30 pm - 8:30 pm		COMP7608	Large language models	Multi-purpose Zone, Level 3, Main Library
+				Large language models	Rm 611, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Loke Yew Hall
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Rm 103 Main Bldg.
+				Computational intelligence and machine learning	Rm 167 Main Bldg.
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 13 WED	6:30 pm - 8:30 pm		COMP7906	Introduction to cyber security	Rm 5 Library Ext.
+May 13 WED	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	CPD-LG.07-10, Centennial Campus
+				Financial fraud analytics	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 14 THU	6:30 pm - 8:30 pm		COMP7409	Machine learning in trading and finance	Loke Yew Hall
+				Machine learning in trading and finance	Rm 710, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 14 THU	6:30 pm - 8:30 pm		COMP7901	Legal protection of digital property	Loke Yew Hall
+				Legal protection of digital property	Rm 167 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		STAT6015	Advanced quantitative risk management	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	6:30 pm - 8:30 pm		COMP7106	Big data management	Loke Yew Hall
+				Big data management	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 16 SAT	2:30 pm - 4:30 pm		COMP7408	Distributed ledger and blockchain technology	Rm 3 Library Ext.
+May 16 SAT	6:30 pm - 8:30 pm		COMP7506	Smart phone apps development	CPD-LG.07-10, Centennial Campus
+				Smart phone apps development	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Smart phone apps development	Rm 611, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 16 SAT	6:30 pm - 8:30 pm		FITE7409	Blockchain and cryptocurrency	Rm 4 Library Ext.
+				Blockchain and cryptocurrency	Rm 5 Library Ext.
+May 16 SAT	6:30 pm - 8:30 pm		FITE7409	Blockchain and cryptocurrency	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+				Blockchain and cryptocurrency	Rm 9 Library Ext.
+May 18 MON	6:30 pm - 8:30 pm		COMP7604	Game design and development	Loke Yew Hall
+May 19 TUE	6:30 pm - 8:30 pm		DASC7606	Deep learning	Loke Yew Hall
+				Deep learning	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 19 TUE	6:30 pm - 8:30 pm		FITE7411	RegTech in finance	Loke Yew Hall
+May 19 TUE	6:30 pm - 8:30 pm		STAT8003	Time series forecasting	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		COMP7903	Digital investigation and forensics	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		ECOM7124	Mobile and IoT computing services and applications	Multi-purpose Zone, Level 3, Main Library
+May 21 THU	6:30 pm - 8:30 pm		COMP7108	Network data analytics	CPD-LG.07-10, Centennial Campus
+				Network data analytics	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 22 FRI	6:30 pm - 8:30 pm		COMP7503	Multimedia technologies	CPD-LG.07-10, Centennial Campus
+May 23 SAT	9:30 am - 11:30 am		IDAT7216	Function design, aesthetics design, manufacturing and intellectual property law	Rm 103 Main Bldg.
+				Function design, aesthetics design, manufacturing and intellectual property law	Rm 167 Main Bldg.
+May 23 SAT	2:30 pm - 4:30 pm		FITE7405	Techniques in computational finance	Rm 2 Library Ext.
+				Techniques in computational finance	Rm 3 Library Ext.
+May 23 SAT	6:30 pm - 8:30 pm		STAT6010	Advanced probability	Rm 201 Main Bldg.
+May 26 TUE	6:30 pm - 8:30 pm		COMP7505	User interface design and development	Loke Yew Hall

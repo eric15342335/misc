@@ -1,0 +1,18 @@
+BNurs Examination                                                                Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	9:30 am - 12:30 pm		BCHM4699	Chinese Medicine and Nursing	Loke Yew Hall
+May 12 TUE	2:30 pm - 4:30 pm		CEMD9002	Practical Chinese for Nursing Students	Loke Yew Hall
+May 13 WED	2:30 pm - 4:30 pm		NURS2604	Life Sciences II	Multi-purpose Zone, Level 3, Main Library
+				Life Sciences II	Rm 2 Library Ext.
+May 14 THU	2:30 pm - 4:00 pm		NURS4604	Community and Global Health Nursing	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Community and Global Health Nursing	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	2:30 pm - 4:00 pm		CMED2007	Health Sociology	CPD-LG.07-10, Centennial Campus
+May 15 FRI	6:30 pm - 8:30 pm		CCCH9028	Hong Kong and China's Economic Development	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 18 MON	2:30 pm - 4:30 pm		NURS2601	Nursing of Adults II	Multi-purpose Zone, Level 3, Main Library
+				Nursing of Adults II	Rm 2 Library Ext.
+May 20 WED	6:30 pm - 8:30 pm		CCHU9068	Shaping our World: Liberalism, Socialism and Nationalism	Rm 103 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		CCCH9002	Chinese Cities in the 21st Century	Rm 103 Main Bldg.
+May 22 FRI	9:30 am - 12:00 noon		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+May 23 SAT	9:30 am - 11:30 am		CCST9012	Our Place in the Universe	Loke Yew Hall
+May 23 SAT	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	Multi-purpose Zone, Level 3, Main Library

@@ -1,0 +1,142 @@
+Faculty of Engineering Postgraduate Courses Examination                          Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 7 THU	6:30 pm - 8:30 pm		COMP7415	Mastering the markets: Financial analytics and algorithmic trading	Loke Yew Hall
+May 8 FRI	6:30 pm - 8:30 pm		COMP7610	Introduction to Web3 and blockchain	Rm 103 Main Bldg.
+				Introduction to Web3 and blockchain	Rm 611, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 11 MON	2:30 pm - 5:30 pm		DASE7337	Operational risk management	Rm 103 Main Bldg.
+May 11 MON	6:30 pm - 8:30 pm		CIVL6006	Advanced water and wastewater treatment	Multi-purpose Zone, Level 3, Main Library
+May 11 MON	6:30 pm - 8:30 pm		COMP7103	Data mining	Multi-purpose Zone, Level 3, Main Library
+May 11 MON	6:30 pm - 8:30 pm		COMP7608	Large language models	Multi-purpose Zone, Level 3, Main Library
+				Large language models	Rm 611, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 11 MON	6:30 pm - 8:30 pm		ELEC6065	Data compression	Rm 201 Main Bldg.
+May 11 MON	6:30 pm - 8:30 pm		MECH6046	Microsystems for energy, biomedical and consumer electronics applications	Rm 256 Main Bldg.
+May 11 MON	6:30 pm - 8:30 pm		STAT6013	Financial data analysis	Rm 103 Main Bldg.
+				Financial data analysis	Rm 167 Main Bldg.
+May 12 TUE	9:30 am - 11:30 am		DASE7137	Virtual reality and applications	Rm 8 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		ELEC6095	Smart grid	Rm 201 Main Bldg.
+				Smart grid	Rm 217 Main Bldg.
+May 12 TUE	2:30 pm - 4:30 pm		MECH7011	Applied thermodynamics and power plant technology	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 12 TUE	6:30 pm - 8:30 pm		CIVL6009	Building planning and control	Rm 4 Library Ext.
+				Building planning and control	Rm 5 Library Ext.
+May 12 TUE	6:30 pm - 8:30 pm		CIVL7008	Seismic analysis for building structures	Rm 8 Library Ext.
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Loke Yew Hall
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Rm 103 Main Bldg.
+				Computational intelligence and machine learning	Rm 167 Main Bldg.
+May 12 TUE	6:30 pm - 8:30 pm		COMP7404	Computational intelligence and machine learning	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 12 TUE	6:30 pm - 8:30 pm		DASE7251	Fundamentals of law for logistics	Multi-purpose Zone, Level 3, Main Library
+May 12 TUE	6:30 pm - 8:30 pm		MEST7421	Thin Film Transistor Technology and Applications	Rm 2 Library Ext.
+				Thin Film Transistor Technology and Applications	Rm 3 Library Ext.
+May 13 WED	6:30 pm - 8:30 pm		CIVL6027	Foundation engineering	Multi-purpose Zone, Level 3, Main Library
+May 13 WED	6:30 pm - 8:30 pm		CIVL6058	Management of infrastructure megaprojects	Loke Yew Hall
+May 13 WED	6:30 pm - 8:30 pm		CIVL7022	Carbon neutral engineering	Loke Yew Hall
+May 13 WED	6:30 pm - 8:30 pm		COMP7906	Introduction to cyber security	Rm 5 Library Ext.
+May 13 WED	6:30 pm - 8:30 pm		DASE7503	Robotic systems integration	Rm 201 Main Bldg.
+				Robotic systems integration	Rm 256 Main Bldg.
+May 13 WED	6:30 pm - 8:30 pm		DASE7909	Quality management	Rm 2 Library Ext.
+May 13 WED	6:30 pm - 8:30 pm		ELEC6049	Digital system design techniques	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 13 WED	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	CPD-LG.07-10, Centennial Campus
+				Financial fraud analytics	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 13 WED	6:30 pm - 8:30 pm		MEBS6000	Utility services	Rm 3 Library Ext.
+May 14 THU	6:30 pm - 8:30 pm		CIVL7007	Building information modelling (BIM): Theories, development and application	Multi-purpose Zone, Level 3, Main Library
+May 14 THU	6:30 pm - 8:30 pm		COMP7409	Machine learning in trading and finance	Loke Yew Hall
+				Machine learning in trading and finance	Rm 710, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 14 THU	6:30 pm - 8:30 pm		COMP7901	Legal protection of digital property	Loke Yew Hall
+				Legal protection of digital property	Rm 167 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		DASE7501	Robot modelling, planning and control	Rm 103 Main Bldg.
+				Robot modelling, planning and control	Rm 167 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		ECOM6004	Legal aspects of I.T. and e-commerce	Rm G07 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		IDAT7215	Computer programming for product development and applications	Multi-purpose Zone, Level 3, Main Library
+May 14 THU	6:30 pm - 8:30 pm		MEBS6016	Energy performance of buildings	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 14 THU	6:30 pm - 8:30 pm		MEST7414	Advanced micro/nanofabrication	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	2:30 pm - 4:30 pm		MECH7010	Contemporary robotics	Rm 6 Library Ext.
+				Contemporary robotics	Rm 7 Library Ext.
+May 15 FRI	6:30 pm - 8:30 pm		CIVL6040	Solid and hazardous waste management engineering	Rm 217 Main Bldg.
+				Solid and hazardous waste management engineering	Rm 256 Main Bldg.
+May 15 FRI	6:30 pm - 8:30 pm		COMP7106	Big data management	Loke Yew Hall
+				Big data management	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 15 FRI	6:30 pm - 8:30 pm		ELEC7083	Distributed systems	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	6:30 pm - 8:30 pm		IDAT7217	Advanced topics in innovative design and technology A	Rm 201 Main Bldg.
+May 16 SAT	9:30 am - 11:30 am		DASE7502	Advanced robot sensing and intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	9:30 am - 11:30 am		EMEE6002	Sustainability and climate change	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	9:30 am - 11:30 am		MECH7014	Railway engineering – metro and high-speed rail	Rm 3 Library Ext.
+				Railway engineering – metro and high-speed rail	Rm 4 Library Ext.
+May 16 SAT	2:30 pm - 4:30 pm		COMP7408	Distributed ledger and blockchain technology	Rm 3 Library Ext.
+May 16 SAT	2:30 pm - 4:30 pm		DASE7341	Technology innovation and entrepreneurship	Rm 6 Library Ext.
+				Technology innovation and entrepreneurship	Rm 7 Library Ext.
+				Technology innovation and entrepreneurship	Rm 8 Library Ext.
+May 16 SAT	2:30 pm - 4:30 pm		ELEC7470	Advanced optimization and control strategies in modern power systems	Rm 256 Main Bldg.
+May 16 SAT	2:30 pm - 4:30 pm		MEST7416	Advanced topics in microelectronics technologies A	Rm 167 Main Bldg.
+May 16 SAT	6:30 pm - 8:30 pm		COMP7506	Smart phone apps development	CPD-LG.07-10, Centennial Campus
+				Smart phone apps development	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Smart phone apps development	Rm 611, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 16 SAT	6:30 pm - 8:30 pm		ELEC7085	Advanced satellite engineering and new space economy	CPD-LG.07-10, Centennial Campus
+May 16 SAT	6:30 pm - 8:30 pm		FITE7409	Blockchain and cryptocurrency	Rm 4 Library Ext.
+				Blockchain and cryptocurrency	Rm 5 Library Ext.
+May 16 SAT	6:30 pm - 8:30 pm		FITE7409	Blockchain and cryptocurrency	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+				Blockchain and cryptocurrency	Rm 9 Library Ext.
+May 18 MON	9:30 am - 11:30 am		DASE7141	Advanced digital twin and applications	Rm 4 Library Ext.
+May 18 MON	2:30 pm - 4:30 pm		DASE7902	Project management	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 18 MON	2:30 pm - 4:30 pm		MECH6034	Computer-aided product development (CAPD)	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Computer-aided product development (CAPD)	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 18 MON	6:30 pm - 8:30 pm		CIVL6008	Bridge engineering	Multi-purpose Zone, Level 3, Main Library
+May 18 MON	6:30 pm - 8:30 pm		CIVL6079	Slope engineering	Multi-purpose Zone, Level 3, Main Library
+May 18 MON	6:30 pm - 8:30 pm		COMP7604	Game design and development	Loke Yew Hall
+May 18 MON	6:30 pm - 8:30 pm		ELEC6084	Power delivery management for metropolitan cities	CPD-LG.07-10, Centennial Campus
+May 18 MON	6:30 pm - 8:30 pm		ELEC7043	Digital image processing and computer vision	CPD-LG.07-10, Centennial Campus
+May 18 MON	6:30 pm - 8:30 pm		EMEE6010	Electricity quality and energy efficiency	CPD-LG.07-10, Centennial Campus
+May 18 MON	6:30 pm - 8:30 pm		MEBS7013	Fire service installations	Loke Yew Hall
+May 18 MON	6:30 pm - 8:30 pm		MECH6045	Nanotechnology: fundamentals and applications	Multi-purpose Zone, Level 3, Main Library
+May 19 TUE	9:30 am - 11:30 am		DASE7143	The internet of things	Rm 237 Main Bldg.
+May 19 TUE	2:30 pm - 4:30 pm		DASE7015	Engineering economics and finance	Rm 4 Library Ext.
+				Engineering economics and finance	Rm 5 Library Ext.
+May 19 TUE	6:30 pm - 8:30 pm		CIVL6047	Traffic management and control	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 19 TUE	6:30 pm - 8:30 pm		ELEC7408	Power, control and signalling facilities for high-speed trains	Rm 4 Library Ext.
+				Power, control and signalling facilities for high-speed trains	Rm 5 Library Ext.
+May 19 TUE	6:30 pm - 8:30 pm		EMEE6004	Energy conservation and management	CPD-LG.07-10, Centennial Campus
+May 19 TUE	6:30 pm - 8:30 pm		FITE7411	RegTech in finance	Loke Yew Hall
+May 19 TUE	6:30 pm - 8:30 pm		IDAT7212	Mechatronic systems engineering	Rm 2 Library Ext.
+				Mechatronic systems engineering	Rm 3 Library Ext.
+May 19 TUE	6:30 pm - 8:30 pm		MECH6047	Finite element analysis in mechanics	Rm 167 Main Bldg.
+May 20 WED	2:30 pm - 4:30 pm		CIVL6081	Recent advances in water and environmental engineering	Rm 7 Library Ext.
+May 20 WED	2:30 pm - 4:30 pm		DASE7119	Digital enterprises and e-commerce	Rm 5 Library Ext.
+May 20 WED	2:30 pm - 4:30 pm		ELEC6081	Biomedical signals and systems	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 20 WED	6:30 pm - 8:30 pm		COMP7903	Digital investigation and forensics	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		DASE7139	Cyber-physical systems	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		ECOM7124	Mobile and IoT computing services and applications	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	6:30 pm - 8:30 pm		ELEC6099	Wireless communications and networking	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	6:30 pm - 8:30 pm		ELEC7456	Advanced power system operation	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	6:30 pm - 8:30 pm		IDAT7211	Innovation and R & D principle	Rm 218 Main Bldg.
+May 20 WED	6:30 pm - 8:30 pm		MECH7023	Battery technology	Rm 167 Main Bldg.
+May 20 WED	6:30 pm - 8:30 pm		MEST7413	Semiconductor devices	Rm 201 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		ELEC7014	Building information modelling for E&M engineers	Rm 2 Library Ext.
+May 21 THU	9:30 am - 11:30 am		EMEE7014	Building information modelling for E&M engineers	Rm 2 Library Ext.
+May 21 THU	2:30 pm - 4:30 pm		DASE7142	Advanced computational methods	Rm 5 Library Ext.
+May 21 THU	2:30 pm - 4:30 pm		DASE7222	Decision analytics in global logistics	Rm 103 Main Bldg.
+				Decision analytics in global logistics	Rm 167 Main Bldg.
+May 21 THU	2:30 pm - 4:30 pm		ELEC6026	Digital signal processing	CPD-LG.07-10, Centennial Campus
+May 21 THU	6:30 pm - 8:30 pm		COMP7108	Network data analytics	CPD-LG.07-10, Centennial Campus
+				Network data analytics	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 21 THU	6:30 pm - 8:30 pm		ELEC7086	Analog and mixed-signal IC for AI circuits	Loke Yew Hall
+May 21 THU	6:30 pm - 8:30 pm		ELEC7088	Artificial intelligence computing by edge processor	Loke Yew Hall
+May 21 THU	6:30 pm - 8:30 pm		EMEE6006	Renewable energy technology II: Advanced	Loke Yew Hall
+May 21 THU	6:30 pm - 8:30 pm		MECH6026	Computational fluid dynamics	Multi-purpose Zone, Level 3, Main Library
+May 21 THU	6:30 pm - 8:30 pm		MECH7013	Gas engineering	Multi-purpose Zone, Level 3, Main Library
+May 21 THU	6:30 pm - 8:30 pm		STAT8020	Quantitative strategies and algorithmic trading	CPD-LG.07-10, Centennial Campus
+May 22 FRI	9:30 am - 11:30 am		DASE7034	Operational research	Loke Yew Hall
+May 22 FRI	6:30 pm - 8:30 pm		CIVL6080	Fire engineering design of structures	Loke Yew Hall
+May 22 FRI	6:30 pm - 8:30 pm		CIVL7018	Data science for civil engineering	Loke Yew Hall
+May 22 FRI	6:30 pm - 8:30 pm		CIVL7025	IoT solutions for infrastructure diagnosis and prognosis	Loke Yew Hall
+May 22 FRI	6:30 pm - 8:30 pm		COMP7503	Multimedia technologies	CPD-LG.07-10, Centennial Campus
+May 23 SAT	9:30 am - 11:30 am		IDAT7216	Function design, aesthetics design, manufacturing and intellectual property law	Rm 103 Main Bldg.
+				Function design, aesthetics design, manufacturing and intellectual property law	Rm 167 Main Bldg.
+May 23 SAT	2:30 pm - 4:30 pm		DASE7111	Data-driven optimization	CPD-LG.07-10, Centennial Campus
+May 23 SAT	2:30 pm - 4:30 pm		ELEC7466	Advanced topics in power system engineering	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 23 SAT	2:30 pm - 4:30 pm		FITE7405	Techniques in computational finance	Rm 2 Library Ext.
+				Techniques in computational finance	Rm 3 Library Ext.
+May 23 SAT	2:30 pm - 4:30 pm		MEBS6003	Project management	Rm 6 Library Ext.
+				Project management	Rm 7 Library Ext.
+May 23 SAT	2:30 pm - 4:30 pm		MECH7015	Rail accident investigation and derailment	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 23 SAT	6:30 pm - 8:30 pm		ELEC7012	Power systems practicum	Rm 256 Main Bldg.
+May 23 SAT	6:30 pm - 8:30 pm		STAT6010	Advanced probability	Rm 201 Main Bldg.
+May 26 TUE	6:30 pm - 8:30 pm		COMP7505	User interface design and development	Loke Yew Hall

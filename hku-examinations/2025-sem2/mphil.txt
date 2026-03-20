@@ -1,0 +1,68 @@
+M.Phil/Ph.D.                                                                     Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	2:30 pm - 5:30 pm		DASE7337	Operational risk management	Rm 103 Main Bldg.
+May 11 MON	6:30 pm - 8:30 pm		CIVL6006	Advanced water and wastewater treatment	Multi-purpose Zone, Level 3, Main Library
+May 11 MON	6:30 pm - 8:30 pm		ELEC6065	Data compression	Rm 201 Main Bldg.
+May 12 TUE	9:30 am - 11:30 am		ELEC6095	Smart grid	Rm 201 Main Bldg.
+				Smart grid	Rm 217 Main Bldg.
+May 12 TUE	2:30 pm - 4:30 pm		MECH7011	Applied thermodynamics and power plant technology	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 12 TUE	6:30 pm - 8:30 pm		CIVL7008	Seismic analysis for building structures	Rm 8 Library Ext.
+May 13 WED	9:30 am - 12:30 pm		BSTC3041	Sanskrit Language IV	Rm 256 Main Bldg.
+May 13 WED	9:30 am - 12:30 pm		COMP9601	Theory of Computation and Algorithms Design	Rm 256 Main Bldg.
+May 13 WED	6:30 pm - 8:30 pm		CIVL6027	Foundation engineering	Multi-purpose Zone, Level 3, Main Library
+May 13 WED	6:30 pm - 8:30 pm		CIVL7022	Carbon neutral engineering	Loke Yew Hall
+May 13 WED	6:30 pm - 8:30 pm		DASE7503	Robotic systems integration	Rm 201 Main Bldg.
+				Robotic systems integration	Rm 256 Main Bldg.
+May 13 WED	6:30 pm - 8:30 pm		ELEC6049	Digital system design techniques	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 13 WED	6:30 pm - 9:00 pm		MATH6015	Topics in artificial intelligence and machine learning	Rm 7 Library Ext.
+May 14 THU	2:30 pm - 5:00 pm		MATH6505	Real analysis	Rm 8 Library Ext.
+May 14 THU	6:30 pm - 8:30 pm		CIVL7007	Building information modelling (BIM): Theories, development and application	Multi-purpose Zone, Level 3, Main Library
+May 14 THU	6:30 pm - 8:30 pm		DASE7501	Robot modelling, planning and control	Rm 103 Main Bldg.
+				Robot modelling, planning and control	Rm 167 Main Bldg.
+May 15 FRI	2:30 pm - 5:30 pm		CHEM6111	Integrated organic synthesis	Rm 3 Library Ext.
+May 16 SAT	9:30 am - 12:30 pm		CHEM6113	Medicinal chemistry	Rm 2 Library Ext.
+May 16 SAT	9:30 am - 11:30 am		DASE7502	Advanced robot sensing and intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	9:30 am - 11:30 am		EMEE6002	Sustainability and climate change	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	9:30 am - 11:30 am		MECH7014	Railway engineering – metro and high-speed rail	Rm 3 Library Ext.
+				Railway engineering – metro and high-speed rail	Rm 4 Library Ext.
+May 16 SAT	2:30 pm - 5:30 pm		BSTC7007	Pāli II	Rm 201 Main Bldg.
+May 16 SAT	2:30 pm - 5:30 pm		PHYS8450	Graduate Electromagnetic Field Theory	Rm 217 Main Bldg.
+May 18 MON	9:30 am - 11:30 am		PHYS8352	Quantum Information	Rm 9 Library Ext.
+May 18 MON	6:30 pm - 8:30 pm		CIVL6079	Slope engineering	Multi-purpose Zone, Level 3, Main Library
+May 18 MON	6:30 pm - 8:30 pm		ELEC6084	Power delivery management for metropolitan cities	CPD-LG.07-10, Centennial Campus
+May 18 MON	6:30 pm - 8:30 pm		ELEC7043	Digital image processing and computer vision	CPD-LG.07-10, Centennial Campus
+May 19 TUE	2:30 pm - 4:30 pm		DASE7015	Engineering economics and finance	Rm 4 Library Ext.
+				Engineering economics and finance	Rm 5 Library Ext.
+May 19 TUE	6:30 pm - 8:30 pm		CIVL6047	Traffic management and control	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 19 TUE	6:30 pm - 8:30 pm		MECH6047	Finite element analysis in mechanics	Rm 167 Main Bldg.
+May 20 WED	9:30 am - 11:30 am		MMPH6008	Genes and Gene Functions in Diseases	Rm 8 Library Ext.
+May 20 WED	2:30 pm - 4:30 pm		CIVL8023	Special Topic: Modern Geomechanics and Geotechnical Engineering	Rm 7 Library Ext.
+May 20 WED	6:30 pm - 8:30 pm		DASE7139	Cyber-physical systems	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		ELEC7456	Advanced power system operation	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	6:30 pm - 8:30 pm		STAT7102	Advanced statistical modelling	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 21 THU	9:30 am - 11:30 am		COMP9102	Data Management and Information Retrieval	Rm 5 Library Ext.
+May 21 THU	9:30 am - 11:30 am		ELEC8309	Microscopy and spectroscopy	Rm 256 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		MMPH6007	Advanced Cell Biology	CPD-LG.63, Centennial Campus
+May 21 THU	2:30 pm - 4:30 pm		DASE7142	Advanced computational methods	Rm 5 Library Ext.
+May 21 THU	2:30 pm - 4:30 pm		DASE7222	Decision analytics in global logistics	Rm 103 Main Bldg.
+				Decision analytics in global logistics	Rm 167 Main Bldg.
+May 21 THU	2:30 pm - 5:00 pm		MATH6502	Topics in applied discrete mathematics	Rm 2 Library Ext.
+May 21 THU	6:30 pm - 8:30 pm		ELEC7086	Analog and mixed-signal IC for AI circuits	Loke Yew Hall
+May 21 THU	6:30 pm - 9:30 pm		ELEC8301	Photonic systems	Rm 217 Main Bldg.
+May 21 THU	6:30 pm - 8:30 pm		EMEE6006	Renewable energy technology II: Advanced	Loke Yew Hall
+May 22 FRI	9:30 am - 11:30 am		DASE7034	Operational research	Loke Yew Hall
+May 22 FRI	9:30 am - 11:30 am		MMPH6009	Integrative Perspectives of Body Functions	Rm 3 Library Ext.
+May 22 FRI	9:30 am - 11:30 am		PHYS8751	Device Physics	Rm 103 Main Bldg.
+May 22 FRI	2:30 pm - 4:30 pm		CHEM6112	Advanced physical chemistry	Rm 201 Main Bldg.
+May 22 FRI	2:30 pm - 4:30 pm		CIVL8012	Optimization techniques for engineering applications	Rm 256 Main Bldg.
+May 22 FRI	2:30 pm - 4:30 pm		PHYS8550	Graduate Statistical Mechanics	Rm 8 Library Ext.
+May 22 FRI	6:30 pm - 8:30 pm		CIVL6080	Fire engineering design of structures	Loke Yew Hall
+May 22 FRI	6:30 pm - 8:30 pm		CIVL7018	Data science for civil engineering	Loke Yew Hall
+May 22 FRI	6:30 pm - 8:30 pm		MMPH6205	Current Therapeutic Strategies for Metabolic Diseases	Rm 103 Main Bldg.
+May 23 SAT	9:30 am - 12:30 pm		ELEC8603	Wearable Electronics	Rm 201 Main Bldg.
+May 23 SAT	2:30 pm - 4:30 pm		DASE7111	Data-driven optimization	CPD-LG.07-10, Centennial Campus
+May 23 SAT	2:30 pm - 4:30 pm		ELEC7466	Advanced topics in power system engineering	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 23 SAT	2:30 pm - 5:30 pm		ELEC8508	Biophotonics	Rm 237 Main Bldg.
+May 23 SAT	2:30 pm - 4:30 pm		PHYS8656	Topics in Astrophysics	Rm 9 Library Ext.
+May 23 SAT	6:30 pm - 9:30 pm		CHEM6102	Research techniques in chemistry	Loke Yew Hall

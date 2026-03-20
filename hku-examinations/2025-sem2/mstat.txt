@@ -1,0 +1,20 @@
+MStat Examination                                                                Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 7 THU	6:30 pm - 8:30 pm		COMP7415	Mastering the markets: Financial analytics and algorithmic trading	Loke Yew Hall
+May 11 MON	6:30 pm - 8:30 pm		STAT6013	Financial data analysis	Rm 103 Main Bldg.
+				Financial data analysis	Rm 167 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		STAT6015	Advanced quantitative risk management	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	6:30 pm - 8:30 pm		COMP7106	Big data management	Loke Yew Hall
+				Big data management	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 16 SAT	6:30 pm - 8:30 pm		STAT6017	Operational risk and insurance analytics	Rm 167 Main Bldg.
+May 18 MON	2:30 pm - 4:30 pm		STAT7006	Design and analysis of sample surveys	Rm 4 Library Ext.
+May 18 MON	6:30 pm - 8:30 pm		COMP7604	Game design and development	Loke Yew Hall
+May 19 TUE	6:30 pm - 8:30 pm		STAT8003	Time series forecasting	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		STAT7102	Advanced statistical modelling	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 21 THU	6:30 pm - 8:30 pm		COMP7108	Network data analytics	CPD-LG.07-10, Centennial Campus
+				Network data analytics	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 21 THU	6:30 pm - 8:30 pm		STAT8020	Quantitative strategies and algorithmic trading	CPD-LG.07-10, Centennial Campus
+May 23 SAT	2:30 pm - 4:30 pm		FITE7405	Techniques in computational finance	Rm 2 Library Ext.
+				Techniques in computational finance	Rm 3 Library Ext.
+May 23 SAT	6:30 pm - 8:30 pm		STAT6010	Advanced probability	Rm 201 Main Bldg.

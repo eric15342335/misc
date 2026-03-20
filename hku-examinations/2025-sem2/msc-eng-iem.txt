@@ -1,0 +1,20 @@
+MSc(Eng)(IEM) Examination                                                        Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 12 TUE	9:30 am - 11:30 am		DASE7137	Virtual reality and applications	Rm 8 Library Ext.
+May 12 TUE	6:30 pm - 8:30 pm		CIVL6009	Building planning and control	Rm 4 Library Ext.
+				Building planning and control	Rm 5 Library Ext.
+May 12 TUE	6:30 pm - 8:30 pm		CIVL7008	Seismic analysis for building structures	Rm 8 Library Ext.
+May 12 TUE	6:30 pm - 8:30 pm		DASE7251	Fundamentals of law for logistics	Multi-purpose Zone, Level 3, Main Library
+May 13 WED	6:30 pm - 8:30 pm		CIVL6058	Management of infrastructure megaprojects	Loke Yew Hall
+May 14 THU	6:30 pm - 8:30 pm		CIVL7007	Building information modelling (BIM): Theories, development and application	Multi-purpose Zone, Level 3, Main Library
+May 14 THU	6:30 pm - 8:30 pm		MEBS6016	Energy performance of buildings	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	6:30 pm - 8:30 pm		CIVL6040	Solid and hazardous waste management engineering	Rm 217 Main Bldg.
+				Solid and hazardous waste management engineering	Rm 256 Main Bldg.
+May 16 SAT	9:30 am - 11:30 am		EMEE6002	Sustainability and climate change	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 18 MON	6:30 pm - 8:30 pm		CIVL6008	Bridge engineering	Multi-purpose Zone, Level 3, Main Library
+May 18 MON	6:30 pm - 8:30 pm		CIVL6079	Slope engineering	Multi-purpose Zone, Level 3, Main Library
+May 19 TUE	6:30 pm - 8:30 pm		CIVL6047	Traffic management and control	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 21 THU	2:30 pm - 4:30 pm		DASE7142	Advanced computational methods	Rm 5 Library Ext.
+May 22 FRI	6:30 pm - 8:30 pm		CIVL7018	Data science for civil engineering	Loke Yew Hall
+May 22 FRI	6:30 pm - 8:30 pm		CIVL7025	IoT solutions for infrastructure diagnosis and prognosis	Loke Yew Hall

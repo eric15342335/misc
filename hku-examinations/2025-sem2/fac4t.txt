@@ -1,0 +1,11 @@
+Li Ka Shing Faculty of Medicine Postgraduate Courses Examination                 Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	9:30 am - 11:30 am		PAED7100	Principles to Genetic Counselling	Rm 167 Main Bldg.
+May 15 FRI	9:30 am - 11:30 am		MMDP7007	Practical Course in Laboratory Methods	Rm G07 Main Bldg.
+May 15 FRI	9:30 am - 11:30 am		PATH6500	Practical Course in Laboratory Methods	Rm G07 Main Bldg.
+May 18 MON	9:30 am - 11:30 am		PATH6700	Recent Advances in Cancer Biology	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 20 WED	9:30 am - 11:30 am		SBMS7200	Genes and Gene Functions in Diseases	Rm 8 Library Ext.
+May 21 THU	9:30 am - 11:30 am		SBMS7500	Advanced Cell Biology	CPD-LG.63, Centennial Campus
+May 22 FRI	9:30 am - 11:30 am		SBMS7600	Integrative Perspectives of Body Functions	Rm 3 Library Ext.
+May 22 FRI	6:30 pm - 8:30 pm		MEDI6601	Current therapeutic strategies for metabolic diseases	Rm 103 Main Bldg.

@@ -1,0 +1,19 @@
+MSc(FTDA) Examination                                                            Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	6:30 pm - 8:30 pm		COMP7103	Data mining	Multi-purpose Zone, Level 3, Main Library
+May 11 MON	6:30 pm - 8:30 pm		STAT6013	Financial data analysis	Rm 103 Main Bldg.
+				Financial data analysis	Rm 167 Main Bldg.
+May 13 WED	6:30 pm - 8:30 pm		COMP7906	Introduction to cyber security	Rm 5 Library Ext.
+May 13 WED	6:30 pm - 8:30 pm		FITE7410	Financial fraud analytics	CPD-LG.07-10, Centennial Campus
+				Financial fraud analytics	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 14 THU	6:30 pm - 8:30 pm		COMP7409	Machine learning in trading and finance	Loke Yew Hall
+				Machine learning in trading and finance	Rm 710, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 16 SAT	2:30 pm - 4:30 pm		COMP7408	Distributed ledger and blockchain technology	Rm 3 Library Ext.
+May 16 SAT	6:30 pm - 8:30 pm		FITE7409	Blockchain and cryptocurrency	Rm 4 Library Ext.
+				Blockchain and cryptocurrency	Rm 5 Library Ext.
+May 16 SAT	6:30 pm - 8:30 pm		FITE7409	Blockchain and cryptocurrency	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+				Blockchain and cryptocurrency	Rm 9 Library Ext.
+May 19 TUE	6:30 pm - 8:30 pm		FITE7411	RegTech in finance	Loke Yew Hall
+May 23 SAT	2:30 pm - 4:30 pm		FITE7405	Techniques in computational finance	Rm 2 Library Ext.
+				Techniques in computational finance	Rm 3 Library Ext.

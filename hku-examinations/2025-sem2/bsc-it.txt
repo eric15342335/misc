@@ -1,0 +1,16 @@
+BSc(I&T) Examination                                                             Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 12 TUE	6:30 pm - 9:30 pm		COMP2120	Computer organization	CPD-LG.07-10, Centennial Campus
+				Computer organization	CPD-LG.63, Centennial Campus
+May 16 SAT	6:30 pm - 9:30 pm		MECH2414	Thermofluids	Rm 2 Library Ext.
+				Thermofluids	Rm 3 Library Ext.
+May 19 TUE	2:30 pm - 4:30 pm		INTC1202	Modelling the World 2	Rm 8 Library Ext.
+May 20 WED	9:30 am - 10:30 am		ENVS1301	Environmental life science	Rm 201 Main Bldg.
+				Environmental life science	Rm 256 Main Bldg.
+May 20 WED	2:30 pm - 4:30 pm		COMP1117	Computer programming	Loke Yew Hall
+				Computer programming	Rm 103 Main Bldg.
+				Computer programming	Rm 167 Main Bldg.
+May 21 THU	2:30 pm - 4:30 pm		INTC1204	Sensing the World	Rm 201 Main Bldg.
+May 22 FRI	2:30 pm - 4:30 pm		PHYS1250	Fundamental physics	Rm 8 Library Ext.
+May 22 FRI	2:30 pm - 4:30 pm		SDST1600	Statistics: Ideas and Concepts	CPD-LG.07-10, Centennial Campus

@@ -1,0 +1,17 @@
+BPharm Examination                                                               Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	9:30 am - 11:30 am		BPHM2123	Pharmacy Practice: Introduction	Rm 8 Library Ext.
+May 11 MON	9:30 am - 12:30 pm		BPHM3146	Pharmacy in Body Systems Series: Microbiology and Infectious Diseases	Rm 103 Main Bldg.
+May 11 MON	9:30 am - 11:30 am		BPHM4152	Chinese Medicine for Pharmacy Students	Rm 9 Library Ext.
+May 14 THU	9:30 am - 11:30 am		BPHM1122	Introduction to Pharmacy	Rm 7 Library Ext.
+May 14 THU	9:30 am - 12:30 pm		BPHM2143	Pharmacy in Body Systems Series: Cardiovascular and Renal	Rm 9 Library Ext.
+May 14 THU	9:30 am - 11:30 am		BPHM3125	Pharmacy Practice: Community Pharmacy	Rm 6 Library Ext.
+May 14 THU	9:30 am - 11:30 am		BPHM4142	Molecular Pharmacology	Rm 6 Library Ext.
+May 18 MON	9:30 am - 12:30 pm		BPHM1132	Drug Discovery	Rm 2 Library Ext.
+May 18 MON	9:30 am - 11:30 am		BPHM2136	Dosage Form Design	Rm 6 Library Ext.
+May 18 MON	9:30 am - 12:30 pm		BPHM3147	Pharmacy in Body Systems Series: Oncology	Rm 256 Main Bldg.
+May 18 MON	9:30 am - 11:30 am		BPHM4144	Big Data in Healthcare	Rm 7 Library Ext.
+May 21 THU	9:30 am - 11:30 am		BPHM1121	Research Methods in Pharmacy Practice	Rm 6 Library Ext.
+May 21 THU	9:30 am - 11:30 am		BPHM3137	Pharmaceutical Analysis	Rm 7 Library Ext.
+May 23 SAT	9:30 am - 11:30 am		CCST9012	Our Place in the Universe	Loke Yew Hall

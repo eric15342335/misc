@@ -1,0 +1,23 @@
+BA&BEng(AI&DataSc) Examination                                                   Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 13 WED	9:30 am - 11:30 am		ECON1220	Introductory macroeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory macroeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory macroeconomics	Loke Yew Hall
+				Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+May 16 SAT	9:30 am - 11:30 am		COMP2501	Introduction to data science	Multi-purpose Zone, Level 3, Main Library
+May 16 SAT	2:30 pm - 5:00 pm		MATH2012	Fundamental concepts of mathematics	CPD-LG.07-10, Centennial Campus
+				Fundamental concepts of mathematics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 18 MON	9:30 am - 12:00 noon		MATH2014	Multivariable calculus and linear algebra	CPD-LG.07-10, Centennial Campus
+				Multivariable calculus and linear algebra	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 20 WED	2:30 pm - 4:30 pm		COMP2113	Programming technologies	CPD-LG.07-10, Centennial Campus
+				Programming technologies	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Programming technologies	CPD-LG.63, Centennial Campus
+				Programming technologies	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	2:30 pm - 5:30 pm		COMP2119	Introduction to data structures and algorithms	Rm 217 Main Bldg.
+				Introduction to data structures and algorithms	Rm 218 Main Bldg.
+				Introduction to data structures and algorithms	Rm 237 Main Bldg.
+May 22 FRI	9:30 am - 12:00 noon		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+May 22 FRI	2:30 pm - 4:30 pm		GEOG2055	Water resources and management	CPD-LG.07-10, Centennial Campus
+May 22 FRI	2:30 pm - 4:30 pm		PHYS1250	Fundamental physics	Rm 8 Library Ext.
+May 23 SAT	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	Multi-purpose Zone, Level 3, Main Library

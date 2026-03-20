@@ -1,0 +1,23 @@
+BChinMed Examination                                                             Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	9:30 am - 12:30 pm		BCHM1602	Diagnostics of Chinese Medicine	Rm 237 Main Bldg.
+May 11 MON	9:30 am - 11:30 am		BCHM4610	Evidence-based Practice and Public Health	CPD-LG.60, Centennial Campus
+May 11 MON	9:30 am - 12:30 pm		BCHM5609	Medicine	Rm 237 Main Bldg.
+May 11 MON	2:30 pm - 4:30 pm		BMSC2203	Life Science III	Rm 201 Main Bldg.
+May 13 WED	9:30 am - 12:30 pm		BCHM3602	Chinese Internal Medicine	Rm 217 Main Bldg.
+May 14 THU	9:30 am - 11:30 am		BCHM4601	Treatise on Exogenous Febrile Diseases	Rm 167 Main Bldg.
+May 14 THU	9:30 am - 11:30 am		BCHM5602	Golden Chamber	Rm 167 Main Bldg.
+May 16 SAT	9:30 am - 11:30 am		CEMD9003	Practical Chinese for Chinese Medicine Students	Rm 7 Library Ext.
+May 18 MON	9:30 am - 11:30 am		BCHM1605	History of Chinese Medicine	Rm 218 Main Bldg.
+May 18 MON	9:30 am - 12:30 pm		BCHM2603	Chinese Medicine Prescriptions	CPD-LG.60, Centennial Campus
+May 18 MON	9:30 am - 11:30 am		BCHM3603	Foundation of Acupuncture	Rm 217 Main Bldg.
+May 18 MON	9:30 am - 11:30 am		BCHM4603	Tui-na of Chinese Medicine	Rm 217 Main Bldg.
+May 18 MON	9:30 am - 12:30 pm		BCHM5605	Schools of Thought of Chinese Medicine	Rm 218 Main Bldg.
+May 20 WED	2:30 pm - 4:30 pm		COMP1117	Computer programming	Loke Yew Hall
+				Computer programming	Rm 103 Main Bldg.
+				Computer programming	Rm 167 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		BCHM3606	Pathology	Rm 8 Library Ext.
+May 21 THU	9:30 am - 12:30 pm		BCHM4602	Traumatology and Orthopaedics of Chinese Medicine	Rm 9 Library Ext.
+May 21 THU	9:30 am - 12:30 pm		BCHM5606	Paediatrics of Chinese Medicine	Rm 9 Library Ext.
+May 21 THU	9:30 am - 11:30 am		CCCH9002	Chinese Cities in the 21st Century	Rm 103 Main Bldg.

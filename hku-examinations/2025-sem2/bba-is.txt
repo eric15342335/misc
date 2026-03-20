@@ -1,0 +1,22 @@
+BBA(IS) Examination                                                              Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 12 TUE	6:30 pm - 9:30 pm		COMP2120	Computer organization	CPD-LG.07-10, Centennial Campus
+				Computer organization	CPD-LG.63, Centennial Campus
+May 14 THU	2:30 pm - 4:00 pm		GEOG1012	Economic and social development in an urbanizing world	CPD-LG.07-10, Centennial Campus
+				Economic and social development in an urbanizing world	Loke Yew Hall
+				Economic and social development in an urbanizing world	Multi-purpose Zone, Level 3, Main Library
+May 16 SAT	9:30 am - 11:30 am		COMP2501	Introduction to data science	Multi-purpose Zone, Level 3, Main Library
+May 16 SAT	2:30 pm - 4:30 pm		GEOG2128	Economic geography	Rm 2 Library Ext.
+May 18 MON	9:30 am - 11:30 am		COMP3270	Introduction to artificial intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 19 TUE	9:30 am - 11:00 am		GEOG2164	The Creative City	Rm 256 Main Bldg.
+May 19 TUE	2:30 pm - 5:00 pm		COMP3297	Software engineering	Loke Yew Hall
+May 20 WED	9:30 am - 11:30 am		COMP3360	Data-driven computer animation	Multi-purpose Zone, Level 3, Main Library
+May 21 THU	9:30 am - 11:30 am		IIMT2641	Introduction to business analytics	CPD-LG.07-10, Centennial Campus
+May 21 THU	2:30 pm - 4:00 pm		GEOG1021	Geographic issues of Polar Regions	Rm 217 Main Bldg.
+				Geographic issues of Polar Regions	Rm 218 Main Bldg.
+May 22 FRI	9:30 am - 12:30 pm		COMP3234	Computer and communication networks	Rm 217 Main Bldg.
+				Computer and communication networks	Rm 218 Main Bldg.
+May 22 FRI	2:30 pm - 4:30 pm		COMP3317	Introduction to computer vision	CPD-LG.07-10, Centennial Campus
+May 23 SAT	2:30 pm - 4:30 pm		COMP3329	Computer game design and programming	CPD-LG.07-10, Centennial Campus
+May 23 SAT	6:30 pm - 9:30 pm		COMP2121	Discrete mathematics	Loke Yew Hall

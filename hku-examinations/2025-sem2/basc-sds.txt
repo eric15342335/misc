@@ -1,0 +1,61 @@
+BASc(SDS) Examination                                                            Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	2:30 pm - 5:30 pm		COMP3251	Algorithm design	Loke Yew Hall
+May 12 TUE	9:30 am - 11:00 am		ECON1210	Introductory microeconomics	Multi-purpose Zone, Level 3, Main Library
+				Introductory microeconomics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 302 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 5 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		FINA2320	Investments and portfolio analysis	CPD-LG.07-10, Centennial Campus
+				Investments and portfolio analysis	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Investments and portfolio analysis	CPD-LG.63, Centennial Campus
+May 12 TUE	9:30 am - 11:30 am		PHYS1650	Nature of the universe	Rm 6 Library Ext.
+May 12 TUE	6:30 pm - 9:30 pm		COMP2120	Computer organization	CPD-LG.07-10, Centennial Campus
+				Computer organization	CPD-LG.63, Centennial Campus
+May 13 WED	9:30 am - 11:30 am		ECON1220	Introductory macroeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory macroeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory macroeconomics	Loke Yew Hall
+				Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+May 14 THU	2:30 pm - 4:00 pm		GEOG1012	Economic and social development in an urbanizing world	CPD-LG.07-10, Centennial Campus
+				Economic and social development in an urbanizing world	Loke Yew Hall
+				Economic and social development in an urbanizing world	Multi-purpose Zone, Level 3, Main Library
+May 15 FRI	9:30 am - 12:30 pm		COMP3278	Introduction to database management systems	Rm 5 Library Ext.
+				Introduction to database management systems	Rm 6 Library Ext.
+				Introduction to database management systems	Rm 7 Library Ext.
+				Introduction to database management systems	Rm 8 Library Ext.
+				Introduction to database management systems	Rm 9 Library Ext.
+May 15 FRI	9:30 am - 11:30 am		GEOG1016	Nature conservation for sustainable societies	Multi-purpose Zone, Level 3, Main Library
+				Nature conservation for sustainable societies	Rm 2 Library Ext.
+				Nature conservation for sustainable societies	Rm 3 Library Ext.
+				Nature conservation for sustainable societies	Rm 4 Library Ext.
+May 16 SAT	9:30 am - 11:30 am		COMP2501	Introduction to data science	Multi-purpose Zone, Level 3, Main Library
+May 16 SAT	2:30 pm - 4:30 pm		GEOG2128	Economic geography	Rm 2 Library Ext.
+May 18 MON	9:30 am - 11:30 am		COMP3270	Introduction to artificial intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 18 MON	2:30 pm - 4:30 pm		STAT3617	Sample survey methods	Rm 3 Library Ext.
+				Sample survey methods	Rm 4 Library Ext.
+May 19 TUE	2:30 pm - 4:00 pm		GEOG1020	Modern Maps in the Age of Big Data	Multi-purpose Zone, Level 3, Main Library
+				Modern Maps in the Age of Big Data	Rm 2 Library Ext.
+				Modern Maps in the Age of Big Data	Rm 3 Library Ext.
+May 19 TUE	2:30 pm - 4:30 pm		SOCI2080	Media and culture in modern societies	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 20 WED	9:30 am - 11:30 am		COMP3360	Data-driven computer animation	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	2:30 pm - 4:30 pm		COMP1117	Computer programming	Loke Yew Hall
+				Computer programming	Rm 103 Main Bldg.
+				Computer programming	Rm 167 Main Bldg.
+May 20 WED	2:30 pm - 4:30 pm		COMP2113	Programming technologies	CPD-LG.07-10, Centennial Campus
+				Programming technologies	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Programming technologies	CPD-LG.63, Centennial Campus
+				Programming technologies	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	2:30 pm - 5:30 pm		COMP2119	Introduction to data structures and algorithms	Rm 217 Main Bldg.
+				Introduction to data structures and algorithms	Rm 218 Main Bldg.
+				Introduction to data structures and algorithms	Rm 237 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		IIMT2641	Introduction to business analytics	CPD-LG.07-10, Centennial Campus
+May 21 THU	2:30 pm - 4:00 pm		GEOG1021	Geographic issues of Polar Regions	Rm 217 Main Bldg.
+				Geographic issues of Polar Regions	Rm 218 Main Bldg.
+May 22 FRI	9:30 am - 12:30 pm		COMP3234	Computer and communication networks	Rm 217 Main Bldg.
+				Computer and communication networks	Rm 218 Main Bldg.
+May 22 FRI	9:30 am - 11:30 am		GEOG2078	Cities and the urban world: A global introduction to urban geography	Rm 2 Library Ext.
+May 22 FRI	2:30 pm - 4:30 pm		SOCI1001	Introduction to sociology	Loke Yew Hall
+				Introduction to sociology	Rm 167 Main Bldg.
+May 22 FRI	6:30 pm - 8:30 pm		COMP3322	Modern Technologies on World Wide Web	CPD-LG.07-10, Centennial Campus
+May 23 SAT	2:30 pm - 4:30 pm		COMP3329	Computer game design and programming	CPD-LG.07-10, Centennial Campus
+May 23 SAT	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	Multi-purpose Zone, Level 3, Main Library

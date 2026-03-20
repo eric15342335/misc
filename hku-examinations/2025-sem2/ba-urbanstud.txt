@@ -1,0 +1,37 @@
+BA(UrbanStud) Examination                                                        Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 12 TUE	9:30 am - 11:00 am		ECON1210	Introductory microeconomics	Multi-purpose Zone, Level 3, Main Library
+				Introductory microeconomics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 302 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 5 Library Ext.
+May 13 WED	9:30 am - 11:30 am		GEOG3304	Tourism policy and planning	Rm 4 Library Ext.
+May 14 THU	2:30 pm - 4:00 pm		GEOG1012	Economic and social development in an urbanizing world	CPD-LG.07-10, Centennial Campus
+				Economic and social development in an urbanizing world	Loke Yew Hall
+				Economic and social development in an urbanizing world	Multi-purpose Zone, Level 3, Main Library
+May 15 FRI	9:30 am - 11:30 am		GEOG1016	Nature conservation for sustainable societies	Multi-purpose Zone, Level 3, Main Library
+				Nature conservation for sustainable societies	Rm 2 Library Ext.
+				Nature conservation for sustainable societies	Rm 3 Library Ext.
+				Nature conservation for sustainable societies	Rm 4 Library Ext.
+May 16 SAT	2:30 pm - 4:30 pm		GEOG2128	Economic geography	Rm 2 Library Ext.
+May 18 MON	9:30 am - 11:30 am		GEOG2156	Introduction to Remote Sensing	Rm 5 Library Ext.
+May 19 TUE	9:30 am - 11:00 am		GEOG2164	The Creative City	Rm 256 Main Bldg.
+May 19 TUE	2:30 pm - 4:00 pm		GEOG1020	Modern Maps in the Age of Big Data	Multi-purpose Zone, Level 3, Main Library
+				Modern Maps in the Age of Big Data	Rm 2 Library Ext.
+				Modern Maps in the Age of Big Data	Rm 3 Library Ext.
+May 20 WED	9:30 am - 11:30 am		CEUC9001	Practical Chinese for Surveying, Urban Studies, and Conservation Students	Rm 6 Library Ext.
+				Practical Chinese for Surveying, Urban Studies, and Conservation Students	Rm 7 Library Ext.
+May 20 WED	2:30 pm - 4:30 pm		COMP1117	Computer programming	Loke Yew Hall
+				Computer programming	Rm 103 Main Bldg.
+				Computer programming	Rm 167 Main Bldg.
+May 20 WED	2:30 pm - 4:30 pm		GEOG3422	Contemporary urban transportation issues	Rm 8 Library Ext.
+May 20 WED	2:30 pm - 4:30 pm		POLI2106	Introduction to international relations	Rm 2 Library Ext.
+				Introduction to international relations	Rm 3 Library Ext.
+May 21 THU	9:30 am - 11:30 am		CCCH9002	Chinese Cities in the 21st Century	Rm 103 Main Bldg.
+May 21 THU	2:30 pm - 4:00 pm		GEOG1021	Geographic issues of Polar Regions	Rm 217 Main Bldg.
+				Geographic issues of Polar Regions	Rm 218 Main Bldg.
+May 22 FRI	2:30 pm - 4:30 pm		GEOG2055	Water resources and management	CPD-LG.07-10, Centennial Campus
+May 22 FRI	2:30 pm - 4:30 pm		SOCI1001	Introduction to sociology	Loke Yew Hall
+				Introduction to sociology	Rm 167 Main Bldg.
+May 23 SAT	2:30 pm - 4:30 pm		GEOG2057	Leisure and recreation in modern society	Rm 8 Library Ext.
+May 26 TUE	2:30 pm - 4:30 pm		CUND9001	Basic Spoken and Written Cantonese for Mandarin Speakers	CPD-LG.07-10, Centennial Campus

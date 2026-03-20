@@ -1,0 +1,29 @@
+MSc(Eng)(LAT) Examination                                                        Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	6:30 pm - 8:30 pm		MECH6046	Microsystems for energy, biomedical and consumer electronics applications	Rm 256 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		IDAT7215	Computer programming for product development and applications	Multi-purpose Zone, Level 3, Main Library
+May 15 FRI	2:30 pm - 4:30 pm		MECH7010	Contemporary robotics	Rm 6 Library Ext.
+				Contemporary robotics	Rm 7 Library Ext.
+May 15 FRI	6:30 pm - 8:30 pm		ELEC7083	Distributed systems	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	6:30 pm - 8:30 pm		IDAT7217	Advanced topics in innovative design and technology A	Rm 201 Main Bldg.
+May 16 SAT	9:30 am - 11:30 am		MECH7014	Railway engineering – metro and high-speed rail	Rm 3 Library Ext.
+				Railway engineering – metro and high-speed rail	Rm 4 Library Ext.
+May 16 SAT	2:30 pm - 4:30 pm		MEST7416	Advanced topics in microelectronics technologies A	Rm 167 Main Bldg.
+May 18 MON	9:30 am - 11:30 am		DASE7141	Advanced digital twin and applications	Rm 4 Library Ext.
+May 18 MON	2:30 pm - 4:30 pm		MECH6034	Computer-aided product development (CAPD)	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Computer-aided product development (CAPD)	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 18 MON	6:30 pm - 8:30 pm		MECH6045	Nanotechnology: fundamentals and applications	Multi-purpose Zone, Level 3, Main Library
+May 19 TUE	6:30 pm - 8:30 pm		IDAT7212	Mechatronic systems engineering	Rm 2 Library Ext.
+				Mechatronic systems engineering	Rm 3 Library Ext.
+May 20 WED	2:30 pm - 4:30 pm		DASE7119	Digital enterprises and e-commerce	Rm 5 Library Ext.
+May 20 WED	6:30 pm - 8:30 pm		DASE7139	Cyber-physical systems	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		IDAT7211	Innovation and R & D principle	Rm 218 Main Bldg.
+May 20 WED	6:30 pm - 8:30 pm		MECH7023	Battery technology	Rm 167 Main Bldg.
+May 21 THU	6:30 pm - 8:30 pm		LATX7516	Aircraft stress analysis and finite element	Multi-purpose Zone, Level 3, Main Library
+May 21 THU	6:30 pm - 8:30 pm		MECH6026	Computational fluid dynamics	Multi-purpose Zone, Level 3, Main Library
+May 23 SAT	9:30 am - 11:30 am		IDAT7216	Function design, aesthetics design, manufacturing and intellectual property law	Rm 103 Main Bldg.
+				Function design, aesthetics design, manufacturing and intellectual property law	Rm 167 Main Bldg.
+May 23 SAT	2:30 pm - 4:30 pm		MEBS6003	Project management	Rm 6 Library Ext.
+				Project management	Rm 7 Library Ext.
+May 23 SAT	2:30 pm - 4:30 pm		MECH7015	Rail accident investigation and derailment	Rm 105 Chong Yuet Ming Amenities Ctr.

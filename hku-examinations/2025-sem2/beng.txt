@@ -1,0 +1,272 @@
+BEng Examination                                                                 Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	9:30 am - 11:30 am		ACCT3103	Intermediate financial accounting II	Rm 6 Library Ext.
+				Intermediate financial accounting II	Rm 7 Library Ext.
+May 11 MON	9:30 am - 12:30 pm		CIVL3141	Applied Deep Learning for Civil Engineers	Rm 2 Library Ext.
+May 11 MON	9:30 am - 11:30 am		ECON1280	Analysis of economic data	CPD-LG.07-10, Centennial Campus
+				Analysis of economic data	Multi-purpose Zone, Level 3, Main Library
+May 11 MON	9:30 am - 12:30 pm		ELEC2544	Introduction to electronic commerce and financial technology	Rm 2 Library Ext.
+May 11 MON	9:30 am - 11:30 am		FITE3012	E-payment and crypto-currency	Rm 5 Library Ext.
+May 11 MON	9:30 am - 11:30 am		SDST2601	Probability and Statistics I	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 11 MON	2:30 pm - 4:30 pm		BIOC3605	Sequence bioinformatics	Rm 8 Library Ext.
+				Sequence bioinformatics	Rm 9 Library Ext.
+May 11 MON	2:30 pm - 5:30 pm		BMED2810	Engineering management and society	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 11 MON	2:30 pm - 5:30 pm		CIVL1117	Construction Materials	CPD-LG.07-10, Centennial Campus
+May 11 MON	2:30 pm - 5:30 pm		CIVL2112	Structural Analysis	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 11 MON	2:30 pm - 5:30 pm		CIVL2113	Structural Design	CPD-LG.07-10, Centennial Campus
+May 11 MON	2:30 pm - 5:30 pm		CIVL3138	Advanced Theory and design of structures	CPD-LG.07-10, Centennial Campus
+May 11 MON	2:30 pm - 5:30 pm		COMP3251	Algorithm design	Loke Yew Hall
+May 11 MON	2:30 pm - 5:30 pm		COMP3252	Algorithm design and analysis	Loke Yew Hall
+May 11 MON	2:30 pm - 4:30 pm		COMP3516	Data analytics for IoT	Rm 5 Library Ext.
+May 11 MON	2:30 pm - 5:30 pm		DASE2135	Mathematical Optimisation	Rm 103 Main Bldg.
+May 11 MON	2:30 pm - 5:30 pm		DASE3111	Data-driven optimisation	Rm 167 Main Bldg.
+May 11 MON	2:30 pm - 5:30 pm		ELEC3844	Engineering management and society	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 11 MON	2:30 pm - 4:30 pm		ENVS2002	Environmental data analysis	Rm 4 Library Ext.
+May 11 MON	2:30 pm - 5:00 pm		MATH3405	Differential equations	Rm 6 Library Ext.
+				Differential equations	Rm 7 Library Ext.
+May 11 MON	2:30 pm - 5:30 pm		MECH3408	Mechanics of fluids	CPD-LG.07-10, Centennial Campus
+May 12 TUE	9:30 am - 12:30 pm		CIVL3114	Slope Engineering	Rm 167 Main Bldg.
+May 12 TUE	9:30 am - 11:00 am		ECON1210	Introductory microeconomics	Multi-purpose Zone, Level 3, Main Library
+				Introductory microeconomics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 302 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 5 Library Ext.
+May 12 TUE	9:30 am - 12:30 pm		ELEC3142	Electrical energy conversion	Rm 2 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		FINA2320	Investments and portfolio analysis	CPD-LG.07-10, Centennial Campus
+				Investments and portfolio analysis	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Investments and portfolio analysis	CPD-LG.63, Centennial Campus
+May 12 TUE	9:30 am - 12:30 pm		MECH1350	Introduction of mechanical engineering	Rm 3 Library Ext.
+				Introduction of mechanical engineering	Rm 4 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		PHYS1150	Problem solving in physics	Rm 7 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		PHYS1240	Physics by inquiry	Rm 7 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		PHYS1650	Nature of the universe	Rm 6 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		SDST3610	Risk management and insurance	Rm 237 Main Bldg.
+May 12 TUE	2:30 pm - 5:30 pm		CIVL2103	Fluid Mechanics	Multi-purpose Zone, Level 3, Main Library
+May 12 TUE	2:30 pm - 5:30 pm		CIVL3120	Transportation Infrastructure Engineering	Multi-purpose Zone, Level 3, Main Library
+May 12 TUE	2:30 pm - 4:30 pm		COMP3323	Advanced database systems	Rm 201 Main Bldg.
+				Advanced database systems	Rm 256 Main Bldg.
+May 12 TUE	2:30 pm - 5:30 pm		DASE2144	Fundamentals of robotics	Multi-purpose Zone, Level 3, Main Library
+May 12 TUE	2:30 pm - 4:30 pm		DASE4140	Machine learning and applications	Rm 256 Main Bldg.
+May 12 TUE	2:30 pm - 5:30 pm		ELEC3241	Signals and linear systems	Multi-purpose Zone, Level 3, Main Library
+May 12 TUE	2:30 pm - 4:30 pm		GEOG2160	Sustainable Waste Management and Circular Economy in Hong Kong	Rm 2 Library Ext.
+May 12 TUE	2:30 pm - 5:00 pm		MATH3911	Game theory and strategy	Rm 237 Main Bldg.
+May 12 TUE	2:30 pm - 5:30 pm		MECH4407	CAD/CAM	Multi-purpose Zone, Level 3, Main Library
+May 12 TUE	6:30 pm - 9:30 pm		COMP2120	Computer organization	CPD-LG.07-10, Centennial Campus
+				Computer organization	CPD-LG.63, Centennial Campus
+May 12 TUE	6:30 pm - 8:30 pm		FINA2383	International financial management	Rm 6 Library Ext.
+				International financial management	Rm 7 Library Ext.
+May 13 WED	9:30 am - 12:30 pm		CIME2101	Water and Air Quality: Concepts and Measurement	Rm 8 Library Ext.
+May 13 WED	9:30 am - 12:30 pm		CIVL1105	Environmental Engineering	Rm 237 Main Bldg.
+May 13 WED	9:30 am - 12:30 pm		DASE3102	Strategic supply chain management	Rm 7 Library Ext.
+May 13 WED	9:30 am - 11:30 am		ECON1220	Introductory macroeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory macroeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory macroeconomics	Loke Yew Hall
+				Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+May 13 WED	9:30 am - 12:30 pm		ELEC4141	Electric railway systems	Rm 9 Library Ext.
+May 13 WED	9:30 am - 12:30 pm		ELEC4545	Time series analysis with financial applications	Rm 9 Library Ext.
+May 13 WED	9:30 am - 11:30 am		GEOG3304	Tourism policy and planning	Rm 4 Library Ext.
+May 13 WED	9:30 am - 12:30 pm		MECH4425	Human-robot control interface and wearable robotics	Rm 7 Library Ext.
+May 13 WED	9:30 am - 11:30 am		PHYS3653	Astrophysics	Rm 2 Library Ext.
+May 13 WED	2:30 pm - 4:00 pm		BIOL1110	From molecules to cells	Rm 6 Library Ext.
+				From molecules to cells	Rm 7 Library Ext.
+				From molecules to cells	Rm 8 Library Ext.
+May 13 WED	2:30 pm - 5:30 pm		CIVL3115	Solid and Hazardous Waste Management	Rm 201 Main Bldg.
+				Solid and Hazardous Waste Management	Rm 256 Main Bldg.
+May 13 WED	2:30 pm - 4:30 pm		COMP3358	Distributed and Parallel Computing	Rm 167 Main Bldg.
+May 13 WED	2:30 pm - 5:30 pm		ELEC2245	Control systems I	Rm 5 Library Ext.
+May 13 WED	2:30 pm - 5:00 pm		MATH3603	Probability theory	Rm 217 Main Bldg.
+				Probability theory	Rm 237 Main Bldg.
+May 13 WED	2:30 pm - 4:30 pm		MECH3430	Fire protection in buildings	Rm 9 Library Ext.
+May 14 THU	9:30 am - 11:30 am		COMP3258	Functional programming	Rm G07 Main Bldg.
+May 14 THU	9:30 am - 11:30 am		ELEC3349	Optical devices	Rm 3 Library Ext.
+May 14 THU	9:30 am - 11:30 am		GEOG2152	Health and medical geography	Rm 2 Library Ext.
+				Health and medical geography	Rm 3 Library Ext.
+May 14 THU	9:30 am - 12:30 pm		MATH1853	Linear algebra, probability and statistics	CPD-LG.07-10, Centennial Campus
+				Linear algebra, probability and statistics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 14 THU	9:30 am - 12:00 noon		MATH2241	Introduction to mathematical analysis	Rm 217 Main Bldg.
+May 14 THU	9:30 am - 12:00 noon		MATH3304	Introduction to number theory	Rm 237 Main Bldg.
+May 14 THU	9:30 am - 11:30 am		SDST3618	Derivatives and risk management	Multi-purpose Zone, Level 3, Main Library
+May 14 THU	9:30 am - 12:30 pm		STAT3621	Statistical data analysis	Rm 201 Main Bldg.
+				Statistical data analysis	Rm 256 Main Bldg.
+May 14 THU	2:30 pm - 4:00 pm		BIOF2001	Artificial Intelligence in Medicine	Rm 167 Main Bldg.
+May 14 THU	2:30 pm - 5:30 pm		CIVL2104	Hydraulics and Hydrology	Rm 5 Library Ext.
+May 14 THU	2:30 pm - 5:30 pm		ELEC2147	Electrical energy technology	Rm 3 Library Ext.
+				Electrical energy technology	Rm 4 Library Ext.
+May 14 THU	2:30 pm - 4:00 pm		GEOG1012	Economic and social development in an urbanizing world	CPD-LG.07-10, Centennial Campus
+				Economic and social development in an urbanizing world	Loke Yew Hall
+				Economic and social development in an urbanizing world	Multi-purpose Zone, Level 3, Main Library
+May 14 THU	2:30 pm - 5:30 pm		PHYS3350	Classical mechanics	Rm 2 Library Ext.
+May 15 FRI	9:30 am - 12:30 pm		CIVL3134	Environmental Geotechnology	CPD-LG.60, Centennial Campus
+May 15 FRI	9:30 am - 12:30 pm		COMP3278	Introduction to database management systems	Rm 5 Library Ext.
+				Introduction to database management systems	Rm 6 Library Ext.
+				Introduction to database management systems	Rm 7 Library Ext.
+				Introduction to database management systems	Rm 8 Library Ext.
+				Introduction to database management systems	Rm 9 Library Ext.
+May 15 FRI	9:30 am - 11:30 am		DASE3107	Systems modeling & simulation	Rm 167 Main Bldg.
+May 15 FRI	9:30 am - 11:30 am		GEOG1016	Nature conservation for sustainable societies	Multi-purpose Zone, Level 3, Main Library
+				Nature conservation for sustainable societies	Rm 2 Library Ext.
+				Nature conservation for sustainable societies	Rm 3 Library Ext.
+				Nature conservation for sustainable societies	Rm 4 Library Ext.
+May 15 FRI	9:30 am - 12:30 pm		MECH2407	Multivariable calculus and partial differential equations	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Multivariable calculus and partial differential equations	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	9:30 am - 11:30 am		PHYS2055	Introductory relativity	Rm 103 Main Bldg.
+May 15 FRI	2:30 pm - 4:30 pm		ACCT1101	Introduction to financial accounting	Loke Yew Hall
+				Introduction to financial accounting	Multi-purpose Zone, Level 3, Main Library
+				Introduction to financial accounting	Rm 167 Main Bldg.
+May 15 FRI	2:30 pm - 5:30 pm		CIVL3121	Water Resources Engineering	Rm 237 Main Bldg.
+May 15 FRI	2:30 pm - 4:30 pm		DASE3137	Virtual reality for systems engineering	Rm 103 Main Bldg.
+May 15 FRI	2:30 pm - 5:30 pm		ELEC3846	Numerical methods and optimization	Rm 5 Library Ext.
+May 15 FRI	2:30 pm - 4:30 pm		FINA3323	Fixed income securities	Rm 217 Main Bldg.
+May 15 FRI	2:30 pm - 5:30 pm		MECH4404	Automatic control	Rm 237 Main Bldg.
+May 15 FRI	2:30 pm - 5:30 pm		PHYS3450	Electromagnetism	Rm 4 Library Ext.
+May 15 FRI	2:30 pm - 5:30 pm		STAT4602	Multivariate data analysis	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 15 FRI	6:30 pm - 8:30 pm		CCCH9028	Hong Kong and China's Economic Development	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	9:30 am - 12:30 pm		CIVL3140	Artificial intelligence in civil engineering	Rm 8 Library Ext.
+May 16 SAT	9:30 am - 11:30 am		COMP2501	Introduction to data science	Multi-purpose Zone, Level 3, Main Library
+May 16 SAT	9:30 am - 11:30 am		COMP3520	Special topics in data science	Multi-purpose Zone, Level 3, Main Library
+May 16 SAT	9:30 am - 12:30 pm		ELEC3249	Pattern recognition and machine intelligence	Rm 5 Library Ext.
+May 16 SAT	9:30 am - 12:30 pm		ELEC4145	Building services - electrical services	Rm 5 Library Ext.
+May 16 SAT	9:30 am - 11:30 am		FINA1310	Corporate finance	CPD-LG.07-10, Centennial Campus
+				Corporate finance	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Corporate finance	Loke Yew Hall
+May 16 SAT	9:30 am - 11:30 am		FINA3326	Equity valuation and investment management	Rm 103 Main Bldg.
+				Equity valuation and investment management	Rm 167 Main Bldg.
+May 16 SAT	9:30 am - 11:30 am		MECH4423	Building energy management and control systems	Rm 3 Library Ext.
+May 16 SAT	9:30 am - 11:30 am		PHYS2250	Introductory mechanics	Rm 237 Main Bldg.
+				Introductory mechanics	Rm 256 Main Bldg.
+May 16 SAT	2:30 pm - 5:30 pm		CIVL1113	Engineering Mechanics and Materials	Rm 217 Main Bldg.
+				Engineering Mechanics and Materials	Rm 237 Main Bldg.
+May 16 SAT	2:30 pm - 5:30 pm		CIVL2106	Soil Mechanics	Rm 237 Main Bldg.
+May 16 SAT	2:30 pm - 4:30 pm		COMP3259	Principles of programming languages	Rm 3 Library Ext.
+May 16 SAT	2:30 pm - 4:30 pm		DASE4141	Digital twin and applications	Rm 8 Library Ext.
+May 16 SAT	2:30 pm - 5:30 pm		ELEC3244	Digital signal processing	CPD-LG.60, Centennial Campus
+May 16 SAT	2:30 pm - 4:30 pm		ENGG1300	Fundamental mechanics	Loke Yew Hall
+				Fundamental mechanics	Rm 103 Main Bldg.
+May 16 SAT	2:30 pm - 4:30 pm		GEOG2128	Economic geography	Rm 2 Library Ext.
+May 16 SAT	2:30 pm - 5:00 pm		MATH2012	Fundamental concepts of mathematics	CPD-LG.07-10, Centennial Campus
+				Fundamental concepts of mathematics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 16 SAT	6:30 pm - 9:30 pm		MECH2414	Thermofluids	Rm 2 Library Ext.
+				Thermofluids	Rm 3 Library Ext.
+May 16 SAT	6:30 pm - 8:30 pm		SDST2602	Probability and statistics II	Loke Yew Hall
+May 16 SAT	6:30 pm - 8:30 pm		STAT2602	Probability and statistics II	Loke Yew Hall
+May 18 MON	9:30 am - 11:30 am		COMP3270	Introduction to artificial intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 18 MON	9:30 am - 11:30 am		DASE3156	Computer vision and applications	Rm 4 Library Ext.
+May 18 MON	9:30 am - 11:30 am		EASC1020	Introduction to climate science	Rm 3 Library Ext.
+May 18 MON	9:30 am - 12:30 pm		ELEC2845	Applied optimization and applications	Multi-purpose Zone, Level 3, Main Library
+May 18 MON	9:30 am - 12:30 pm		ELEC3351	Electronic Circuits and Devices II	Multi-purpose Zone, Level 3, Main Library
+May 18 MON	9:30 am - 11:30 am		FINA3351	Spreadsheet financial modeling	Rm 610, K.K. Leung Bldg.
+May 18 MON	9:30 am - 12:00 noon		MATH2014	Multivariable calculus and linear algebra	CPD-LG.07-10, Centennial Campus
+				Multivariable calculus and linear algebra	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 18 MON	9:30 am - 12:00 noon		MATH3403	Functions of a complex variable	Loke Yew Hall
+May 18 MON	9:30 am - 12:00 noon		MATH4602	Scientific computing	Rm 167 Main Bldg.
+May 18 MON	9:30 am - 12:30 pm		MECH3402	Engineering thermodynamics	Multi-purpose Zone, Level 3, Main Library
+May 18 MON	9:30 am - 11:30 am		SOCI2071	Criminology	Rm 8 Library Ext.
+				Criminology	Rm 9 Library Ext.
+May 18 MON	2:30 pm - 5:30 pm		CIVL2102	Engineering Geology and Rock Mechanics	Rm 9 Library Ext.
+May 18 MON	2:30 pm - 4:30 pm		FITE2010	Distributed ledger and blockchain	Rm 5 Library Ext.
+May 18 MON	2:30 pm - 5:30 pm		MATH1851	Calculus and ordinary differential equations	Loke Yew Hall
+				Calculus and ordinary differential equations	Rm 103 Main Bldg.
+				Calculus and ordinary differential equations	Rm 167 Main Bldg.
+May 18 MON	2:30 pm - 5:00 pm		MATH3901	Operations research I	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 18 MON	2:30 pm - 5:00 pm		MATH4902	Operations research II	CPD-LG.63, Centennial Campus
+May 18 MON	6:30 pm - 9:30 pm		ELEC4245	Digital image processing	Rm 256 Main Bldg.
+May 19 TUE	9:30 am - 12:30 pm		CIVL3139	Building Information Modelling (BIM) Management for Civil Engineering	Rm 201 Main Bldg.
+May 19 TUE	9:30 am - 11:30 am		COMP3361	Natural Language Processing	Rm 7 Library Ext.
+				Natural Language Processing	Rm 8 Library Ext.
+May 19 TUE	9:30 am - 12:30 pm		ENGG1310	Electricity and electronics	Loke Yew Hall
+				Electricity and electronics	Rm 103 Main Bldg.
+May 19 TUE	9:30 am - 11:00 am		IIMT2601	Management information systems	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Management information systems	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 19 TUE	9:30 am - 12:30 pm		MECH4410	Engineering & technology management	Rm 4 Library Ext.
+				Engineering & technology management	Rm 5 Library Ext.
+May 19 TUE	2:30 pm - 5:00 pm		COMP3297	Software engineering	Loke Yew Hall
+May 19 TUE	2:30 pm - 4:30 pm		DASE3126	Engineers in society	Rm 5 Library Ext.
+May 19 TUE	2:30 pm - 5:30 pm		ELEC4147	Power system analysis and control	Rm 256 Main Bldg.
+May 19 TUE	2:30 pm - 4:30 pm		FINA2350	Text Analytics and Natural Language Processing in Finance and Fintech	Rm 7 Library Ext.
+May 19 TUE	2:30 pm - 4:00 pm		GEOG1020	Modern Maps in the Age of Big Data	Multi-purpose Zone, Level 3, Main Library
+				Modern Maps in the Age of Big Data	Rm 2 Library Ext.
+				Modern Maps in the Age of Big Data	Rm 3 Library Ext.
+May 19 TUE	2:30 pm - 4:30 pm		PHYS2650	Modern astronomy	Rm 9 Library Ext.
+May 19 TUE	6:30 pm - 8:30 pm		ECON2253	International macroeconomics	Rm 237 Main Bldg.
+May 20 WED	9:30 am - 11:30 am		CHEM2341	Inorganic chemistry I	Loke Yew Hall
+May 20 WED	9:30 am - 12:30 pm		CIVL2111	Transportation Engineering	CPD-LG.07-10, Centennial Campus
+May 20 WED	9:30 am - 11:30 am		COMP3340	Introduction to deep learning	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	9:30 am - 11:30 am		COMP3360	Data-driven computer animation	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	9:30 am - 12:30 pm		DASE4110	Financial engineering	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 20 WED	9:30 am - 12:30 pm		ELEC2543	Object-Oriented programming and data structures	CPD-LG.07-10, Centennial Campus
+May 20 WED	9:30 am - 12:30 pm		MECH4424	Sensors and actuators for robots	CPD-LG.07-10, Centennial Campus
+May 20 WED	9:30 am - 11:30 am		PHYS2255	Introductory electricity and magnetism	Loke Yew Hall
+May 20 WED	9:30 am - 12:30 pm		SDST2901	Probability and statistics: foundations of actuarial science	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 20 WED	2:30 pm - 5:30 pm		CIVL3116	Steel Structures	Rm 201 Main Bldg.
+May 20 WED	2:30 pm - 4:30 pm		COMP2113	Programming technologies	CPD-LG.07-10, Centennial Campus
+				Programming technologies	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Programming technologies	CPD-LG.63, Centennial Campus
+				Programming technologies	Multi-purpose Zone, Level 3, Main Library
+May 20 WED	2:30 pm - 5:30 pm		COMP2119	Introduction to data structures and algorithms	Rm 217 Main Bldg.
+				Introduction to data structures and algorithms	Rm 218 Main Bldg.
+				Introduction to data structures and algorithms	Rm 237 Main Bldg.
+May 20 WED	2:30 pm - 4:30 pm		DASE4136	Intelligent transportation and autonomous driving	Rm 5 Library Ext.
+May 20 WED	2:30 pm - 4:30 pm		ELEC4642	VLSI design principles	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 20 WED	6:30 pm - 8:30 pm		CCHU9068	Shaping our World: Liberalism, Socialism and Nationalism	Rm 103 Main Bldg.
+May 20 WED	6:30 pm - 8:30 pm		FINA2330	Financial markets and institutions	CPD-LG.07-10, Centennial Campus
+May 20 WED	6:30 pm - 9:30 pm		MECH4409	Energy conversion systems	Rm 237 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		CCCH9002	Chinese Cities in the 21st Century	Rm 103 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		DASE4147	Mechatronic systems engineering	Rm 5 Library Ext.
+May 21 THU	9:30 am - 11:30 am		IIMT2641	Introduction to business analytics	CPD-LG.07-10, Centennial Campus
+May 21 THU	9:30 am - 11:30 am		PHYS2265	Introductory quantum physics	Rm 167 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		SDST3600	Linear statistical analysis	CPD-LG.07-10, Centennial Campus
+May 21 THU	9:30 am - 11:30 am		STAT3600	Linear statistical analysis	CPD-LG.07-10, Centennial Campus
+May 21 THU	2:30 pm - 4:30 pm		CHEM1042	General chemistry I	Loke Yew Hall
+May 21 THU	2:30 pm - 5:30 pm		CIVL3103	Construction Project Management	Rm 6 Library Ext.
+				Construction Project Management	Rm 7 Library Ext.
+May 21 THU	2:30 pm - 5:00 pm		COMP3314	Introduction to machine learning	Multi-purpose Zone, Level 3, Main Library
+May 21 THU	2:30 pm - 4:30 pm		DASE4146	Additive manufacturing	Rm 4 Library Ext.
+May 21 THU	2:30 pm - 5:30 pm		ECON4214	Applications of Game Theory	Rm 256 Main Bldg.
+May 21 THU	2:30 pm - 4:30 pm		ENGG1330	Computer programming I	CPD-LG.07-10, Centennial Campus
+May 21 THU	2:30 pm - 4:00 pm		GEOG1021	Geographic issues of Polar Regions	Rm 217 Main Bldg.
+				Geographic issues of Polar Regions	Rm 218 Main Bldg.
+May 21 THU	2:30 pm - 5:00 pm		MATH7502	Topics in applied discrete mathematics	Rm 2 Library Ext.
+May 21 THU	2:30 pm - 4:30 pm		PHYS2155	Methods in physics II	Loke Yew Hall
+May 21 THU	6:30 pm - 8:30 pm		COMP7108	Network data analytics	CPD-LG.07-10, Centennial Campus
+				Network data analytics	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 21 THU	6:30 pm - 8:30 pm		LATX7516	Aircraft stress analysis and finite element	Multi-purpose Zone, Level 3, Main Library
+May 22 FRI	9:30 am - 11:30 am		ACCT2105	Introduction to management accounting	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 22 FRI	9:30 am - 12:30 pm		COMP3234	Computer and communication networks	Rm 217 Main Bldg.
+				Computer and communication networks	Rm 218 Main Bldg.
+May 22 FRI	9:30 am - 12:30 pm		ELEC3443	Computer networks	Rm 5 Library Ext.
+May 22 FRI	9:30 am - 12:00 noon		MATH1011	University mathematics I	CPD-LG.07-10, Centennial Campus
+May 22 FRI	9:30 am - 11:30 am		SOCI3081	Sexuality, culture and identity	Rm 2 Library Ext.
+May 22 FRI	9:30 am - 11:30 am		STAT3655	Survival analysis	Loke Yew Hall
+May 22 FRI	2:30 pm - 4:30 pm		COMP3317	Introduction to computer vision	CPD-LG.07-10, Centennial Campus
+May 22 FRI	2:30 pm - 4:30 pm		ELEC2844	Probabilistic systems analysis	Rm 217 Main Bldg.
+				Probabilistic systems analysis	Rm 218 Main Bldg.
+May 22 FRI	2:30 pm - 4:30 pm		GEOG2055	Water resources and management	CPD-LG.07-10, Centennial Campus
+May 22 FRI	2:30 pm - 4:30 pm		PHYS1250	Fundamental physics	Rm 8 Library Ext.
+May 22 FRI	2:30 pm - 4:30 pm		SDST1600	Statistics: Ideas and Concepts	CPD-LG.07-10, Centennial Campus
+May 22 FRI	2:30 pm - 4:30 pm		SOCI1001	Introduction to sociology	Loke Yew Hall
+				Introduction to sociology	Rm 167 Main Bldg.
+May 22 FRI	6:30 pm - 8:30 pm		COMP3322	Modern Technologies on World Wide Web	CPD-LG.07-10, Centennial Campus
+May 23 SAT	9:30 am - 11:30 am		CCST9012	Our Place in the Universe	Loke Yew Hall
+May 23 SAT	9:30 am - 12:00 noon		MATH2102	Linear algebra II	Rm 217 Main Bldg.
+				Linear algebra II	Rm 218 Main Bldg.
+May 23 SAT	9:30 am - 11:30 am		PHYS1055	How things work	Multi-purpose Zone, Level 3, Main Library
+May 23 SAT	2:30 pm - 5:30 pm		BMED4501	Biophotonics	Rm 237 Main Bldg.
+May 23 SAT	2:30 pm - 5:30 pm		CIVL2108	Principles of Civil Engineering Management	Rm 201 Main Bldg.
+May 23 SAT	2:30 pm - 4:30 pm		COMP3329	Computer game design and programming	CPD-LG.07-10, Centennial Campus
+May 23 SAT	2:30 pm - 4:30 pm		FINA2342	Insurance: theory & practice	Rm 4 Library Ext.
+				Insurance: theory & practice	Rm 5 Library Ext.
+May 23 SAT	2:30 pm - 5:00 pm		MATH2211	Multivariable calculus	Loke Yew Hall
+May 23 SAT	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	Multi-purpose Zone, Level 3, Main Library
+May 23 SAT	6:30 pm - 9:30 pm		COMP2121	Discrete mathematics	Loke Yew Hall
+May 23 SAT	6:30 pm - 8:30 pm		ECON2280	Introductory econometrics	CPD-LG.07-10, Centennial Campus
+May 26 TUE	9:30 am - 11:30 am		CHIN1119	Introduction to literary studies	Rm 201 Main Bldg.
+May 26 TUE	9:30 am - 11:00 am		ECON2210	Intermediate microeconomics	Multi-purpose Zone, Level 3, Main Library
+May 26 TUE	9:30 am - 12:00 noon		IIMT1640	Probability and Statistics for Business	Loke Yew Hall
+May 26 TUE	9:30 am - 12:00 noon		MATH3906	Financial calculus	Rm 237 Main Bldg.
+May 26 TUE	9:30 am - 12:30 pm		MECH2406	Fundamentals of electrical engineering	CPD-LG.07-10, Centennial Campus
+May 26 TUE	2:30 pm - 4:30 pm		CENG9001	Practical Chinese for Engineering Students	Loke Yew Hall
+May 26 TUE	2:30 pm - 4:30 pm		CUND9001	Basic Spoken and Written Cantonese for Mandarin Speakers	CPD-LG.07-10, Centennial Campus
+May 26 TUE	2:30 pm - 4:00 pm		CUND9003	Cantonese for Non-Cantonese Speaking Students	Multi-purpose Zone, Level 3, Main Library
+May 26 TUE	6:30 pm - 8:30 pm		ACCT3107	Hong Kong taxation	Rm 103 Main Bldg.
+				Hong Kong taxation	Rm 167 Main Bldg.
+May 26 TUE	6:30 pm - 9:00 pm		MATH2101	Linear algebra I	CPD-LG.07-10, Centennial Campus

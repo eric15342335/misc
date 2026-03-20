@@ -1,0 +1,34 @@
+BSc(Surv) Examination                                                            Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	6:30 pm - 8:30 pm		SOCI3021	Marriage and the family	Loke Yew Hall
+May 13 WED	9:30 am - 11:30 am		ECON1220	Introductory macroeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory macroeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory macroeconomics	Loke Yew Hall
+				Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+May 13 WED	6:30 pm - 8:30 pm		RECO2043	Advanced Building Technology	Rm 237 Main Bldg.
+May 13 WED	6:30 pm - 9:00 pm		RECO4015	Construction Project Management 2	Rm 217 Main Bldg.
+May 15 FRI	2:30 pm - 4:30 pm		ACCT1101	Introduction to financial accounting	Loke Yew Hall
+				Introduction to financial accounting	Multi-purpose Zone, Level 3, Main Library
+				Introduction to financial accounting	Rm 167 Main Bldg.
+May 18 MON	9:30 am - 12:00 noon		MATH1009	Basic mathematics for business and economics	Loke Yew Hall
+May 18 MON	9:30 am - 11:30 am		SOCI2071	Criminology	Rm 8 Library Ext.
+				Criminology	Rm 9 Library Ext.
+May 19 TUE	2:30 pm - 4:30 pm		FINA2350	Text Analytics and Natural Language Processing in Finance and Fintech	Rm 7 Library Ext.
+May 19 TUE	2:30 pm - 4:00 pm		GEOG1020	Modern Maps in the Age of Big Data	Multi-purpose Zone, Level 3, Main Library
+				Modern Maps in the Age of Big Data	Rm 2 Library Ext.
+				Modern Maps in the Age of Big Data	Rm 3 Library Ext.
+May 19 TUE	2:30 pm - 4:30 pm		SOCI3056	Criminal justice: policy and practice	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 20 WED	9:30 am - 11:30 am		CEUC9001	Practical Chinese for Surveying, Urban Studies, and Conservation Students	Rm 6 Library Ext.
+				Practical Chinese for Surveying, Urban Studies, and Conservation Students	Rm 7 Library Ext.
+May 20 WED	2:30 pm - 5:30 pm		COMP2119	Introduction to data structures and algorithms	Rm 217 Main Bldg.
+				Introduction to data structures and algorithms	Rm 218 Main Bldg.
+				Introduction to data structures and algorithms	Rm 237 Main Bldg.
+May 21 THU	9:30 am - 11:30 am		RECO2035	Building Technology	Loke Yew Hall
+May 21 THU	9:30 am - 11:30 am		RECO4016	Construction Law	Loke Yew Hall
+May 21 THU	2:30 pm - 4:00 pm		GEOG1021	Geographic issues of Polar Regions	Rm 217 Main Bldg.
+				Geographic issues of Polar Regions	Rm 218 Main Bldg.
+May 22 FRI	9:30 am - 12:00 noon		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+May 22 FRI	2:30 pm - 4:30 pm		PHYS1250	Fundamental physics	Rm 8 Library Ext.
+May 23 SAT	9:30 am - 11:30 am		CCST9012	Our Place in the Universe	Loke Yew Hall
+May 26 TUE	2:30 pm - 4:00 pm		CUND9003	Cantonese for Non-Cantonese Speaking Students	Multi-purpose Zone, Level 3, Main Library

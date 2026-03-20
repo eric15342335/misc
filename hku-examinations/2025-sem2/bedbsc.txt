@@ -1,0 +1,78 @@
+BEd&BSc Examination                                                              Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	9:30 am - 11:30 am		CHEM2541	Introductory Physical Chemistry	Rm 3 Library Ext.
+				Introductory Physical Chemistry	Rm 4 Library Ext.
+May 11 MON	9:30 am - 11:30 am		ECON1280	Analysis of economic data	CPD-LG.07-10, Centennial Campus
+				Analysis of economic data	Multi-purpose Zone, Level 3, Main Library
+May 11 MON	2:30 pm - 5:00 pm		MATH3405	Differential equations	Rm 6 Library Ext.
+				Differential equations	Rm 7 Library Ext.
+May 11 MON	2:30 pm - 4:30 pm		PHYS3850	Physical Optics	Rm 256 Main Bldg.
+May 12 TUE	9:30 am - 11:00 am		ECON1210	Introductory microeconomics	Multi-purpose Zone, Level 3, Main Library
+				Introductory microeconomics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 302 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 5 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		PHYS1240	Physics by inquiry	Rm 7 Library Ext.
+May 12 TUE	9:30 am - 11:30 am		PHYS1650	Nature of the universe	Rm 6 Library Ext.
+May 12 TUE	2:30 pm - 4:30 pm		BIOL4415	Healthcare biotechnology	CPD-LG.07-10, Centennial Campus
+May 12 TUE	2:30 pm - 4:30 pm		CHEM1043	General chemistry II	CPD-LG.07-10, Centennial Campus
+May 12 TUE	2:30 pm - 4:30 pm		CHEM3443	Organic chemistry laboratory	CPD-LG.07-10, Centennial Campus
+May 12 TUE	2:30 pm - 5:00 pm		MATH3911	Game theory and strategy	Rm 237 Main Bldg.
+May 13 WED	9:30 am - 11:30 am		ECON1220	Introductory macroeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory macroeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory macroeconomics	Loke Yew Hall
+				Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+May 13 WED	9:30 am - 11:30 am		PHYS3653	Astrophysics	Rm 2 Library Ext.
+May 13 WED	2:30 pm - 4:00 pm		BIOL1110	From molecules to cells	Rm 6 Library Ext.
+				From molecules to cells	Rm 7 Library Ext.
+				From molecules to cells	Rm 8 Library Ext.
+May 13 WED	2:30 pm - 5:30 pm		BIOL3303	Conservation biology	Rm 4 Library Ext.
+May 14 THU	9:30 am - 11:30 am		CHEM2241	Analytical chemistry I	Rm 5 Library Ext.
+May 14 THU	2:30 pm - 4:30 pm		BIOL3404	Protein structure and function	Rm 201 Main Bldg.
+				Protein structure and function	Rm 256 Main Bldg.
+May 14 THU	2:30 pm - 4:00 pm		GEOG1012	Economic and social development in an urbanizing world	CPD-LG.07-10, Centennial Campus
+				Economic and social development in an urbanizing world	Loke Yew Hall
+				Economic and social development in an urbanizing world	Multi-purpose Zone, Level 3, Main Library
+May 14 THU	2:30 pm - 5:30 pm		PHYS3350	Classical mechanics	Rm 2 Library Ext.
+May 15 FRI	9:30 am - 11:30 am		GEOG1016	Nature conservation for sustainable societies	Multi-purpose Zone, Level 3, Main Library
+				Nature conservation for sustainable societies	Rm 2 Library Ext.
+				Nature conservation for sustainable societies	Rm 3 Library Ext.
+				Nature conservation for sustainable societies	Rm 4 Library Ext.
+May 15 FRI	9:30 am - 11:30 am		PHYS2055	Introductory relativity	Rm 103 Main Bldg.
+May 15 FRI	2:30 pm - 4:30 pm		BIOL3319	Tropical terrestrial ecology	Rm 8 Library Ext.
+May 15 FRI	2:30 pm - 5:30 pm		PHYS3450	Electromagnetism	Rm 4 Library Ext.
+May 16 SAT	9:30 am - 11:30 am		CHEM2441	Organic chemistry I	Rm 217 Main Bldg.
+				Organic chemistry I	Rm 256 Main Bldg.
+May 16 SAT	9:30 am - 11:30 am		FINA1310	Corporate finance	CPD-LG.07-10, Centennial Campus
+				Corporate finance	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Corporate finance	Loke Yew Hall
+May 16 SAT	9:30 am - 11:30 am		PHYS2250	Introductory mechanics	Rm 237 Main Bldg.
+				Introductory mechanics	Rm 256 Main Bldg.
+May 16 SAT	6:30 pm - 8:30 pm		BIOL4417	'Omics' and systems biology	Rm 8 Library Ext.
+May 18 MON	9:30 am - 11:30 am		SOCI2071	Criminology	Rm 8 Library Ext.
+				Criminology	Rm 9 Library Ext.
+May 18 MON	2:30 pm - 5:00 pm		MATH3901	Operations research I	CPD-LG.61 & CPD-LG.62, Centennial Campus
+May 18 MON	2:30 pm - 4:30 pm		PHYS3851	Atomic and nuclear physics	Rm 6 Library Ext.
+May 19 TUE	9:30 am - 11:30 am		SCNC1112	Fundamentals of modern science	Multi-purpose Zone, Level 3, Main Library
+				Fundamentals of modern science	Rm 6 Library Ext.
+May 19 TUE	2:30 pm - 4:00 pm		GEOG1020	Modern Maps in the Age of Big Data	Multi-purpose Zone, Level 3, Main Library
+				Modern Maps in the Age of Big Data	Rm 2 Library Ext.
+				Modern Maps in the Age of Big Data	Rm 3 Library Ext.
+May 19 TUE	2:30 pm - 4:30 pm		PHYS2650	Modern astronomy	Rm 9 Library Ext.
+May 20 WED	9:30 am - 11:30 am		CHEM2341	Inorganic chemistry I	Loke Yew Hall
+May 20 WED	6:30 pm - 8:30 pm		CCHU9068	Shaping our World: Liberalism, Socialism and Nationalism	Rm 103 Main Bldg.
+May 21 THU	9:30 am - 10:30 am		BIOL2103	Biological sciences laboratory course	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 21 THU	2:30 pm - 4:30 pm		CHEM1042	General chemistry I	Loke Yew Hall
+May 21 THU	2:30 pm - 4:00 pm		GEOG1021	Geographic issues of Polar Regions	Rm 217 Main Bldg.
+				Geographic issues of Polar Regions	Rm 218 Main Bldg.
+May 22 FRI	9:30 am - 12:00 noon		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+May 22 FRI	2:30 pm - 4:30 pm		BIOL3403	Immunology	Multi-purpose Zone, Level 3, Main Library
+May 22 FRI	2:30 pm - 4:30 pm		PHYS1250	Fundamental physics	Rm 8 Library Ext.
+May 22 FRI	2:30 pm - 4:30 pm		SOCI1001	Introduction to sociology	Loke Yew Hall
+				Introduction to sociology	Rm 167 Main Bldg.
+May 23 SAT	9:30 am - 11:30 am		PHYS1055	How things work	Multi-purpose Zone, Level 3, Main Library
+May 23 SAT	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	Multi-purpose Zone, Level 3, Main Library
+May 26 TUE	9:30 am - 11:30 am		BIOL1309	Evolutionary diversity	Rm 217 Main Bldg.
+				Evolutionary diversity	Rm 218 Main Bldg.
+May 26 TUE	2:30 pm - 4:30 pm		CUND9001	Basic Spoken and Written Cantonese for Mandarin Speakers	CPD-LG.07-10, Centennial Campus
+May 26 TUE	2:30 pm - 4:00 pm		CUND9003	Cantonese for Non-Cantonese Speaking Students	Multi-purpose Zone, Level 3, Main Library

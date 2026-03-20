@@ -1,0 +1,66 @@
+BJ Examination                                                                   Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	9:30 am - 11:30 am		ECON1280	Analysis of economic data	CPD-LG.07-10, Centennial Campus
+				Analysis of economic data	Multi-purpose Zone, Level 3, Main Library
+May 11 MON	2:30 pm - 4:30 pm		FINA2312	Advanced corporate finance	Rm 2 Library Ext.
+				Advanced corporate finance	Rm 3 Library Ext.
+May 11 MON	6:30 pm - 8:30 pm		SOCI3021	Marriage and the family	Loke Yew Hall
+May 12 TUE	9:30 am - 11:00 am		ECON1210	Introductory microeconomics	Multi-purpose Zone, Level 3, Main Library
+				Introductory microeconomics	Rm 105 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 302 Chong Yuet Ming Amenities Ctr.
+				Introductory microeconomics	Rm 5 Library Ext.
+May 12 TUE	2:30 pm - 4:30 pm		GEOG2160	Sustainable Waste Management and Circular Economy in Hong Kong	Rm 2 Library Ext.
+May 13 WED	9:30 am - 11:30 am		ECON1220	Introductory macroeconomics	CPD-LG.07-10, Centennial Campus
+				Introductory macroeconomics	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Introductory macroeconomics	Loke Yew Hall
+				Introductory macroeconomics	Multi-purpose Zone, Level 3, Main Library
+May 13 WED	9:30 am - 11:30 am		GEOG3304	Tourism policy and planning	Rm 4 Library Ext.
+May 13 WED	9:30 am - 11:30 am		SOCI3105	Global Criminology	Rm 3 Library Ext.
+May 14 THU	2:30 pm - 4:00 pm		GEOG1012	Economic and social development in an urbanizing world	CPD-LG.07-10, Centennial Campus
+				Economic and social development in an urbanizing world	Loke Yew Hall
+				Economic and social development in an urbanizing world	Multi-purpose Zone, Level 3, Main Library
+May 15 FRI	2:30 pm - 4:30 pm		ACCT1101	Introduction to financial accounting	Loke Yew Hall
+				Introduction to financial accounting	Multi-purpose Zone, Level 3, Main Library
+				Introduction to financial accounting	Rm 167 Main Bldg.
+May 15 FRI	6:30 pm - 8:30 pm		CCCH9028	Hong Kong and China's Economic Development	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	9:30 am - 11:30 am		FINA1310	Corporate finance	CPD-LG.07-10, Centennial Campus
+				Corporate finance	CPD-LG.61 & CPD-LG.62, Centennial Campus
+				Corporate finance	Loke Yew Hall
+May 16 SAT	9:30 am - 11:30 am		FINA3326	Equity valuation and investment management	Rm 103 Main Bldg.
+				Equity valuation and investment management	Rm 167 Main Bldg.
+May 16 SAT	9:30 am - 11:30 am		GEOG3205	Environmental hazards	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	2:30 pm - 4:30 pm		CHIN1126	Introduction to classical Chinese popular literature	Rm 5 Library Ext.
+May 16 SAT	2:30 pm - 4:30 pm		GEOG2128	Economic geography	Rm 2 Library Ext.
+May 16 SAT	6:30 pm - 7:30 pm		CSSC9001	Practical Chinese for Social Sciences Students	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	6:30 pm - 8:30 pm		STAT2602	Probability and statistics II	Loke Yew Hall
+May 18 MON	9:30 am - 12:00 noon		MATH1009	Basic mathematics for business and economics	Loke Yew Hall
+May 18 MON	9:30 am - 11:30 am		SOCI2071	Criminology	Rm 8 Library Ext.
+				Criminology	Rm 9 Library Ext.
+May 19 TUE	9:30 am - 11:30 am		SOCI3011	Gender and crime	Rm 218 Main Bldg.
+May 19 TUE	2:30 pm - 4:30 pm		GEOG2124	Environmental change and socio-political conflicts	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 19 TUE	2:30 pm - 4:30 pm		POLI3157	European Politics	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 19 TUE	2:30 pm - 4:30 pm		SOCI2080	Media and culture in modern societies	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 19 TUE	2:30 pm - 4:30 pm		SOCI3056	Criminal justice: policy and practice	Rm 302 Chong Yuet Ming Amenities Ctr.
+May 20 WED	9:30 am - 11:30 am		SOCI2001	Classical social theory	Rm 4 Library Ext.
+				Classical social theory	Rm 5 Library Ext.
+May 20 WED	2:30 pm - 4:30 pm		POLI2106	Introduction to international relations	Rm 2 Library Ext.
+				Introduction to international relations	Rm 3 Library Ext.
+May 20 WED	6:30 pm - 8:30 pm		FINA2330	Financial markets and institutions	CPD-LG.07-10, Centennial Campus
+May 21 THU	9:30 am - 11:30 am		SOCI3002	Social stratification and social class: finding and knowing your place	Loke Yew Hall
+May 21 THU	2:30 pm - 4:30 pm		SOCI3027	Politics and society	Rm 237 Main Bldg.
+May 22 FRI	9:30 am - 11:30 am		GEOG2078	Cities and the urban world: A global introduction to urban geography	Rm 2 Library Ext.
+May 22 FRI	9:30 am - 12:00 noon		MATH1013	University mathematics II	CPD-LG.07-10, Centennial Campus
+May 22 FRI	9:30 am - 11:30 am		SOCI3081	Sexuality, culture and identity	Rm 2 Library Ext.
+May 22 FRI	2:30 pm - 5:00 pm		FINA3334	Private banking and wealth management	Rm 6 Library Ext.
+				Private banking and wealth management	Rm 7 Library Ext.
+May 22 FRI	2:30 pm - 4:30 pm		SOCI1001	Introduction to sociology	Loke Yew Hall
+				Introduction to sociology	Rm 167 Main Bldg.
+May 23 SAT	9:30 am - 11:30 am		CCST9012	Our Place in the Universe	Loke Yew Hall
+May 23 SAT	2:30 pm - 4:30 pm		GEOG2057	Leisure and recreation in modern society	Rm 8 Library Ext.
+May 23 SAT	2:30 pm - 4:30 pm		PSYC1001	Introduction to psychology	Multi-purpose Zone, Level 3, Main Library
+May 23 SAT	6:30 pm - 8:30 pm		ECON2280	Introductory econometrics	CPD-LG.07-10, Centennial Campus
+May 26 TUE	9:30 am - 11:00 am		ECON2210	Intermediate microeconomics	Multi-purpose Zone, Level 3, Main Library
+May 26 TUE	9:30 am - 12:00 noon		IIMT1640	Probability and Statistics for Business	Loke Yew Hall
+May 26 TUE	2:30 pm - 4:30 pm		CUND9001	Basic Spoken and Written Cantonese for Mandarin Speakers	CPD-LG.07-10, Centennial Campus
+May 26 TUE	2:30 pm - 4:00 pm		CUND9003	Cantonese for Non-Cantonese Speaking Students	Multi-purpose Zone, Level 3, Main Library

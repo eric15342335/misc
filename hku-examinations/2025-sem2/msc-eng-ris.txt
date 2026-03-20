@@ -1,0 +1,37 @@
+MSc(Eng)(RIS) Examination                                                        Timetable for the Second Semester of 2025-2026(As at Mar 20, 2026)
+
+Date	Time		Course Code	Description	Venue
+May 11 MON	2:30 pm - 5:30 pm		DASE7337	Operational risk management	Rm 103 Main Bldg.
+May 12 TUE	9:30 am - 11:30 am		ELEC6095	Smart grid	Rm 201 Main Bldg.
+				Smart grid	Rm 217 Main Bldg.
+May 12 TUE	2:30 pm - 4:30 pm		DASE7504	Human-robot collaboration	Rm 103 Main Bldg.
+May 12 TUE	6:30 pm - 8:30 pm		DASE7251	Fundamentals of law for logistics	Multi-purpose Zone, Level 3, Main Library
+May 13 WED	6:30 pm - 8:30 pm		DASE7503	Robotic systems integration	Rm 201 Main Bldg.
+				Robotic systems integration	Rm 256 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		DASE7501	Robot modelling, planning and control	Rm 103 Main Bldg.
+				Robot modelling, planning and control	Rm 167 Main Bldg.
+May 14 THU	6:30 pm - 8:30 pm		IDAT7215	Computer programming for product development and applications	Multi-purpose Zone, Level 3, Main Library
+May 15 FRI	6:30 pm - 8:30 pm		COMP7106	Big data management	Loke Yew Hall
+				Big data management	Rm 612, CDS-1 Main Building, HKU-CDS Shanghai Teaching and Research Site, Shanghai
+May 15 FRI	6:30 pm - 8:30 pm		ELEC7083	Distributed systems	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	9:30 am - 11:30 am		DASE7502	Advanced robot sensing and intelligence	Rm 105 Chong Yuet Ming Amenities Ctr.
+May 16 SAT	2:30 pm - 4:30 pm		DASE7341	Technology innovation and entrepreneurship	Rm 6 Library Ext.
+				Technology innovation and entrepreneurship	Rm 7 Library Ext.
+				Technology innovation and entrepreneurship	Rm 8 Library Ext.
+May 18 MON	9:30 am - 11:30 am		DASE7141	Advanced digital twin and applications	Rm 4 Library Ext.
+May 18 MON	6:30 pm - 8:30 pm		ELEC7043	Digital image processing and computer vision	CPD-LG.07-10, Centennial Campus
+May 19 TUE	9:30 am - 11:30 am		DASE7143	The internet of things	Rm 237 Main Bldg.
+May 19 TUE	2:30 pm - 4:30 pm		DASE7015	Engineering economics and finance	Rm 4 Library Ext.
+				Engineering economics and finance	Rm 5 Library Ext.
+May 19 TUE	6:30 pm - 8:30 pm		FITE7411	RegTech in finance	Loke Yew Hall
+May 20 WED	2:30 pm - 4:30 pm		DASE7119	Digital enterprises and e-commerce	Rm 5 Library Ext.
+May 20 WED	6:30 pm - 8:30 pm		DASE7139	Cyber-physical systems	Loke Yew Hall
+May 21 THU	2:30 pm - 4:30 pm		DASE7142	Advanced computational methods	Rm 5 Library Ext.
+May 21 THU	2:30 pm - 4:30 pm		DASE7222	Decision analytics in global logistics	Rm 103 Main Bldg.
+				Decision analytics in global logistics	Rm 167 Main Bldg.
+May 21 THU	2:30 pm - 4:30 pm		ELEC6026	Digital signal processing	CPD-LG.07-10, Centennial Campus
+May 22 FRI	9:30 am - 11:30 am		DASE7034	Operational research	Loke Yew Hall
+May 22 FRI	6:30 pm - 8:30 pm		CIVL7018	Data science for civil engineering	Loke Yew Hall
+May 23 SAT	9:30 am - 11:30 am		IDAT7216	Function design, aesthetics design, manufacturing and intellectual property law	Rm 103 Main Bldg.
+				Function design, aesthetics design, manufacturing and intellectual property law	Rm 167 Main Bldg.
+May 23 SAT	2:30 pm - 4:30 pm		DASE7111	Data-driven optimization	CPD-LG.07-10, Centennial Campus
