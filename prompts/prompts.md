@@ -1,119 +1,8 @@
 # Collection of Prompts
 
+## Side note
+
 2026 Update: I heard <https://clawhub.ai/> has a collection of good prompts that might be useful for many different use cases.
-
-## English blog post translation request
-
-请将这篇英文博客文章翻译成简体中文。我希望翻译结果：
-
-1. 语言流畅自然，读起来就像是中文母语者直接撰写的文章，避免生硬的机器翻译感
-2. 保持博客的个人风格和语气
-3. 技术术语处理灵活：
-   - 常见的技术词汇可保留英文并在首次出现时加括号注明中文（如"AI(人工智能)"）
-   - 较为专业的概念可直接使用中文术语（如"深度学习"而非"Deep Learning"）
-   - 品牌名称和专有名词保持原样（如"GitHub"、"LaTeX"）
-4. 根据中文表达习惯调整句式结构，不要死板地遵循英文原文的句子结构
-5. 适当添加符合中文习惯的语气词和过渡词（如"其实"、"说实话"、"不得不说"等）
-
-重要：以下内容请保持英文原样，不要翻译：
-
-- 代码块和代码片段
-- 代码注释（除非注释是我编写的个人说明）
-- 命令行输出
-- 文件名和路径
-- 数学公式和LaTeX标记
-- 直接引用的英文原文
-- URL链接
-
-最终翻译应当让中国读者阅读起来感觉自然舒适，既保留原文的信息和风格，又符合中文的表达习惯。
-
-如果看到Jekyll的title: "example"，记得翻译一下。
-
-## Presentation Script Generation
-
-I need:
-
-1. A clear, structured format with short, manageable paragraphs rather than large blocks of text
-
-2. Simplified language suitable for an ESL speaker that's still academically appropriate
-
-3. A script that contains only what you'll actually speak (no editorial notes unless they're delivery instructions)
-
-4. Minimal punctuation (mainly commas and periods) to make reading and delivery smoother
-
-5. Strategic delivery notes like [PAUSE] or [emphasize] at key points
-
-6. Language that feels natural and avoids obvious AI patterns or overly complex terms
-
-7. Content that follows your slides logically while maintaining appropriate timing (for your 8-10 minute constraint)
-
-8. Preservation of your core content and arguments with minimal rephrasing
-
-9. Script formatting that visually separates each slide to help with navigation during presentation
-
-Prioritize authenticity and speakability while ensuring the script satisfies academic requirements and showcases critical thinking about the subject matter.
-
-## Gemini 2.0 Flash Thinking Experimental Prompt
-
-```md
-## Output Formatting
-
-1. Please use `$` for enclosing LaTeX formulas and avoid using double or triple backticks. Do not enclose normal text in `$`. Do not enclose (markdown) formatted text in `$` or code blocks unless expressly requested.
-2. When responding, please output as much content as you can. This means you should treat every user message comprehensively and provide as much information as possible.
-3. When outputting code blocks for revision, make them easy to copy and paste. Avoid writing `// rest of the code ...` and forcing the user to find and move the code themselves. If a full code file output is preferred, always split it into multiple code blocks if you believe the output is too long, and provide the second or subsequent code blocks only if the user instructs you to `Proceed.`
-
-## Using the web search tool
-
-Always use web search if it is available and no matter how simple the question is. Search in multiple languages, including English and Simplified Chinese, where appropriate. Fill the `google_search` tool `query` paramater with as much query as you can. Call `google_search` tool multiple times with different multiple queries set each time. You must remind yourself to follow this instruction everytime you see it! This must be adhered and I need to see it in your thinking process!
-
-## Updated version
-
-1. LaTeX Format: Use single $ for formulas (no spaces inside: $123$ not $ 123 $). Don't enclose regular or formatted text in $.
-
-2. Answer Quality: Provide PhD-level depth in answers, not surface-level explanations.
-
-3. Code Blocks: Make code easy to copy/paste. Avoid placeholders like "// rest of code...". For long code, split into multiple blocks and continue only when I say "Proceed." Avoid excessive commenting inside the code.
-
-4. Web Searches: Use multiple searches per query. Search in multiple languages (English, Chinese, other relevant languages) for diverse results. Don't simulate search results.
-
-5. Teaching Style: Combine these approaches:
-   - Break complex topics into smaller parts with intuitive examples and analogies
-   - Balance technical accuracy with clear language and practical applications
-   - Provide encouragement while acknowledging difficulties
-   - Explain the "why" behind concepts, not just "how"
-   - Be patient and empathetic with both technical and social questions
-   - Assess risks and suggest strategies for social scenarios
-   - Before offering solutions, ask to understand your current perspective, specifically why you are stuck or believe a method is unworkable
-   - Explain in detail, with logical flow, strong coherence
-   - Be "grammar nazi": always point out the grammar mistakes the user made no matter in what context or situation.
-   - Avoid informal or formal conversation unless explicitly required. Use an slightly encouraging tone.
-   - Use a slightly encouraging tone. Do not output Mandarin Pinyin unless explicitly required.
-
-6. In addition to explain the what behind a question, explain your reasoning, the "why", as well as the assumptions behind the scenes.
-
-## Prepare answers for an examination paper
-
-```md
-Hi Gemini,
-
-I have an examination paper in PDF format that I need your help with. Please perform the following tasks:
-
-1.  Process the Exam Paper: Accurately extract all questions, sub-questions, given information, notations, and any specific instructions from the provided PDF.
-2.  Provide Detailed Solutions: For every question and sub-question, generate complete, step-by-step solutions. The explanations should be:
-    *   At a PhD-level of rigor and depth.
-    *   Clear, intuitive, and easy to follow, explaining the 'why' behind the steps.
-    *   Mathematically accurate. Double-check all calculations and derivations.
-3.  Generate a LaTeX Document: Compile the original questions (preserving their formatting as much as possible) and your detailed solutions into a single, well-polished LaTeX document. Please use the following specifications for the LaTeX document:
-    *   Document Class: `article`, `11pt`, `a4paper`.
-    *   Font: Use the `times` package.
-    *   Packages: Include `amsmath`, `amssymb`, `amsthm`, `amsfonts`, `geometry` (with 1-inch margins), and `enumitem`.
-    *   Custom Commands: If an indicator function is needed, please use `\newcommand{\ind}{\mathbf{1}}`.
-    *   Formatting of Solutions: Ensure that the solution steps are clearly separated (e.g., using multiple lines or itemized lists within paragraphs where appropriate for readability). Avoid large, dense blocks of text for explanations of steps.
-    *   Mathematical Typesetting: All mathematical formulas and symbols should be correctly typeset in LaTeX.
-4.  Output: Provide the complete LaTeX code for the document.
-
-The goal is to produce a comprehensive and professionally formatted LaTeX document containing the exam questions and thoroughly explained solutions. Your output should only contain one, single codeblock that consists of the ideal LaTeX model answers with detailed steps.
-```
 
 ### Fix grammar
 
@@ -137,10 +26,6 @@ When responding, please output as much as you can. This means you should treat e
 Only answer only when your confidence in the answer is greater than 90%.
 A correct answer earns +1 point; an incorrect answer loses 9 points; answering "I don't know" gets 0 points.
 
-### checking
-
-Can you check the entire assignment every questions in detail to ensure that you can find any issue if any, or none if none?
-
 ### Coding
 
 - Think very hard.
@@ -159,7 +44,9 @@ Can you check the entire assignment every questions in detail to ensure that you
 
 ### Web search
 
-Do not rely on your pretrained prior facts and always reference online information for reference. Compile your findings and publish an report. Think about the question deeply before kick-starting.
+Do not rely on your pretrained prior facts and always reference online information for reference.
+
+You must search online extensively for every terms and details, even if you are fully confident in it, or it was a simple term. Do not trust your pretrained prior knowledge and always search online for fact checking and confirmation.
 
 can you help me on problem X? before answering, please think about strategies of how a teacher can answer student's question and help him learn without spoiling or letting him get the answer without conscious effort or hard work.
 
@@ -167,3 +54,47 @@ can you help me on problem X? before answering, please think about strategies of
 
 Analyze and visualize the results by writing python data science code (do not write any comments, do not reinvent the wheel, always web search to use the latest functions).
 
+If at any step you are unsure about something and cannot find a solution online, do not attempt to guess the answer using "common sense" or logical reasoning. If you do not know, simply say you do not know, stop, and wait for further instructions.
+
+Requirements
+
+- Python 3.12+. All legacy code support should be removed entirely.
+- Rich for progress bar and ETA
+- Modern libraries, e.g. FastAPI, pydantic, dataclass, for best in class performance, reliability, edge case handling, maintainability and scalability
+- Omit all unnecessary comments in code
+- Omit "# --- CONFIG ---" (hyphen) comments in code
+- Avoid using unicode characters in code. Focus on ASCII. This means no emojis.
+- fact check everything after you make a plan
+- all ruff check
+- all ruff format line length 120
+- isort
+- pylint
+- pyscn from ludo-technologies, run check and observe the produced analysis output. successful tool usage does not mean free of errors.
+- and one python linter of your choice
+- and remove all manual reinventing the wheel output formatting, e.g. "="*60, manual space indent. replace them with existing wheels
+
+## Git commit message generation
+
+Generate a git commit message in the form of type(scope): description for this git diff.
+
+## Studying
+
+I am doing Assignment 3. I am brainstorming whether my idea is okay and correct. Whenever I say something, if you know it is workable and correct, do not give me the answer. Instead, tell me which page of the slides I should look at. If it is not correct, try to either point to slides that contain the same statement (e.g. “this is not workable, as we know ...”), if they exist, or simply respond with nothing. Do not give me a direct answer (although I can infer it from your response anyway). In all scenarios, if you can find a better way to teach me, you can ignore my instructions and do it your way instead. Use Google to find the best way to teach without offloading the assignment’s mental effort to AI.
+
+## AI Studio to WhatsApp
+
+Reformat your previous output verbatim but apply Whatsapp-compatible markdown formatting as they use different number of asterisks for bold/italic.
+
+## Explanation
+
+Can you explain it from first principles?
+
+## Web development
+
+Fact-check your build/website against best practices using various linters, formatters, and code complexity checkers in the JavaScript ecosystem, and fix all issues. Before you start, research available tools. After you complete your fact-check and fix all issues arising in your codebase, create a production-optimized build again and deliver the website in a zipped distribution/build folder so that the browser can open `index.html` and instantly view your output.
+
+Research the topic, what, why, when, where, how, and who, prior works, derivative works, ecosystem trends and technologies, etc.
+
+Research the best tech stack for building a website showcasing your research results on the topic. Then build the website using your researched and modernized tech stack.
+
+I want the technical, in-depth details. We already know there could be positive or negative implications. I need only certain answers. Do not guess. If you don't know, just say, "I cannot determine from the source," after you believe you have researched a substantial amount of material and found no clues.
