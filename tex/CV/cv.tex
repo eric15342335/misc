@@ -1,3 +1,4 @@
+%!TEX program = lualatex
 % for Inter font, run:
 % lualatex cv.tex
 \documentclass[a4paper,10pt]{article}
@@ -6,7 +7,6 @@
 \usepackage{iftex}
 
 % Common packages for both engines
-\usepackage[utf8]{inputenc}
 \usepackage{latexsym}
 \usepackage{titlesec}
 \usepackage{marvosym}
@@ -21,12 +21,22 @@
 \ifluatex
   \usepackage{fontspec}
   \defaultfontfeatures{Renderer=HarfBuzz}
-  \setmainfont{Inter}[
-    Path = {Inter/},
-    UprightFont = {Inter_24pt-Regular.ttf},
-    BoldFont = {Inter_24pt-Bold.ttf},
-    ItalicFont = {Inter_24pt-Italic.ttf},
-    BoldItalicFont = {Inter_24pt-BoldItalic.ttf}
+  % \setmainfont{Inter}[
+  %   Path = {Inter/},
+  %   UprightFont = {Inter_24pt-Regular.ttf},
+  %   BoldFont = {Inter_24pt-Bold.ttf},
+  %   ItalicFont = {Inter_24pt-Italic.ttf},
+  %   BoldItalicFont = {Inter_24pt-BoldItalic.ttf}
+  % ]
+  % Amazon Ember
+  \setmainfont{AmazonEmber}[
+    Path = {AmazonEmber/Ember/},
+    UprightFont = {AmazonEmber_Rg.ttf},
+    BoldFont = {AmazonEmber_Bd.ttf},
+    ItalicFont = {AmazonEmber_RgIt.ttf},
+    BoldItalicFont = {AmazonEmber_BdIt.ttf},
+    FontFace = {l}{n}{Font=AmazonEmber_Lt.ttf},
+    FontFace = {l}{it}{Font=AmazonEmber_LtIt.ttf}
   ]
 \else
   \usepackage[T1]{fontenc}
@@ -48,6 +58,9 @@
 
 % Define custom colors
 \definecolor{sectioncolor}{RGB}{0, 0, 0}
+
+% Fonts
+\DeclareTextFontCommand{\textlight}{\fontseries{l}\selectfont}
 
 % Page styling
 \pagestyle{fancy}
@@ -98,14 +111,14 @@
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
       \textbf{#1} & \small#2 \\
-      \textit{\small#3} & \textit{\small#4} \\
+      \textlight{\small#3} & \textlight{\small#4} \\
     \end{tabular*}\vspace{-6pt}
 }
 
 \newcommand{\resumeProjectHeading}[2]{
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
-      \small#1 & \textit{\small#2} \\
+      \textlight{\small#1} & \textlight{\small#2} \\
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -151,7 +164,7 @@
 \newcommand{\resumeRole}[2]{% Args: #1=Role Title, #2=Dates
   \item
     \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
-      \textit{\small#1} & \textit{\small#2} \\
+      \textlight{\small#1} & \textlight{\small#2} \\
     \end{tabular*}
 }
 
@@ -165,8 +178,8 @@
 
 %----------HEADING----------
 \begin{center}
-  \textbf{\Huge Cheng Ho Ming} \\ \vspace{3pt}
-  \small HKU BASc(AppliedAI) Penultimate Year Student \contactSep
+  \textbf{\Huge Cheng Ho Ming, Eric} \\ \vspace{3pt}
+  \small HKU BASc(AppliedAI) Incoming Final Year Student \contactSep
   %  \iconlink{\faEnvelope}{mailto:eric310@connect.hku.hk}{eric310@connect.hku.hk}
   %  \iconlink{\faPhone}{https://wa.me/85294998184}{+852 9499-8184} \\ \vspace{3pt}
   %  \iconlink{\faGlobe}{https://eric15342335.github.io/}{Website}
@@ -186,7 +199,8 @@
       {The University of Hong Kong}{}
       {Bachelor of Arts and Science in Applied Artificial Intelligence (BASc(AppliedAI))}{Sep 2023 -- Jul 2027 (Expected)}
       \resumeItemListStart
-        \resumeItem{\textbf{CGPA}: 3.52/4.30 \quad \textbf{Second Major}: Computer Science}
+        \resumeItem{\textbf{CGPA}: 3.62/4.30 (Expected First Class Honors) \quad \textbf{Second Major}: Computer Science}
+        \resumeItem{\textbf{Awards}: Dean's Honor List (2025-26), Endeavour Merit Award (2024-25, 2025-26)}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
@@ -194,12 +208,21 @@
 \section{Professional Experience}
   \resumeSubHeadingListStart
 
+    \begin{resumeExperience}{FWD Group Management Holdings Limited}{}
+      \resumeRole{Summer Intern, Finance Cloud Infrastructure and Operations Team, Group Technology Services}{Jun 2026 -- Current}
+        \resumeItemListStart
+          \resumeItem{Accelerating internal team adoption of AI automation tools by facilitating Agent Skills development and integration with existing cloud infrastructure.}
+          \resumeItem{Skills: Amazon Web Services, AIOps, Agent Skills}
+        \resumeItemListEnd
+    \end{resumeExperience}
+
     \begin{resumeExperience}{Radio Television Hong Kong (RTHK)}{}
       \resumeRole{Summer Intern, Engineering Section (Broadcast Systems), Production Services Division}{Jun 2025 -- Aug 2025}
         \resumeItemListStart
-          \resumeItem{Researched the feasibility of correcting Cantonese subtitle transcription errors with Jyutping and LLM based methods, and developed a demo system for internal evaluation, demonstrating a significant reduction in manual proofreading time through automated error detection.}
-          \resumeItem{Developed a Python based video post-processing tool using \textbf{OpenCV} and \textbf{MediaPipe} for a visitor workshop; enabled a one-button automated workflow to record, save, add effects, and playback, generating hundreds of unique showcase videos.}
-          \resumeItem{Researched and evaluated webcam-based motion capture tools for 3D model animation; selected and tested a free solution (System Animator) and validated 3D asset workflow (FBX to VRM conversion) using \textbf{Blender} and \textbf{Unreal Engine}.}
+          \resumeItem{Researched correction of Cantonese subtitle transcription errors with Jyutping and LLM based methods.}%, demonstrating a significant reduction in manual proofreading time through automated error detection.}
+          \resumeItem{Developed video post-processing tool with AI visual features using \textbf{MediaPipe} for a visitor workshop; enabled a one-button automated workflow to record, save, add effects, and playback, generating hundreds of unique showcase videos.}
+          \resumeItem{Skills: Automatic Speech Recognition, Motion Capture, Model Fine-Tuning, Computer Vision}
+          % \resumeItem{Researched and evaluated webcam-based motion capture tools for 3D model animation; selected and tested a free solution (System Animator) and validated 3D asset workflow (FBX to VRM conversion) using \textbf{Blender} and \textbf{Unreal Engine}.}
         \resumeItemListEnd
     \end{resumeExperience}
 
@@ -207,19 +230,22 @@
     %   \resumeRole{Part-Time, Student Research Assistant, Center of Applied English Studies}{May 2025 -- Jun 2025}
     %   \resumeItemListStart
     %     \resumeItem{Curated \textbf{200+ scientific articles} for a linguistic analysis chatbot under principal investigator Dr. Lisa Cheung.}
+    %     \resumeItem{Skills: Literature Review}
     %   \resumeItemListEnd
 
     %   \resumeRole{Part-Time, Student Teaching Assistant}{Jan 2025 -- Apr 2025}
     %   \resumeItemListStart
     %     \resumeItem{Provided targeted \textbf{C++/Linux support} in small-group sessions, clarifying complex topics like memory management and pointers.}
+    %     \resumeItem{Skills: Linux, C/C++ programming}
     %   \resumeItemListEnd
     % \end{resumeExperience}
 
     \begin{resumeExperience}{InspireLab Limited}{}
-      \resumeRole{Summer Intern, Embedded Software Development}{May 2024 -- Aug 2024}
+      \resumeRole{Summer Intern}{May 2024 -- Aug 2024}
       \resumeItemListStart
         \resumeItem{Engineered a \textbf{RISC-V} microcontroller STEM toolkit, integrating 5+ open-source libraries and controlling over \textbf{64+ I/O components}.}
-        \resumeItem{Developed a C-based, API-level hardware simulator to decouple software from hardware, enabling rapid parallel testing and iteration.}
+        % \resumeItem{Developed a C-based, API-level hardware simulator to decouple software from hardware, enabling rapid parallel testing and iteration.}
+        \resumeItem{Skills: Embedded Software Programming, RISC-V, Assembly Code, C/C++ Build System}
       \resumeItemListEnd
     \end{resumeExperience}
 
@@ -229,12 +255,21 @@
 \section{Project Experience}
   \resumeSubHeadingListStart
     \resumeProjectHeading
+      {\textbf{Nocodile AI (Student Interest Group, AI Education Initiative)}}
+      {Feb 2026 -- Current}
+      \resumeItemListStart
+        \resumeItem{Developing backend automated scalable AI training infrastructure on Azure Container Apps with A100 Serverless GPU.}
+        \resumeItem{Skills: Azure Container Apps, Serverless GPU Inference, Object Detection}
+    \resumeItemListEnd
+
+    \resumeProjectHeading
       {\textbf{30-Day All-Cause Hospital Readmission Prediction with MIMIC-IV (Group Project)}}
       {Oct 2025 -- Dec 2025}
       \resumeItemListStart
-        \resumeItem{Applied \textbf{advanced machine learning techniques} (Stacked Generalization, Automatic Machine Learning, ModernBERT LoRA fine-tuning, Natural Language Processing, LightGBM/XGBoost/CatBoost, feature engineering), achieving \textbf{10\% improvement} in AUROC over baseline models.}
-        \resumeItem{Identified and reported critical \textbf{future data leakage} in the dataset that artificially inflated AUROC to 0.95, demonstrated how such flaws lead to over-optimistic models that fail in clinical production.}
-        \resumeItem{Secured \textbf{1st Place} on the Kaggle Public Leaderboard by identifying and exploiting data patterns, subsequently leading to a change of competition rules and dataset cleaning.}
+        \resumeItem{Applied \textbf{advanced machine learning techniques} (Stacked Generalization, Automatic Machine Learning, ModernBERT LoRA fine-tuning), achieving \textbf{10\% improvement} in AUROC over baseline models.}
+        \resumeItem{Identified and reported \textbf{future data leakage} in the dataset that inflated AUROC to 0.95, demonstrated how such flaws lead to over-optimistic models that fail in clinical production.}
+        % \resumeItem{Secured \textbf{1st Place} on the Kaggle Public Leaderboard by identifying and exploiting data patterns, subsequently leading to a change of competition rules and dataset cleaning.}
+        \resumeItem{Skills: Advanced Machine Learning, Data Leakage, Data Analysis and Visualization, Model Fine-Tuning, Feature Engineering}
       \resumeItemListEnd
 
     \resumeProjectHeading
@@ -242,41 +277,45 @@
       {July 2025 -- Aug 2025}
       \resumeItemListStart
         \resumeItem{Developed a static website for a student organization using \textbf{Next.js}, shadcn/ui, Tailwind CSS, and deployed on Vercel.}
-      \resumeItemListEnd
+        \resumeItem{Skills: Next.js, Tailwind CSS, Frontend Design, Vercel, SEO, User Experience}
+    \resumeItemListEnd
 
   \resumeProjectHeading
     {\textbf{Reproducing RealFill (a research paper on SIGGRAPH 2024)}}% \icononlylink{\faGithub}{https://github.com/eric15342335/realfill}} 
     {Mar 2025 -- May 2025}
     \resumeItemListStart
-      \resumeItem{Implemented and benchmarked a custom two-stage process on original RealFill pipeline based on LoFTR keypoint matching to improve Stable Diffusion inpainting authenticity by filtering output samples and treat them as pseudo-ground truth.}
+      \resumeItem{Implemented and benchmarked a custom two-stage process on original RealFill pipeline, based on LoFTR keypoint matching, improving generation authenticity by filtering output samples and treat them as pseudo-ground truth.}
+      \resumeItem{Skills: Research Paper Reproduction, Benchmark Automation, Image Generation and Inpainting, Synthetic Data}
     \resumeItemListEnd
 
   \resumeProjectHeading
     {\textbf{Stock Market Simulator (Group Project)}}% \icononlylink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}}
     {Apr 2024}
     \resumeItemListStart
-      \resumeItem{Led a team of 5 in \textbf{oversighting Software Development Life Cycle} for a C++ terminal-based game course project.}
       \resumeItem{\textbf{Reduced time-to-market and developer friction} by implementing CI/CD pipelines on 3 platforms using GitHub Actions, automating compilation and code checks for all pull requests.}
+      \resumeItem{Skills: CI/CD, GitHub Actions, C/C++ programming, Build Systems (CMake, Makefile), Cross-platform Development}
     \resumeItemListEnd
 
   \resumeProjectHeading
     {\textbf{PyInstaller (Open Source Development)}}% \icononlylink{\faGithub}{https://github.com/pyinstaller/}}
     {Jul 2021 -- Nov 2021}
     \resumeItemListStart
-      \resumeItem{Contributed \textbf{15+} custom PyInstaller hooks, all merged and adopted upstream in 2021, improving library compatibility and developer experience.}
+      % \resumeItem{Contributed \textbf{15+} custom PyInstaller hooks, all merged and adopted upstream in 2021, improving library compatibility and developer experience.}
+      \resumeItem{Skills: Git, GitHub, Open-source Development, Python Packaging}
     \resumeItemListEnd
 
   \resumeSubHeadingListEnd
 
 %-----------SKILLS-----------
-\section{Skills}
+\section{Misc}
   \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
       \textbf{Languages}{: Native Cantonese, Fluent Mandarin and English} \\[2pt]
-      \textbf{Programming}{: Python, C/C++, Java, MySQL, MongoDB} \\[2pt]
-      \textbf{Web Development}{: React.js, Next.js, Express.js, Tailwind CSS} \\[2pt]
-      \textbf{Tools}{: Linux, Git, CI/CD (GitHub Actions), Docker, Cloud Computing (Google Cloud Platform (GCP), Digital Ocean), \LaTeX} \\[2pt]
-      \textbf{Interests}{: Computer Vision, Large Language Models, Model Inference and Deployment, Computer Networks and Security, Cloud Computing, Agentic Workflow Automation}
+      % \textbf{Programming}{: Python, C/C++, Java, MySQL, MongoDB} \\[2pt]
+      % \textbf{Web Development}{: React.js, Next.js, Express.js} \\[2pt]
+      % \textbf{Tools}{: Linux, Git, CI/CD (GitHub Actions), Docker, Cloud Computing (AWS, Azure, GCP, DigitalOcean), \LaTeX} \\[2pt]
+      \textbf{Interests}{: Computer Vision, Model Deployment, Computer Networks and Security, Cloud Computing, Agentic Workflow Automation} \\[2pt]
+      \textbf{Courses}{: Algorithm Design and Analysis (A), Computer Networks (A+), Deep Learning (A+), CUDA Programming (A+), AI Agents (A+), Web Development (A+), Python (A+)}
     }}
   \end{itemize}
 
