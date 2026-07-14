@@ -56,23 +56,6 @@ Analyze and visualize the results by writing python data science code (do not wr
 
 If at any step you are unsure about something and cannot find a solution online, do not attempt to guess the answer using "common sense" or logical reasoning. If you do not know, simply say you do not know, stop, and wait for further instructions.
 
-Requirements
-
-- Python 3.12+. All legacy code support should be removed entirely.
-- Rich for progress bar and ETA
-- Modern libraries, e.g. FastAPI, pydantic, dataclass, for best in class performance, reliability, edge case handling, maintainability and scalability
-- Omit all unnecessary comments in code
-- Omit "# --- CONFIG ---" (hyphen) comments in code
-- Avoid using unicode characters in code. Focus on ASCII. This means no emojis.
-- fact check everything after you make a plan
-- all ruff check
-- all ruff format line length 120
-- isort
-- pylint
-- pyscn from ludo-technologies, run check and observe the produced analysis output. successful tool usage does not mean free of errors.
-- and one python linter of your choice
-- and remove all manual reinventing the wheel output formatting, e.g. "="*60, manual space indent. replace them with existing wheels
-
 ## Git commit message generation
 
 Generate a git commit message in the form of type(scope): description for this git diff.

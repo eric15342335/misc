@@ -1,0 +1,1 @@
+Spend at least [N minutes] actively working on this task before giving the final answer. Count only productive task work, not idle time, waiting, sleep commands, artificial delays, or time spent merely keeping a timer running. Use timing utilities only to measure elapsed time, and briefly report how you measured it.

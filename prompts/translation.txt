@@ -1,0 +1,28 @@
+==
+
+First, research online about "How to translate from English to Persian?". Perform multiple steps: first locate popular translation guides, forums, Wikis, courses names, then dive deep into the content.
+
+Second, translate into native Persian verbatim after minimally rephrasing the text to fix grammar issues, but do not change the punctuation. You only need to deliver the final translated quote in a code block.:
+
+==
+
+First, research online about "How to translate from English to Russian language?". Perform multiple steps: first locate popular translation guides, forums, Wikis, courses names, then dive deep into the content.
+
+Second, translate into native Russian verbatim after minimally rephrasing the text to fix grammar issues, but do not change the punctuation. You only need to deliver the final translated quote in a code block.:
+
+===
+
+Which translation is better?
+
+<1>
+</1>
+
+<source>
+
+</source>
+
+<2>
+</2>
+
+<3>
+</3>
