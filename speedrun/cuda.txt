@@ -1,0 +1,4 @@
+"C:\Users\123er\.vscode\extensions\ms-vscode.cpptools-1.32.2-win32-x64\LLVM\bin\clang-format.exe" find_uuid.cu -i
+
+nvcc -O3 -std=c++17 -arch=sm_75 find_uuid.cu -o cuda.exe
+time ./cuda eb366895 ae8fe550
