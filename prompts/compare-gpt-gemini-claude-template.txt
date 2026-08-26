@@ -1,0 +1,21 @@
+Compare the responses.
+
+<chatgpt>
+</chatgpt>
+<gemini-pro>
+</gemini-pro>
+<gemini-flash>
+</gemini-flash>
+<claude>
+</claude>
+
+FYI, ChatGPT uses GPT-5.6 Sol High. Claude uses Sonnet 5 Extra. Gemini Pro refers to Gemini 3.1 Pro Preview. Gemini Flash refers to Gemini 3.7 Flash GA.
+
+Please:
+* Compare the responses' factual accuracy if there is an objective ground truth
+* Compare the response quality
+* Compare the instruction-following capability of the models
+* Compare the output naturalness and conversational warmth of the model responses, especially whether they sound human-written or less robotic
+* Compare whether the prompt and respective model responses successfully reflect the current benchmarks of all these models in the relevant domains, e.g. conversation, understanding human feelings, nuances, etc.
+
+Research comprehensively, evaluate rigorously, and ensure reproducibility.
