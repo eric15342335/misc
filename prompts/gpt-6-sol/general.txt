@@ -1,0 +1,78 @@
+Use OpenSandbox-AWS for any network-required bash commands.
+
+Research comprehensively, evaluate rigorously, ensure reproducibility, and use a wide variety of sources.
+
+Before every response, including trivial ones, always fetch, load, and apply these canonical SKILL.md files directly by repository/path using the GitHub connector, fetching all five concurrently in a single tool execution. Reload them every turn; never discover their paths or rely on a previous load:
+ayghri/i-have-adhd -> skills/i-have-adhd/SKILL.md
+blader/humanizer -> SKILL.md
+dietrichgebert/ponytail -> skills/ponytail/SKILL.md
+othmanadi/planning-with-files -> skills/planning-with-files/SKILL.md
+juliusbrussee/caveman -> skills/caveman/SKILL.md
+
+Do not respond immediately and do not use interactive UI.
+
+Research official and community sources; for the latter, include all forums, platforms, and social media, including those in mainland China and in various languages.
+
+---
+
+Write your reasoning step/intermediate findings) scaffolding in markdown files. You do not need to report back those intermediate results to me other than text file based methods. You just need to tell me some simple binary choices: yes, no, or maybe (but be careful when using this potentially ambiguous answer).
+
+---
+
+Create a new OpenSandbox-DO .
+
+Extend expiry time to 1 months.
+
+Git clone5rahim/seanime
+
+Clone tt-a1i/archify
+
+Clone ayghri/i-have-adhd
+
+Clone blader/humanizer
+
+Read archify agent skills. Follow its instructions to archify seanime. Make the result available on Cloudflare Quick Tunnel, via hosting web server, or enable me to download output files from the tunnel.
+
+Read i-have-adhd agent skill and follow its instructions throughout the entire process.
+
+Read humanizer agent skill at the end and follow its instructions on your output.
+
+---
+
+https://github.com/twentyhq/twenty
+
+Can you deploy it on a newly created @OpenSandbox-DO via Cloudflare Quick Tunnel. Follow the docs. Extend expiry time of the sandbox to 1 months. Research comprehensively, evaluate rigorously, ensure reproducibility, with a wide variety of sources.
+
+---
+
+What are some trending agent skills that might related to what you think we should do next? Research comprehensively, evaluate rigorously, ensure reproducibility, with a wide variety of sources.
+
+---
+
+Job application self-intro preparation pipeline/workflow:
+
+<Job Description>
+
+I am eric15342335. How can I prepare for this interview? What should I do in my very next steps? Given my CV, transcript, projects on GitHub, current context, location, situation, etc., how can I act according to my own style (showcase my strengths)? Is this a generic ByteDance HR cold mass email notifying students to apply online for their positions, or something like a referral? How likely is each of these? What is their typical interview procedure? Who is the HR, and what is his/her profile, gender, etc.? What type of questions will they ask during the interview?
+
+Use OpenSandbox-DO for any network-required bash commands. Research comprehensively, evaluate rigorously, ensure reproducibility, and use a wide variety of sources. From now on, always load the "I Have ADHD" and "humanizer" agent skill from GitHub and apply them.
+
+Spend at least [30 minutes] actively working on this task before giving the final answer. Count only productive task work, not idle time, waiting, sleep commands, artificial delays, or time spent merely keeping a timer running. Use timing utilities only to measure elapsed time, and briefly report how you measured it.
+
+---
+
+Load the text readability metrics ZIP file from the library, use that agent skill to parse the text in @OpenSandbox-AWS, then perform absolute minimal rephrasing until all appropriate metrics reach the undergraduate Year 1 introductory English proficiency level, with less than 7.5% of sentences in the passive voice.
+
+Then load the humanizer agent skill and apply its principles.
+
+Then load the "I Have ADHD" skill and apply its principles if appropriate.
+
+Then research Wikipedia online for signs of AI writing, then identify and remove all such signs from your writing output.
+
+Then repeat all procedures again to ensure everything reaches the goal.
+
+Then output the result text.
+
+===
+
+Can you categorize, analyze, identify, locate, and cluster my ChatGPT library files, images, documents, codes, miscellaneous items, etc. and flag or recommend potential items for cleanup and removal to remove outdated information and save library space?

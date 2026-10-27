@@ -1,0 +1,31 @@
+Plan:
+
+/compact
+
+then
+
+Load the ponytail agent skill and review your diff.
+
+I've noticed some areas with potentially overly verbose code, comments, or suboptimal implementations:
+
+- Overly verbose code or unnecessary abstractions.
+- Overly verbose or redundant comments.
+- Large, uninterrupted blocks of code that could benefit from blank lines separating logically distinct stages for better readability.
+
+For all the code we've changed, I want you to:
+
+- **Modernize the code** using syntactic sugar and modern Python features where appropriate. Check our Python version and research newer features online if needed.
+- **Run appropriate linting, formatting, type-checking, and code-quality tools**, and inspect their findings.
+  - Follow the project's existing rules and configurations where available. Otherwise, select suitable tools at your discretion.
+  - Consider Ruff (including import sorting), mypy, pylint, `pyscn check`, etc. Avoid redundant tooling.
+  - For `pyscn check`, inspect the actual report rather than relying solely on its exit code.
+  - Focus fixes on our diff, not unrelated pre-existing issues.
+- **Apply improvements autonomously and selectively.** Avoid unnecessary refactoring or abstractions.
+
+Ensure the cleaned-up implementation remains reproducible and preserves the pre-cleanup version's outputs, behavior, results, and performance.
+
+- Minor variations due to nondeterminism (e.g., unpinned seeds or hashes) are acceptable. Update the report if any reported results change.
+- You may change the code logic or design patterns where justified, provided all assignment requirements remain satisfied. Preserve explicitly required functions and interfaces (e.g., never rename or inline a function provided by the assignment merely for code-quality improvements).
+- Run relevant tests and compare against the available pre-cleanup baseline.
+
+Complete the cleanup autonomously. Briefly summarize the improvements, verification results, and any remaining issues.

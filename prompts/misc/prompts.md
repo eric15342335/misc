@@ -1,9 +1,5 @@
 # Collection of Prompts
 
-## Side note
-
-2026 Update: I heard <https://clawhub.ai/> has a collection of good prompts that might be useful for many different use cases.
-
 ### Fix grammar
 
 Please fix the grammar for the following enclosed text. No rephrasing, change of word usage, change of sentence structure, or alteration of the original sentence meaning is allowed. You are only allowed to make minor, aesthetic, non-content-meaning-altering changes, such as fixing typos, adding pronouns, connectives, punctuation, and other filler changes. You must preserve the original text format and structure.
