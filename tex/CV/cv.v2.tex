@@ -1,0 +1,355 @@
+%!TEX program = lualatex
+% for Inter font, run:
+% lualatex cv.tex
+\documentclass[a4paper,10pt]{article}
+
+% At the beginning of your document, after the document class
+\usepackage{iftex}
+
+% Common packages for both engines
+\usepackage{latexsym}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem} % Must be loaded before defining new lists
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{xcolor}
+
+% Engine-specific font setup
+\ifluatex
+  \usepackage{fontspec}
+  \defaultfontfeatures{Renderer=HarfBuzz}
+  % \setmainfont{Inter}[
+  %   Path = {Inter/},
+  %   UprightFont = {Inter_24pt-Regular.ttf},
+  %   BoldFont = {Inter_24pt-Bold.ttf},
+  %   ItalicFont = {Inter_24pt-Italic.ttf},
+  %   BoldItalicFont = {Inter_24pt-BoldItalic.ttf}
+  % ]
+  % Amazon Ember
+  \setmainfont{AmazonEmber}[
+    Path = {AmazonEmber/Ember/},
+    UprightFont = {AmazonEmber_Rg.ttf},
+    BoldFont = {AmazonEmber_Bd.ttf},
+    ItalicFont = {AmazonEmber_RgIt.ttf},
+    BoldItalicFont = {AmazonEmber_BdIt.ttf},
+    FontFace = {l}{n}{Font=AmazonEmber_Lt.ttf},
+    FontFace = {l}{it}{Font=AmazonEmber_LtIt.ttf}
+  ]
+\else
+  \usepackage[T1]{fontenc}
+  \usepackage{lmodern}
+  \usepackage{newtxtext,newtxmath}
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+
+\usepackage{microtype}
+
+% Rest of your packages
+\usepackage[hidelinks]{hyperref}
+\usepackage{bookmark}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage[margin=0.27in]{geometry}
+\usepackage{url}
+
+% Define custom colors
+\definecolor{sectioncolor}{RGB}{0, 0, 0}
+
+% Fonts
+\DeclareTextFontCommand{\textlight}{\fontseries{l}\selectfont}
+
+% Page styling
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\footskip}{14pt}
+
+% Hyperref setup
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=black,
+  pdfborderstyle={/S/U/W 0},
+  allbordercolors=white,
+  pdfauthor={Cheng Ho Ming},
+  pdftitle={Cheng Ho Ming - CV},
+  pdfsubject={Professional CV},
+  pdfcreator={LaTeX with hyperref package},
+  pdfkeywords={CV, Cheng Ho Ming}
+}
+
+\urlstyle{same}
+
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-6pt}\large\bfseries\color{sectioncolor}
+}{}{0em}{}[\color{black}\titlerule \vspace{-2pt}]
+
+% Custom icons with links and standalone icons
+\newcommand{\iconlink}[3]{
+  \href{#2}{#1~#3}
+}
+\newcommand{\icononlylink}[2]{
+  \href{#2}{#1}
+}
+
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{#1}
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
+      \textbf{#1} & \small#2 \\
+      \textlight{\small#3} & \textlight{\small#4} \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
+      \textlight{\small#1} & \textlight{\small#2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}, itemsep=1pt]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\newcommand{\resumeItemListStart}{
+  \begin{itemize}[
+    leftmargin=0.2in,
+    rightmargin=0.2in,
+    itemindent=0pt,
+    labelsep=0.1in,
+    itemsep=1pt,
+    parsep=0pt,
+    topsep=3pt,
+    label={\raisebox{2pt}{\tiny$\bullet$}}
+  ]
+}
+\newcommand{\resumeItemListEnd}{\end{itemize}}
+
+\newlist{resumeRoleList}{itemize}{1}
+\setlist[resumeRoleList]{
+  label={},
+  leftmargin=0in,
+  itemsep=1pt,
+  parsep=0pt,
+  topsep=3pt,
+  partopsep=0pt
+}
+
+\newenvironment{resumeExperience}[2]{% Args: #1=Institution, #2=Location
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
+      \textbf{#1} & \small#2 \\
+    \end{tabular*}\vspace{-7pt}%
+    \begin{resumeRoleList}%
+}{%
+    \end{resumeRoleList}%
+}
+
+\newcommand{\resumeRole}[2]{% Args: #1=Role Title, #2=Dates
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{@{}l@{\extracolsep{\fill}}r@{}}
+      \textlight{\small#1} & \textlight{\small#2} \\
+    \end{tabular*}
+}
+
+\newcommand{\contactSep}{\hspace{0.3em}$\bullet$\hspace{0.45em}}
+
+\begin{document}
+
+\begin{center}
+  \textbf{\Huge Cheng Ho Ming, Eric} \\ \vspace{3pt}
+  %  \iconlink{\faEnvelope}{mailto:eric310@connect.hku.hk}{eric310@connect.hku.hk}
+  %  \iconlink{\faPhone}{https://wa.me/85294998184}{+852 9499-8184} \\ \vspace{3pt}
+  %  \iconlink{\faGlobe}{https://eric15342335.github.io/}{Website}
+  %  \iconlink{\faLinkedin}{https://linkedin.com/in/eric15342335}{eric15342335}
+  %  \iconlink{\faGithub}{https://github.com/eric15342335}{eric15342335}
+  \small Final-Year Applied AI Student \contactSep Cloud \& AI Infrastructure \contactSep
+  \href{mailto:123erichappy123@gmail.com}{123erichappy123@gmail.com} \\
+  \href{https://eric15342335.github.io/}{eric15342335.github.io} \contactSep
+  \href{https://github.com/eric15342335}{GitHub: eric15342335} \contactSep
+  Kaggle: eric15342335
+  % Phone: +852-94998184 \\ \vspace{3pt}
+\end{center}
+
+\section{Summary}
+  \resumeSubHeadingListStart
+    \resumeItem{Eric is a final-year Applied AI student at HKU with a second major in Computer Science and experience in cloud infrastructure and AI deployment. He uses AI agents to accelerate implementation while applying engineering judgment to problem selection, technology choices, code quality, testing, and deployment. He values craftsmanship and reliable results.}
+  \resumeSubHeadingListEnd
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {The University of Hong Kong}{}
+      {Bachelor of Arts and Science in Applied Artificial Intelligence (BASc(AppliedAI))}{Sep 2023 -- Jul 2027}
+      \resumeItemListStart
+        \resumeItem{\textbf{Honours}: First Class; \textbf{Second Major}: Computer Science}
+        \resumeItem{\textbf{Awards}: Dean's Honour List (2025--26), Endeavour Merit Award (2024--25, 2025--26)}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Fudan University, Shanghai, China}{}
+      {Exchange Student in Computer Science and Technology}{Sep 2026 -- Jan 2027}
+      \resumeItemListStart
+        \resumeItem{Deploying frontier LLMs, including DeepSeek-v4-Flash and GLM-5.3-Flash, on non-CUDA HPC GPUs using vLLM Tensor Parallelism.}
+        \resumeItem{Building a dormitory homelab with software routers, DNS, and gateways; using split tunneling and gateway filtering for concurrent campus and homelab VPN access.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\section{Skills and Certifications}
+  \begin{itemize}[
+      leftmargin=0.15in,
+      rightmargin=0.15in,
+      itemindent=0pt,
+      labelsep=0.1in,
+      itemsep=0pt,
+      parsep=0pt,
+      topsep=2pt,
+      label={}
+    ]
+    \small{\item{
+      \textbf{Languages}{: Native Cantonese, fluent English and Mandarin.} \\[1pt]
+      \textbf{Programming}{: Python, C/C++, Java, SQL, TypeScript, Bash, PowerShell} \\[1pt]
+      \textbf{Full Stack Development}{: React.js, Next.js, Express.js, shadcn/ui, Tailwind CSS, MySQL, MongoDB, PHP} \\[1pt]
+      \textbf{DevOps}{: GitHub Actions, CI/CD, Docker Compose, cloud-init, Linux, Nginx} \\[1pt]
+      \textbf{AI/Agents}{: Agent Skills, MCP, GraphRAG, PyTorch, pandas, scikit-learn, AutoML (AutoGluon), LoRA, OpenCV, Codex, Claude Code} \\[1pt]
+      \textbf{Cloud Computing}{: AWS, Azure, DigitalOcean, Cloudflare, Vercel} \\[1pt]
+      \textbf{Certifications}{: AWS Certified AI Practitioner (Jul 2026), Cloud Practitioner (Aug 2026)}
+    }}
+  \end{itemize}
+
+\section{Professional Experience}
+  \resumeSubHeadingListStart
+    \begin{resumeExperience}{FWD Group Management Holdings Limited}{}
+      \resumeRole{Summer Intern, Finance Cloud Infrastructure and Operations, Group Technology Services}{Jun 2026 -- Aug 2026}
+      \resumeItemListStart
+        \resumeItem{Assisted with \textbf{AWS} cost optimization and resource housekeeping across \textbf{Amazon WorkSpaces} and \textbf{FSx for NetApp ONTAP}.}
+        \resumeItem{Automated WorkSpaces inventory reporting and cost allocation workflows using \textbf{CloudWatch}, \textbf{EventBridge}, \textbf{S3}, and \textbf{Lambda}.}
+        \resumeItem{Addressed limited native FSx for NetApp ONTAP metrics by combining data from its \textbf{REST API} with \textbf{CloudWatch}; designed and documented the observability architecture.}
+        \resumeItem{Supported product-manager training on internal AI agent tooling (Skills, MCP).}
+      \resumeItemListEnd
+    \end{resumeExperience}
+
+    \begin{resumeExperience}{Radio Television Hong Kong (RTHK)}{}
+      \resumeRole{Summer Intern, Engineering Section (Broadcast Systems), Production Services Division}{Jun 2025 -- Aug 2025}
+      \resumeItemListStart
+        \resumeItem{Gained practical experience with Cantonese automatic speech recognition and object localization models.}
+          % \resumeItem{Researched correction of Cantonese subtitle transcription errors with Jyutping and LLM-based methods.}%, demonstrating a significant reduction in manual proofreading time through automated error detection.}
+          % \resumeItem{Developed video post-processing tool with AI visual features using \textbf{MediaPipe} for a visitor workshop; enabled a one-button automated workflow to record, save, add effects, and playback, generating hundreds of unique showcase videos.}
+          % \resumeItem{Skills: Automatic Speech Recognition, Motion Capture, Computer Vision}
+          % \resumeItem{Researched and evaluated webcam-based motion capture tools for 3D model animation; selected and tested a free solution (System Animator) and validated 3D asset workflow (FBX to VRM conversion) using \textbf{Blender} and \textbf{Unreal Engine}.}
+      \resumeItemListEnd
+    \end{resumeExperience}
+
+    %\begin{resumeExperience}{The University of Hong Kong}{}
+    %  \resumeRole{Part-Time Student Research Assistant, Center of Applied English Studies}{May 2025 -- Jun 2025}
+    %  \resumeItemListStart
+    %    \resumeItem{Performed a literature review of publications across various AI domains.}
+        % \resumeItem{Curated \textbf{200+ scientific articles} for a linguistic analysis chatbot under principal investigator Dr. Lisa Cheung.}
+        % \resumeItem{Skills: Literature Review}
+    %  \resumeItemListEnd
+    %  \resumeRole{Part-Time Student Teaching Assistant}{Jan 2025 -- Apr 2025}
+    %  \resumeItemListStart
+    %    \resumeItem{Conducted C/C++ programming tutorials.}
+    %     \resumeItem{Provided targeted \textbf{C++/Linux support} in small-group sessions, clarifying complex topics like memory management and pointers.}
+    %     \resumeItem{Skills: Linux, C/C++ programming}
+    %  \resumeItemListEnd
+    %\end{resumeExperience}
+
+    \begin{resumeExperience}{InspireLab Limited}{}
+      \resumeRole{Summer Intern, Embedded Software}{May 2024 -- Aug 2024}
+      \resumeItemListStart
+        \resumeItem{Deployed MNIST-trained neural networks on low-cost, resource-constrained RISC-V embedded devices.}
+        % \resumeItem{Engineered a \textbf{RISC-V} microcontroller STEM toolkit, integrating 5+ open-source libraries and controlling over \textbf{64+ I/O components}.}
+        % \resumeItem{Developed a C-based, API-level hardware simulator to decouple software from hardware, enabling rapid parallel testing and iteration.}
+        % \resumeItem{Skills: Embedded Software Programming, RISC-V, Assembly Code, C/C++ Build Systems}
+      \resumeItemListEnd
+    \end{resumeExperience}
+  \resumeSubHeadingListEnd
+
+\section{Project Experience}
+  \resumeSubHeadingListStart
+    \resumeProjectHeading
+      {\textbf{AI Team Member, Nocodile AI}}
+      {Feb 2026 -- Present}
+      \resumeItemListStart
+        \resumeItem{Developing a containerized, no-code YOLO object detection training pipeline on Azure A100 (80 GB) GPUs.}
+        % \resumeItem{Developing backend automated scalable AI training infrastructure on \textbf{Azure Container Apps} with serverless A100 GPU.}
+        % \resumeItem{Skills: Azure (Container Apps Jobs, Log Analytics Workspace, Container Registry), Object Detection (YOLO), Edge Model Deployment, Docker}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{HKU Graduate Employment Survey RAG Agentic Chatbot (Group Project)}}
+      {Apr 2026 -- May 2026}
+      \resumeItemListStart
+        \resumeItem{Built an end-to-end agentic chatbot using curated HKU salary and degree data, GraphRAG retrieval, and agent-based reasoning to answer students' career questions.}
+        % \resumeItem{Delivered a \textbf{no-code agentic chatbot} capable of answering \textbf{open-ended} employment data analysis and visualization queries through research loops and \textbf{Retrieval-Augmented Generation} on hundreds of \textbf{multimodal} PDFs.}
+        % \resumeItem{Skills: GraphRAG, Tool Use, Agent Skills, Harness Engineering}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{30-Day All-Cause Hospital Readmission Prediction with MIMIC-IV (Group Project)}}
+      {Oct 2025 -- Dec 2025}
+      \resumeItemListStart
+        % \resumeItem{Applied \textbf{advanced machine learning techniques} (Stacked Generalization, Automatic Machine Learning, ModernBERT LoRA fine-tuning), achieving 10\% improvement in AUROC over baseline models.}
+        \resumeItem{Investigated future-data leakage flagged by SHAP analysis, narrowed it to a specific feature, and used exploratory data analysis to explain its effect on test-set predictions; explored LSTM/GRU, ModernBERT, and LoRA.}
+        % \resumeItem{Secured \textbf{1st Place} on the Kaggle Public Leaderboard by identifying and exploiting data patterns, subsequently leading to a change of competition rules and dataset cleaning.}
+        % \resumeItem{Skills: AutoML, Data Leakage, Data Analysis and Visualization, Model Fine-Tuning, Feature Engineering}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{alphahku.vercel.app}}% \icononlylink{\faGlobe}{https://alphahku.page} \icononlylink{\faGithub}{https://github.com/ALPHA-HKU-Org/website}}
+      {Jul 2025 -- Aug 2025}
+      \resumeItemListStart
+        \resumeItem{Developed a student organization website with Next.js, shadcn/ui, Tailwind CSS, and Vercel; applied CI/CD practices.}
+        % \resumeItem{Developed a static website for a student organization using \textbf{Next.js}, shadcn/ui, Tailwind CSS, and deployed on Vercel.}
+        % \resumeItem{Skills: Next.js, Tailwind CSS, TypeScript, Frontend Design, Vercel, SEO, UX}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{Reproducing RealFill (SIGGRAPH 2024)}}% \icononlylink{\faGithub}{https://github.com/eric15342335/realfill}}
+      {Mar 2025 -- May 2025}
+      \resumeItemListStart
+        \resumeItem{Automated model fine-tuning, inference, and benchmarking in a Google Colab notebook; applied MLOps practices.}
+  %     \resumeItem{Implemented and benchmarked a custom two-stage process on original RealFill pipeline, based on LoFTR keypoint matching, improving generation authenticity by filtering output samples and treat them as pseudo-ground truth.}
+      % \resumeItem{Skills: Research Paper Reproduction, Benchmark Automation, Image Generation and Inpainting, Synthetic Data}
+      \resumeItemListEnd
+
+  % \resumeProjectHeading
+  %   {\textbf{Stock Market Simulator (Group Project)}}% \icononlylink{\faGithub}{https://github.com/eric15342335/comp2113-engg1340-group-project}}
+  %   {Apr 2024}
+  %   \resumeItemListStart
+  %     \resumeItem{\textbf{Reduced time-to-market and developer friction} by implementing CI/CD pipelines on 3 platforms using GitHub Actions, automating compilation and code checks for all pull requests.}
+  %     \resumeItem{Skills: CI/CD, GitHub Actions, C/C++ programming, Build Systems (CMake, Makefile), Cross-platform Development}
+  %   \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{PyInstaller (Open Source Development, 13.1k stars)}}% \icononlylink{\faGithub}{https://github.com/pyinstaller/}}
+      {Jul 2021 -- Nov 2021}
+      \resumeItemListStart
+        \resumeItem{Improved compatibility with third-party libraries by contributing custom PyInstaller hooks.}
+      % \resumeItem{Contributed \textbf{15+} custom PyInstaller hooks, all merged and adopted upstream in 2021, improving library compatibility and developer experience.}
+    %   \resumeItem{Skills: Git, GitHub, Open-source Development, Python Packaging}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+% \vfill
+% \begin{center}
+% \footnotesize
+% Last updated: \today
+% \end{center}
+
+\end{document}
